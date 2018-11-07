@@ -79,10 +79,10 @@
 // @grant        GM_getResourceText
 //
 //
-/******************************************************************************
- * MastdonInstanceTicker.user.js                                              *
- * https://github.com/weepjp/MastodonInstanceTicker/user.js                   *
- ******************************************************************************/
+/**********************************************************************************
+ * MastdonInstanceTicker.user.js                                                  *
+ * https://github.com/weepjp/MastodonInstanceTicker/MastdonInstanceTicker.user.js *
+ *********************************************************************************/
 //
 // ==/UserScript==
 
