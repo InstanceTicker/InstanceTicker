@@ -57,10 +57,9 @@
 - 少しずつ覚えていきますので、お手柔らかにお願いします。
 
 ## ライセンス - Licence
-
-- [MIT License](https://opensource.org/licenses/mit-license.php)
 - ORIGINAL CSS © [小田急don](https://odakyu.app/about): [kyori19](https://github.com/kyori19)
 - #InstanceTicker 2018 © [weep.me](https://weep.me/about): [weepjp](https://github.com/weepjp)
+- Released under the [MIT License](https://opensource.org/licenses/mit-license.php)
 
 ## 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
