@@ -1,6 +1,7 @@
 MIT License
 - ORIGINAL CSS: Copyright © 2018 [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
 - #InstanceTicker 2018 © [weep.me](https://weep.me/about) ( [weepjp](https://github.com/weepjp) )
+
 Released under the [MIT License](https://opensource.org/licenses/MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
