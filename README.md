@@ -34,9 +34,9 @@
 ※CSP (Content-Security-Policy) の対策ができない環境の方（masto.host や hostdon.jp 等の「ホスティング型」など）用。
 ※随時手動でコピペして更新する必要がありますが、この方法は確実に導入できます（おいらのCDN鯖が落ちても安心）。
 - 通常版
-[こちらのページからコードをコピペできます](https://cdn.weep.me/mastodon/html)
+-- [こちらのページからコードをコピペできます](https://cdn.weep.me/mastodon/css/html)
 - 軽量版
-[こちらのページからコードをコピペできます](https://cdn.weep.me/mastodon/lite.html)
+-- [こちらのページからコードをコピペできます](https://cdn.weep.me/mastodon/css/lite.html)
 
 #### ＜style＞～＜/style＞に CSS を入れる場合
 ※Mastodon Version 2.6.0 以降からは、 CSP (Content-Security-Policy) が導入されたため、その辺の対策が必須です。
