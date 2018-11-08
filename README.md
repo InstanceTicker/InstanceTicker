@@ -26,31 +26,45 @@
 - [Mastodon #InstanceTicker (Greasy Fork Version)](https://greasyfork.org/ja/scripts/373630-mastodon-instanceticker-greasy-fork-version)
 
 ### インスタンス管理者様用の導入方法 - For Mastodon admin
-- ※Mastodon Version 2.6.0 以降からは、 CSP (Content-Security-Policy) が導入されたため、その辺の対策が必須です。
-- ※Mastodon Version 2.5.x では、CSP (Content-Security-Policy) が導入されてないため、その心配はありません。
-#### CustomCSS or ＜style＞～＜/style＞に入れる場合
+
+#### カスタムCSS にコピペして直接入れる場合
+※CSP (Content-Security-Policy) の対策ができない環境の方（masto.host や hostdon.jp 等の「ホスティング型」など）用。
+※随時手動でコピペして更新する必要がありますが、この方法が結構確実です。
+- 通常版
+[こちらのページからコードをコピペできます](https://cdn.weep.me/mastodon/html)
+- 軽量版
+[こちらのページからコードをコピペできます](https://cdn.weep.me/mastodon/lite.html)
+
+#### ＜style＞～＜/style＞に入れる場合
+※Mastodon Version 2.6.0 以降からは、 CSP (Content-Security-Policy) が導入されたため、その辺の対策が必須です。
+※Mastodon Version 2.5.x では、CSP (Content-Security-Policy) が導入されてないため、その心配はありませんが。。。
+※キャッシュが残ってる場合は ～.css?適当な英数字 にしてください。
 - 通常版
 ```
 @import url("https://cdn.weep.me/mastodon/css/InstanceTicker.css");
 ```
 - 軽量版
+※キャッシュが残ってる場合は ～.css?適当な英数字 にしてください。
 ```
 @import url("https://cdn.weep.me/mastodon/css/lite.css");
 ```
 
 #### ＜head＞～＜/head＞ に入れる場合
+※Mastodon Version 2.6.0 以降からは、 CSP (Content-Security-Policy) が導入されたため、その辺の対策が必須です。
+※Mastodon Version 2.5.x では、CSP (Content-Security-Policy) が導入されてないため、その心配はありませんが。。。
 - 通常版
+※キャッシュが残ってる場合は ～.css?適当な英数字 にしてください。
 ```
 <link rel="stylesheet" media="all" href="https://cdn.weep.me/mastodon/css/InstanceTicker.css">
 ```
 - 軽量版
+※キャッシュが残ってる場合は ～.css?適当な英数字 にしてください。
 ```
 <link rel="stylesheet" media="all" href="https://cdn.weep.me/mastodon/css/lite.css">
 ```
 
 ## インストール - Install
-- CDN 上の CSS を使用するため、インストールは不要です。
-- 上記の使い方を参照下さい。
+- 
 
 ## 貢献について - Contribution
 - weepjp は、からっきしの GitHub 初心者であり、あらゆる機能について網羅しておらず、右も左も分かりません。
