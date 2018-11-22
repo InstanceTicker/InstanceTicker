@@ -74,7 +74,7 @@
 // @match        https://matchdon.com/*
 // @match        https://otoya.space/*
 //
-// @resource     CCSS https://cdn.weep.me/mastodon/css/201811082130.css
+// @resource     CCSS https://cdn.weep.me/mastodon/css/InstanceTicker.css
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 //
