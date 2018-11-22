@@ -24,7 +24,7 @@
 ### 一般ユーザー様用の導入方法 - For Mastodon user
 [Tampermonkey](https://tampermonkey.net/) 推奨です。
 （Violentmonkey では、正常に動作しないことを確認。）
-- [Mastodon #InstanceTicker (GitHub Version)](https://github.com/weepjp/MastodonInstanceTicker/blob/master/MastodonInstanceTicker.user.js)
+- [Mastodon #InstanceTicker (GitHub Version)](https://github.com/weepjp/MastodonInstanceTicker/raw/master/MastodonInstanceTicker.user.js)
 - [Mastodon #InstanceTicker (Greasy Fork Version)](https://greasyfork.org/ja/scripts/373630-mastodon-instanceticker-greasy-fork-version)
 
 
