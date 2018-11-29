@@ -28,9 +28,9 @@
 #### カスタムCSS にコピペして直接入れる場合 - to custom CSS
 - ※CSP (Content-Security-Policy) の対策ができない環境の方（masto.host や hostdon.jp 等の「ホスティング型」など）用。
 - ※随時手動でコピペして更新する必要があります。
--- [InstanceTicker.css (GitHub Version)](https://github.com/weepjp/MastodonInstanceTicker/blob/master/InstanceTicker.css)
--- [リアルタイム更新 通常版](https://cdn.weep.me/mastodon/css/html)
--- [リアルタイム更新 軽量版](https://cdn.weep.me/mastodon/css/lite.html)
+- [InstanceTicker.css (GitHub Version)](https://github.com/weepjp/MastodonInstanceTicker/blob/master/InstanceTicker.css)
+- [リアルタイム更新 通常版](https://cdn.weep.me/mastodon/css/html)
+- [リアルタイム更新 軽量版](https://cdn.weep.me/mastodon/css/lite.html)
 
 #### ＜style＞～＜/style＞に CSS を入れる場合 - to Stylesheet (import)
 ※Mastodon Version 2.6.0 以降からは、 CSP (Content-Security-Policy) が導入されたため、その辺の対策が必須です。
@@ -64,8 +64,8 @@
 - [note.weep.jp](https://note.weep.jp/) の連載購読キボンヌ。
 - [仮想通貨での投げ銭](https://weep.jp/tip)
 - [Kyabi.net -Kyashで簡単に投げ銭しよう- ](https://kyabi.net/profiles/5bb09c67225539000f3770bd)
--- weepjp は、からっきしの GitHub 初心者であり、あらゆる機能について網羅しておらず、右も左も分かりません。
--- 少しずつ覚えていきますので、お手柔らかにお願いします。
+- weepjp は、からっきしの GitHub 初心者であり、あらゆる機能について網羅しておらず、右も左も分かりません。
+- 少しずつ覚えていきますので、お手柔らかにお願いします。
 
 ## ライセンス - Licence
 - ORIGINAL CSS © [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
