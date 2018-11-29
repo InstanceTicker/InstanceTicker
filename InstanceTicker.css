@@ -1,14 +1,16 @@
 @charset 'utf-8';
-/* +---------------------------------------+ */
-/* |#InstanceTicker URL:                   | */
-/* |https://cdn.weep.me/mastodon/          | */
-/* |#InstanceTicker 201811280125.css       | */
-/* +------------------------------------------------+ */
-/* | ORIGINAL CSS (C) https://odakyu.app/@ars42525  | */
-/* | #InstanceTicker (C) weep https://weep.me/@weep | */
-/* | Released under the MIT license                 | */
-/* | https://opensource.org/licenses/MIT            | */
-/* +------------------------------------------------+ */
+/*-----------------------------------------*/
+/* #InstanceTicker URL:                    */
+/* #InstanceTicker 201811292255.css        */
+/*    https://cdn.weep.me/mastodon/        */
+/*-----------------------------------------*/
+/* ORIGINAL CSS    (C) 2018 kyori19        */
+/*    https://github.com/kyori19           */
+/* #InstanceTicker (C) 2018 weepjp         */
+/*    https://github.com/weepjp            */
+/* Released under the MIT license          */
+/*    https://opensource.org/licenses/MIT  */
+/*-----------------------------------------*/
 .status a[href^='https://social.senooken.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/gnus.png'),linear-gradient(to left,transparent,#a22430 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'senooken.jp'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
 .status a[href^='https://js4.in/alttw/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/gnus.png'),linear-gradient(to left,transparent,#a22430 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'js4.in/alttw'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
 .status a[href^='https://shitposter.club/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/gnus.png'),linear-gradient(to left,transparent,#a22430 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'💩 Shitposter.Club'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
@@ -328,6 +330,7 @@
 .status a[href^='https://mstdn.b-shock.org/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/mstdn.png'),linear-gradient(to left,transparent,#2574b9 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'b-shock.org'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
 .status a[href^='https://ma.fono.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/mstdn.png'),linear-gradient(to left,transparent,#2574b9 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'fono.jp'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
 .status a[href^='https://comm.cx/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/mstdn.png'),linear-gradient(to left,transparent,#2574b9 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'COMM.CX'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
+.status a[href^='https://shimaidon.net/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/mstdn.png'),linear-gradient(to left,transparent,#2574b9 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'shimaidon.net'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
 .status a[href^='https://mastodon.social/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/mstdn.png'),linear-gradient(to left,transparent,#4491c3 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.social'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
 .status a[href^='https://mastodon.xyz/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/mstdn.png'),linear-gradient(to left,transparent,#4491c3 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.xyz'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
 .status a[href^='https://mastodon.cloud/'] .display-name:after{color:#fff!important;padding-left:18px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/mstdn.png'),linear-gradient(to left,transparent,#4491c3 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.cloud'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
@@ -527,5 +530,5 @@
 .status a[href^='https://juick.com/'] .display-name:after{color:#fff!important;padding-left:17px!important;font-size:12px!important;height:16px!important;background:url('https://cdn.weep.me/img/juick2.png'),linear-gradient(to left,transparent,#000 92%)!important;background-repeat:no-repeat,no-repeat!important;content:'juick.com'!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
 @keyframes fadein{0%{opacity:0}100%{opacity:1}}
 @-webkit-keyframes fadein{0%{opacity:0}100%{opacity:1}}
-.compose-form:after{color:#ffffff!important;padding-left:18px!important;font-size:12px!important;height:96px!important;background:url('https://cdn.weep.me/img/it5.png'),linear-gradient(to left,transparent,#01579b 96%)!important;background-repeat:no-repeat,no-repeat!important;content:'#InstanceTicker 201811280125.css\AURL: https://weep.jp/mastodon \A(C) weep https://weep.me/@weep \AOrig.(C) https://odakyu.app/@ars42525 \A';display:block !important;white-space:pre !important;text-overflow:ellipsis !important;animation:fadein 1.2s ease 0s 1 normal;-webkit-animation:fadein 1.2s ease 0s 1 normal;}
+.compose-form:after{color:#ffffff!important;padding-left:18px!important;font-size:12px!important;height:96px!important;background:url('https://cdn.weep.me/img/it5.png'),linear-gradient(to left,transparent,#01579b 96%)!important;background-repeat:no-repeat,no-repeat!important;content:'#InstanceTicker 201811292255.css\AURL: https://cdn.weep.me/mastodon/ \A(C) weep https://github.com/weepjp \AOrig.(C) https://github.com/kyori19 \A';display:block !important;white-space:pre !important;text-overflow:ellipsis !important;animation:fadein 1.2s ease 0s 1 normal; -webkit-animation:fadein 1.2s ease 0s 1 normal;}
 /* (;-;) */
