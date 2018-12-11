@@ -60,82 +60,12 @@ $sex[7]独自アイコン・画像権利者情報
 *************************/
 	
                if($sex[0] or $sex[0]=='0'){
-               
-               
-               
-               
-               
-               switch ($sex[0]){
-                    case '0':// GNU social
-                         if(!$sex[3]){ $sex[3] = '#fff';}
-                         if(!$sex[4]){ $sex[4] = '#a22430';}
-                         if(!$sex[5]){ $sex[5] = 'gnus.png';}
-                         
-                    break;
-                    case '1':// Mastodon (Japan)
-                         if(!$sex[3]){ $sex[3] = '#fff';}
-                         if(!$sex[4]){ $sex[4] = '#2574b9';}
-                         if(!$sex[5]){ $sex[5] = 'mstdn.png';}
-                         
-                    break;
-                    case '2':// Mastodon (abroad)
-                         if(!$sex[3]){ $sex[3] = '#fff';}
-                         if(!$sex[4]){ $sex[4] = '#4491c3';}
-                         if(!$sex[5]){ $sex[5] = 'mstdn.png';}
-                         
-                    break;
-                    case '3':// Pleroma
-                         if(!$sex[3]){ $sex[3] = '#d8a05b';}
-                         if(!$sex[4]){ $sex[4] = '#182230';}
-                         if(!$sex[5]){ $sex[5] = 'plrm.png';}
-                         
-                    break;
-                    case '4':// Misskey
-                         if(!$sex[3]){ $sex[3] = '#fff';}
-                         if(!$sex[4]){ $sex[4] = '#2e9fb9';}
-                         if(!$sex[5]){ $sex[5] = 'msky2.png';}
-                         if(!$sex[6]){ $sex[6] = '36';       }
-                         
-                    break;
-                    case '5': // PeerTube
-                         if(!$sex[3]){ $sex[3] = '#000'; }
-                         if(!$sex[4]){ $sex[4] = '#fff, #fff, #fff'; }
-                         if(!$sex[5]){ $sex[5] = 'peertube2.png';}
-                         if(!$sex[6]){ $sex[6] = '17';       }
-                    break;
-                    case '6': // Juick
-                         if(!$sex[3]){ $sex[3] = '#fff';}
-                         if(!$sex[4]){ $sex[4] = '#000';}
-                         if(!$sex[5]){ $sex[5] = 'juick2.png';}
-                         if(!$sex[6]){ $sex[6] = '17';       }
-                    break;
-                    
-                    default:
-                    
-                    break;
-}
 
 
-if($sex[3]=='#ffffff'){ $sex[3]='#fff';}
-if($sex[4]=='#ffffff'){ $sex[4]='#fff';}
 
-if($sex[3]=='#000000'){ $sex[3]='#000';}
-if($sex[4]=='#000000'){ $sex[4]='#000';}
+@require('../../ins.php');
 
 
-if(!$sex[1]){ $sex[1] = $sex[2];}
-if( $sex[1] == '閉鎖'){ $sex[1] = '閉鎖済み';  $sex[3] = '#fff';  $sex[4] = '#666';}
-
-if(!$sex[6]){//独自バナーサイズ
-$sex[6] = '18'; //デフォルト値
-}
-
-if($sex[6] >= 60){//独自バナーサイズを規定値を超すと
-   $sex[1] = ''; //文字名を消しことにします。
-   $sex[6] = 0;
-}
-
-$tit = @mb_strimwidth($sex[1],0,36,"..");
 
 $con .= ".status a[href^='https://".$sex[2]."/'] ";
 $con .= ".display-name:after{";
