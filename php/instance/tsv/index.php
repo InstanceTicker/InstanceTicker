@@ -10,6 +10,9 @@ $con = '';
 
 
 
+
+
+
    @header('Content-Type: text/plain; charset=utf-8');
    @header('Access-Control-Allow-Origin: *');
    @header('Access-Control-Allow-Methods: GET, POST, PUT');
@@ -18,11 +21,14 @@ $con = '';
 
 
 
-$n = 0;
+function nonbr($str){
+          $str = str_replace("\r\n", '', $str);
+}
+
 
 for($i = 0; $i < count($set); $i++){
 
-	$sex = explode("\t",$set[$i]);
+	$sex = str_replace("\r\n", '', explode("\t",$set[$i]) );
 	
 /************************
 	
@@ -40,6 +46,12 @@ $sex[7]独自アイコン・画像権利者情報
 
 
     if($sex[0] or $sex[0] == '0' or $sex[0] == '[0]タイプ'){
+    
+    
+        @require('../../ins.php');
+    
+    
+    
         $con .= "".$sex[0];
         $con .= "\t".$sex[1];
         $con .= "\t".$sex[2];
