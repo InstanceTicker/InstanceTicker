@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mastodon #InstanceTicker (GitHub Version)
 // @namespace    https://github.com/weepjp/MastodonInstanceTicker
-// @version      GitHub_Ver_0.4.1
+// @version      GitHub_Ver_0.4.2
 // @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep
 //
@@ -104,14 +104,14 @@
 // @match        https://pao.moe/*
 
 //
-// @resource     CCSS https://raw.githubusercontent.com/weepjp/InstanceTicker/master/MastodonInstanceTicker.css
+// @resource     CCSS https://wee.jp/css/InstanceTicker.css
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 //
 //
 /****************************************************
  * MastdonInstanceTicker.user.js                    *
- * https://github.com/weepjp/MastodonInstanceTicker *
+ * https://github.com/weepjp/InstanceTicker *
  ****************************************************/
 //
 // ==/UserScript==
