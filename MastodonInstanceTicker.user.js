@@ -36,7 +36,7 @@
 // @match        https://music.pawoo.net/*
 // @match        https://friends.nico/*
 // @match        https://mstdn.maud.io/*
-// @match        https://theboss.tech/*
+// @match        https://*.theboss.tech/*
 // @match        https://knzk.me/*
 
 // @match        https://*.masto.host/*
