@@ -8,12 +8,11 @@
 
 | 画像 | ファイル | 説明 | 著作権情報 |
 |----|----|----|----|
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/gnus.png" alt="画像" title="画像" height="16">| gnus.png | 筆記中 | 筆記中 |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/hubzilla.png" alt="画像" title="画像" height="16">| hubzilla.png | 筆記中 | 筆記中 |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/juick2.png" alt="画像" title="画像" height="16">| juick2.png | 筆記中 | 筆記中 |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/msky.png" alt="画像" title="画像" height="16">| msky.png | Misskey | MIT LICENSE<br>Copyright (c) 2018 syuilo |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/msky2.png" alt="画像" title="画像" height="16">| msky2.png | Misskey | MIT LICENSE<br>Copyright (c) 2018 syuilo |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mastodon_juggler_jp.png" alt="画像" title="画像" height="16">| mastodon_juggler_jp.png | mastodon.juggler.jp [SubwayTooter](https://github.com/tateisu/SubwayTooter) | Apache License 2.0 |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/gnus.png" alt="画像" title="画像" height="16">| gnus.png | [GNU Social](https://gnu.io/social/) | AGPL |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn_maud_io2.png" alt="画像" title="画像" height="16">| mstdn_maud_io2.png | [mastodon.maud.io](https://mastodon.maud.io/about)<br>[Akane.Blue](https://akane.blue/) | Author: lindwurm(hota)<br>Good Boy License |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/msky.png" alt="画像" title="画像" height="16">| msky.png | [ai.misskey.xyz](https://ai.misskey.xyz/) | MIT LICENSE<br>Copyright (c) 2018 syuilo |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/msky2.png" alt="画像" title="画像" height="16">| msky2.png | [ai.misskey.xyz](https://ai.misskey.xyz/) | MIT LICENSE<br>Copyright (c) 2018 syuilo |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mastodon_juggler_jp.png" alt="画像" title="画像" height="16">| mastodon_juggler_jp.png | [mastodon.juggler.jp](https://mastodon.juggler.jp/about)<br>[SubwayTooter](https://github.com/tateisu/SubwayTooter) | Author: tateisu<br>Apache License 2.0 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mastportal_info.png" alt="画像" title="画像" height="16">| mastportal_info.png | 筆記中 | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn.png" alt="画像" title="画像" height="16">| mstdn.png | 筆記中 | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn0.png" alt="画像" title="画像" height="16">| mstdn0.png | 筆記中 | 筆記中 |
@@ -27,12 +26,12 @@
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn_guru.png" alt="画像" title="画像" height="16">| mstdn_guru.png | 筆記中 | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn_jp.png" alt="画像" title="画像" height="16">| mstdn_jp.png | 筆記中 | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn_love.png" alt="画像" title="画像" height="16">| mstdn_love.png | 筆記中 | 筆記中 |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn_maud_io2.png" alt="画像" title="画像" height="16">| mstdn_maud_io2.png | 筆記中 | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn_taiyaki_online.png" alt="画像" title="画像" height="16">| mstdn_taiyaki_online.png | 筆記中 | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn_tw.png" alt="画像" title="画像" height="16">| mstdn_tw.png | 筆記中 | 筆記中 |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/nextcloud.png" alt="画像" title="画像" height="16">| nextcloud.png | 筆記中 | 筆記中 |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/osada.png" alt="画像" title="画像" height="16">| osada.png | 筆記中 | 筆記中 |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/peertube.png" alt="画像" title="画像" height="16">| peertube.png | 筆記中 | 筆記中 |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/plrm.png" alt="画像" title="画像" height="16">| plrm.png | 筆記中 | 筆記中 |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/nextcloud.png" alt="画像" title="画像" height="16">| nextcloud.png | nextcloud | 筆記中 |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/osada.png" alt="画像" title="画像" height="16">| osada.png | Osada | 筆記中 |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/peertube.png" alt="画像" title="画像" height="16">| peertube.png | peertube | 筆記中 |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/plrm.png" alt="画像" title="画像" height="16">| plrm.png | Write Freely | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/px.png" alt="画像" title="画像" height="16">| px.png | Pixelfed | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/wf.png" alt="画像" title="画像" height="16">| wf.png | Write Freely | 筆記中 |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/hubzilla.png" alt="画像" title="画像" height="16">| hubzilla.png | 筆記中 | 筆記中 |
