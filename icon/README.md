@@ -33,8 +33,7 @@
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/osada.png" alt="画像" title="画像" height="16">| osada.png | Osada | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/peertube.png" alt="画像" title="画像" height="16">| peertube.png | peertube | 筆記中 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/plrm.png" alt="画像" title="画像" height="16">| plrm.png | Pleroma | [Pleroma](https://git.pleroma.social/pleroma/pleroma)<br>GNU AGPL v3.0 |
-|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/px.png" alt="画像" title="画像" height="16">| px.png | [Pixelfed](https://pixelfed.org/) | [PixelFed
-](https://github.com/pixelfed/pixelfed)<br>GNU AGPL v3.0 |
+|<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/px.png" alt="画像" title="画像" height="16">| px.png | [Pixelfed](https://github.com/pixelfed/pixelfed)<br>GNU AGPL v3.0 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/wf.png" alt="画像" title="画像" height="16">| wf.png | [Write Freely](https://writefreely.org/) | [Write Freely](https://github.com/writeas/writefreely)<br>GNU AGPL v3.0 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/hubzilla.png" alt="画像" title="画像" height="16">| hubzilla.png | Hubzilla | Copyright (c) 2010-2018 [the Hubzilla Community](https://framagit.org/hubzilla/)
 <br>All rights reserved.<br>MIT License |
