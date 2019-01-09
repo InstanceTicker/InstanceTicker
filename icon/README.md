@@ -1,13 +1,13 @@
 #InstanceTicker Icons
 ====
 
-- #InstanceTicker 用 height:16px 的なアイコンロゴをここに配布します。
-- 一部のロゴ（企業系くさいもの「friends.nico」「きぼうソフト社章」等）は未掲載です。
-- ライセンスは、#InstanceTicker と同様の著作表記で MIT LICENSE ですが、元になったロゴのライセンスを問わず著作権表示この場で行います。
+- #InstanceTicker 用 height:16px 的なドット絵アイコンロゴをここに配布します。
+- 商標のあるもの等は除いております（きぼうソフトの社章等）。
+- ライセンスは、#InstanceTicker と同様の著作表記で MIT LICENSE ですが、元になったロゴがなんなのかを知らない人も多いので、ライセンス情報も兼ねて表記した方が無難なのかも分からない。
 
 ## リスト
 
-| 画像 | [weepjp](https://github.com/weepjp/) が作成した画像説明 | 元ネタ著作権情報 |
+| 画像 | [weepjp](https://github.com/weepjp/) が作成した画像説明 | 元になった画像のライセンス情報 |
 |----|----|----|
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/gnus.png" alt="画像" title="画像" height="16"> | [GNU Social](https://gnu.io/social/)のロゴを基に作成 | [GNU Social](https://git.gnu.io/gnu/gnu-social) GNU AGPLv3 |
 |<img src="https://raw.githubusercontent.com/weepjp/InstanceTicker/master/icon/mstdn_maud_io2.png" alt="画像" title="画像" height="16"> | [mastodon.maud.io](https://mastodon.maud.io/about)<br>[Akane.Blue](https://akane.blue/)<br>キャラクターを基に作成 | Author by [lindwurm](https://github.com/lindwurm) (ほた) [Good Boy License](https://icons8.com/good-boy-license/). |
