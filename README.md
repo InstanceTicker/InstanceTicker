@@ -2,12 +2,20 @@
 ====
 
 - "Mastodon #InstanceTicker" とは、Mastodon Timeline 上の投稿者に所属インスタンス名を彩る "Custom CSS" です。
-- GitHub では、現在「user.js」のみを配布しております。
+- 本来は PHP で出力されますが、GitHub 上では、定期的にコピペしてログを取ります。
+
+## ファイル - File
+- InstanceTicker.css
+- - #InstanceTicker CSS (GitHub Version)
+- InstanceTicker.tsv
+- - #InstanceTicker TSV (GitHub Version)
+- MastodonInstanceTicker.user.js
+- - Mastodon 専用 #InstanceTicker user.js (GitHub Version)
+- - CSS 先は、#InstanceTicker CSS (GitHub Version) に向けています。
 
 ## 概要 - Description
 - [こちらの解説ページ](https://wee.jp/mastodon/) を参照下さい。
 - - 連絡は、[おいらのMastodonアカウントへ返信](https://weep.me/@weep) か [鯖缶工場 Discord](https://discord.gg/tCgghdP) まで。
-- - 苦情は #InstanceTicker のハッシュタグを付けて、Toot するか、Tweet して下さい。
 - - アカウントがなかったり、匿名希望の場合は、 [メールフォーム](https://weep.jp/mail) から連絡を。
 
 ## ライセンス - Licence
