@@ -1,3 +1,5 @@
+<img src="https://wee.jp/mastodon/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
+
 #InstanceTicker　Github Version
 ====
 
