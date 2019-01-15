@@ -15,8 +15,9 @@
 
 ## 概要 - Description
 - [こちらの解説ページ](https://wee.jp/mastodon/) を参照下さい。
-- - 連絡は、[おいらのMastodonアカウントへ返信](https://weep.me/@weep) か [鯖缶工場 Discord](https://discord.gg/tCgghdP) まで。
-- - アカウントがなかったり、匿名希望の場合は、 [メールフォーム](https://weep.jp/mail) から連絡を。
+- - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://mastodon.social/@InstanceTicker">@InstanceTicker</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
+- - 開発に関するお問い合わせは 、[鯖缶工場 Discord](https://discord.gg/tCgghdP) まで。
+- - その他のお問い合わせ（警告等も含みます）、 [メールフォーム](https://weep.jp/mail) から連絡下さい。
 
 ## ライセンス - Licence
 - ORIGINAL CSS © [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
@@ -30,8 +31,6 @@
 ## 貢献について - Contribution
 - weepjp は、からっきしの GitHub 初心者であり、あらゆる機能について網羅しておらず、右も左も分かりません。
 - 少しずつ覚えていきますので、お手柔らかにお願いします。
-
-## 支援 - donate
 - [仮想通貨での投げ銭](https://weep.jp/tip)
 - Kyash ID : weep
 
