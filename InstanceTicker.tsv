@@ -1,4 +1,4 @@
-[0] #InstanceTicker(tsv) ver.20190118221200 - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
+[0] #InstanceTicker(tsv) ver.201901212348 - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
 0	senooken.jp	social.senooken.jp	#fff	#c77	https://wee.jp/2/00.png	18	(c)weepjp CC BY 4.0						
 0	js4.in	js4.in	#fff	#c77	https://wee.jp/2/00.png	18	(c)weepjp CC BY 4.0						
 0	quitter.im	quitter.im	#fff	#c77	https://wee.jp/2/00.png	18	(c)weepjp CC BY 4.0						
@@ -353,6 +353,9 @@
 1	don.thinaticsystem.com	don.thinaticsystem.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
 1	ap.kitahina.co	ap.kitahina.co	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
 1	wlw.pw	wlw.pw	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
+1	mstdn.ryecroft21.net	mstdn.ryecroft21.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
+1	dotdon.jp	dotdon.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
+1	vapers.jp	vapers.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
 2	mastodon.social	mastodon.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.social					
 2	mastodon.xyz	mastodon.xyz	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.xyz					
 2	mastodon.cloud	mastodon.cloud	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.cloud					
