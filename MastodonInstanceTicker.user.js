@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Mastodon #InstanceTicker user.js (GitHub Version)
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      GitHub_Ver_0.5.2
+// @version      GitHub_Ver_201901212348_user_js
 // @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep
 //
@@ -97,13 +97,12 @@
 // @match        https://kirishima.cloud/*
 // @match        https://doll.social/*
 // @match        https://mastodoll.net/*
-
+//
 // @match        https://gorone.xyz/*
 // @match        https://mstdn.inct-densan.club/*
 // @match        https://fla.red/*
 // @match        https://gingadon.com/*
 // @match        https://pao.moe/*
-
 //
 // @resource     CCSS https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTicker.css
 // @grant        GM_addStyle
@@ -114,6 +113,9 @@
  * MastdonInstanceTicker.user.js                    *
  * https://github.com/weepjp/InstanceTicker         *
  ****************************************************/
+//
+// ここも更新させないと、CSS 側の変更が反映しないの？
+// ならば、ここに日記を書いて更新するか？？
 //
 // ==/UserScript==
 
