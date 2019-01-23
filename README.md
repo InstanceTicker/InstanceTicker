@@ -16,7 +16,7 @@
 - - CSS 先は、#InstanceTicker CSS (GitHub Version) に向けています。
 
 ## 概要 - Description
-- [こちらの解説ページ](https://wee.jp/mastodon/) を参照下さい。
+- [こちらの解説ページ(Wiki)](https://github.com/weepjp/InstanceTicker/wiki) を参照下さい。
 - - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://mastodon.social/@InstanceTicker">@InstanceTicker</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
 - - 開発に関するお問い合わせは 、[鯖缶工場 Discord](https://discord.gg/tCgghdP) まで。
 - - その他のお問い合わせ（警告等も含みます）、 [メールフォーム](https://weep.jp/mail) から連絡下さい。
