@@ -1,6 +1,6 @@
 @charset 'utf-8';
 /*-----------------------------
- #InstanceTicker 201901182212.css
+ #InstanceTicker 201901212348.css
  https://wee.jp/mastodon/
 
  Copyright (c) 2018-2019 weepjp
@@ -368,6 +368,9 @@
 .status a[href^='https://don.thinaticsystem.com/'] .display-name:after{color:#fff!important;padding-left:18px!important;background:url('https://wee.jp/2/01.png'),linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'don.thinaticsystem.com'!important;}
 .status a[href^='https://ap.kitahina.co/'] .display-name:after{color:#fff!important;padding-left:18px!important;background:url('https://wee.jp/2/01.png'),linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'ap.kitahina.co'!important;}
 .status a[href^='https://wlw.pw/'] .display-name:after{color:#fff!important;padding-left:18px!important;background:url('https://wee.jp/2/01.png'),linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'wlw.pw'!important;}
+.status a[href^='https://mstdn.ryecroft21.net/'] .display-name:after{color:#fff!important;padding-left:18px!important;background:url('https://wee.jp/2/01.png'),linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.ryecroft21.net'!important;}
+.status a[href^='https://dotdon.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background:url('https://wee.jp/2/01.png'),linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'dotdon.jp'!important;}
+.status a[href^='https://vapers.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background:url('https://wee.jp/2/01.png'),linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'vapers.jp'!important;}
 .status a[href^='https://mastodon.social/'] .display-name:after{color:#fff!important;padding-left:18px!important;background:url('https://wee.jp/2/02.png'),linear-gradient(to left,transparent,#46a )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.social'!important;}
 .status a[href^='https://mastodon.xyz/'] .display-name:after{color:#fff!important;padding-left:18px!important;background:url('https://wee.jp/2/02.png'),linear-gradient(to left,transparent,#46a )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.xyz'!important;}
 .status a[href^='https://mastodon.cloud/'] .display-name:after{color:#fff!important;padding-left:18px!important;background:url('https://wee.jp/2/02.png'),linear-gradient(to left,transparent,#46a )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.cloud'!important;}
