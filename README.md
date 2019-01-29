@@ -7,11 +7,11 @@
 - 本来は PHP で出力されますが、GitHub 上では、定期的にコピペしてログを取ります。
 
 ## ファイル - File
-- [Type-0](/weepjp/InstanceTicker/wiki/Type0) - 原則「代替アイコン」表示
+- [Type-0](https://github.com/weepjp/InstanceTicker/wiki/Type0) - 原則「代替アイコン」表示
 - - #InstanceTicker.css
 - - #InstanceTicker.tsv
 - - #InstanceTicker.user.js
-- [Type-1](/weepjp/InstanceTicker/wiki/Type1) - 原則「Favicon」表示
+- [Type-1](https://github.com/weepjp/InstanceTicker/wiki/Type1) - 原則「Favicon」表示
 - - #InstanceTicker1.css
 - - #InstanceTicker1.tsv
 - - #InstanceTicker1.user.js
