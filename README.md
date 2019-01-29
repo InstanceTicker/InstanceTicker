@@ -7,13 +7,17 @@
 - 本来は PHP で出力されますが、GitHub 上では、定期的にコピペしてログを取ります。
 
 ## ファイル - File
-- InstanceTicker.css
-- - #InstanceTicker CSS (GitHub Version)
-- InstanceTicker.tsv
-- - #InstanceTicker TSV (GitHub Version)
-- MastodonInstanceTicker.user.js
-- - Mastodon 専用 #InstanceTicker user.js (GitHub Version)
-- - CSS 先は、#InstanceTicker CSS (GitHub Version) に向けています。
+- [Type-0](/weepjp/InstanceTicker/wiki/Type0) - 原則「代替アイコン」表示
+- - #InstanceTicker.css
+- - #InstanceTicker.tsv
+- - #InstanceTicker.user.js
+- [Type-1](/weepjp/InstanceTicker/wiki/Type1) - 原則「Favicon」表示
+- - #InstanceTicker1.css
+- - #InstanceTicker1.tsv
+- - #InstanceTicker1.user.js
+
+### 仕様
+- .user.js 先は、GitHub 上の .css に向けています。
 
 ## 概要 - Description
 - [こちらの解説ページ(Wiki)](https://github.com/weepjp/InstanceTicker/wiki) を参照下さい。
