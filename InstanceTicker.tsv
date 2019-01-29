@@ -1,561 +1,551 @@
-[0] #InstanceTicker(tsv) ver.201901212348 - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
-0	senooken.jp	social.senooken.jp	#fff	#c77	https://wee.jp/2/00.png	18	(c)weepjp CC BY 4.0						
-0	js4.in	js4.in	#fff	#c77	https://wee.jp/2/00.png	18	(c)weepjp CC BY 4.0						
-0	quitter.im	quitter.im	#fff	#c77	https://wee.jp/2/00.png	18	(c)weepjp CC BY 4.0						
-0	bitcast.info	social.bitcast.info	#fff	#c77	https://wee.jp/2/00.png	18	(c)weepjp CC BY 4.0						
-1	閉鎖済み	m.xn--fiqwix98h.jp	#fff	#666	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/H3zjp					
-1	pptdn.popnja.com	pptdn.popnja.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0		https://pptdn.popnja.com/@popn_ja/101170529451258116				
-1	mstdn.jp	mstdn.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.jp					
-1	mstdn.cc	mstdn.cc	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.beer	mstdn.beer	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.blue	mstdn.blue	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.guru	mstdn.guru	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.guru					
-1	mstdn.tw	mstdn.tw	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.club	mstdn.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.club					
-1	mstdn.love	mstdn.love	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.love					
-1	mstdn.fm	mstdn.fm	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	tablegame.mstdn.cloud	tablegame.mstdn.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Dasoran					
-1	socialgame.mstdn.cloud	socialgame.mstdn.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Dasoran					
-1	anime.mstdn.cloud	anime.mstdn.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Dasoran					
-1	gamecreate.mstdn.cloud	gamecreate.mstdn.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Dasoran					
-1	azurlane.mastportal.info	azurlane.mastportal.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB					
-1	animal-crossing.mastportal.info	animal-crossing.mastportal.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB					
-1	pokemon.mastportal.info	pokemon.mastportal.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%83%9D%E3%82%B1%E3%83%9E%E3%82%B9					
-1	osomatsu.mastportal.info	osomatsu.mastportal.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB					
-1	mastodon.chotto.moe	mastodon.chotto.moe	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	jitakurack.chotto.moe	jitakurack.chotto.moe	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.hostdon.jp	mstdn.hostdon.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Hostdon					
-1	chaosphere.hostdon.jp	chaosphere.hostdon.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	gldon.hostdon.jp	gldon.hostdon.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mostodon.cloud	mostodon.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mostodon.cloud					
-1	zhenya.masto.host	zhenya.masto.host	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	wndp.masto.host	wndp.masto.host	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	faithklock.masto.host	faithklock.masto.host	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	okadon.masto.host	okadon.masto.host	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	yukoyajp.masto.host	yukoyajp.masto.host	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	porkmeeting.masto.host	porkmeeting.masto.host	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	now.kibousoft.co.jp	now.kibousoft.co.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Kibousoft_Now					
-1	pawoo.net	pawoo.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Pawoo					
-1	music.pawoo.net	music.pawoo.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Pawoo_Music					
-1	friends.nico	friends.nico	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Friends.nico					
-1	knzk.me	knzk.me	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://dic.nicovideo.jp/id/5482954					
-1	masi.theboss.tech	masi.theboss.tech	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Theboss.tech					
-1	mstdn-workers.com	mstdn-workers.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%9F%E3%81%A1%E3%81%AEMastodon					
-1	mstdn.kemono-friends.info	mstdn.kemono-friends.info	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%81%BE%E3%81%99%E3%81%A8%E3%81%A9%E3%82%93%E3%81%A1%E3%81%BB%E3%83%BC					
-1	mstdn.hokkaido.jp	mstdn.hokkaido.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.hokkaido.jp					
-1	iwatedon.net	iwatedon.net	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Iwatedon.net					
-1	tokamstdn.jp	tokamstdn.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E3%81%AEMastodon					
-1	ashikaga.link	ashikaga.link	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E8%B6%B3%E5%88%A9%E5%B8%82%E3%81%AEMastodon					
-1	odakyu.app	odakyu.app	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E5%B0%8F%E7%94%B0%E6%80%A5don					
-1	itabashi.0j0.jp	itabashi.0j0.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Itabashi.0j0.jp					
-1	mstdn.ikebuku.ro	mstdn.ikebuku.ro	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.tokyo	mstdn.tokyo	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.tokyo					
-1	east.mstdn.tokyo	east.mstdn.tokyo	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/East.mstdn.tokyo					
-1	mastodon.yokohama	mastodon.yokohama	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.yokohama					
-1	nagoyadon.jp	nagoyadon.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%B8%BC					
-1	mstdn.osaka	mstdn.osaka	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.osaka					
-1	minohdon.jp	minohdon.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Minohdon.jp					
-1	ngndn.jp	ngndn.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/NaGaNoDoN_%E3%83%8A%E3%82%AC%E3%83%8E%E3%83%89%E3%83%B3					
-1	biwakodon.com	biwakodon.com	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%81%B3%E3%82%8F%E6%B9%96%E3%81%AB%E6%9A%AE%E3%82%89%E3%81%99%E4%BA%BA%E3%81%AEMastodon					
-1	mstdn-kanazawa.jp	mstdn-kanazawa.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn-kanazawa.jp					
-1	mastodos.com	mastodos.com	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%81%A9%E3%81%99					
-1	mastodon.wakayama.jp	mastodon.wakayama.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E4%B8%BC					
-1	mastodon.nara.jp	mastodon.nara.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.nara.jp					
-1	mstdn.hyogo.jp	mstdn.hyogo.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.hyogo.jp					
-1	mstdn.sanin.link	mstdn.sanin.link	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E5%B1%B1%E9%99%B0%E4%BA%A4%E9%80%9A%E4%B8%BC					
-1	shikokudon.m.to	shikokudon.m.to	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Shikokudon.m.to					
-1	mstdn.fukuoka.jp	mstdn.fukuoka.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.fukuoka.jp					
-1	mastodon.oita.jp	mastodon.oita.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.oita.jp					
-1	mstdn.miyazaki.jp	mstdn.miyazaki.jp	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/MastoDongene_%E5%AE%AE%E5%B4%8E					
-1	tegedon.net	tegedon.net	#fff	#262	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Tegedon					
-1	mstdn.maud.io	mstdn.maud.io	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.maud.io					
-1	mstdn.y-zu.org	mstdn.y-zu.org	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.y-zu.org					
-1	oransns.com	oransns.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Oransns.com					
-1	v2.nyoki.club	v2.nyoki.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	abyss.fun	abyss.fun	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Abyss.fun					
-1	mstdn.nere9.help	mstdn.nere9.help	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.nere9.help					
-1	mastodon.juggler.jp	mastodon.juggler.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.juggler.jp					
-1	kaisendon.asmodeus.red	kaisendon.asmodeus.red	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	ding-dong.asmodeus.tokyo	ding-dong.asmodeus.tokyo	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon-train.info	mastodon-train.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.home.js4.in	mastodon.home.js4.in	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/IPv6%E3%83%89%E3%83%B3					
-1	mstdn.komittee.net	mstdn.komittee.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.mimikun.jp	mstdn.mimikun.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.f72u.net	mstdn.f72u.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	v1x3n.net	v1x3n.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/V1x3n.net					
-1	social.arnip.org	social.arnip.org	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	social.bluecore.net	social.bluecore.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.asterism.xyz	mstdn.asterism.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	gensokyo.town	gensokyo.town	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Gensokyo.town					
-1	social.mikutter.hachune.net	social.mikutter.hachune.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Social.mikutter.hachune.net					
-1	pcgamer.social	pcgamer.social	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	dtp-mstdn.jp	dtp-mstdn.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/DTP-Mstdn.jp					
-1	mstdn.h3z.jp	mstdn.h3z.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	social.0ko.me	social.0ko.me	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	don.gomasy.jp	don.gomasy.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.mini4wd-engineer.com	mstdn.mini4wd-engineer.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%83%9F%E3%83%8B%E5%9B%9B%E9%A7%86DON	https://mstdn.mini4wd-engineer.com/@kumanotetu/101067852009767326				
-1	claristdon.net	claristdon.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	claris.cf	claris.cf	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Claris.cf					
-1	toot.playground.ws	toot.playground.ws	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	m.auri.ga	m.auri.ga	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.motcha.tech	mastodon.motcha.tech	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.motcha.tech					
-1	mastodon.crazynewworld.net	mastodon.crazynewworld.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	yakumo.foundation	yakumo.foundation	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	tsuki.network	tsuki.network	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.awa.sfc.keio.ac.jp	mstdn.awa.sfc.keio.ac.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.awa.sfc.keio.ac.jp					
-1	utodon.jp	utodon.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/UTodon					
-1	taruntarun.net	taruntarun.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	si.pmpm.pw	si.pmpm.pw	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	raptol.net	raptol.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mast.moe	mast.moe	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	momoiro9.ro	momoiro9.ro	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	social.hideo54.com	social.hideo54.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	under-bank.blue	under-bank.blue	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	raspidon.mamemo.online	raspidon.mamemo.online	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	sukebeneko.com	sukebeneko.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	vocalodon.net	vocalodon.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Vocalodon					
-1	mstdn.tomokiwakimoto.com	mstdn.tomokiwakimoto.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mikuspot.net	mikuspot.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/MIKUSPOT					
-1	39sounds.net	39sounds.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mikumikudance.cloud	mikumikudance.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mikumikudance.cloud					
-1	iguanodon.net	iguanodon.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	ertona.net	ertona.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	alserver.jp	alserver.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	msdnaart.net	msdnaart.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Msdnaart.net					
-1	don.mamemo.online	don.mamemo.online	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.lithium03.info	mastodon.lithium03.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.poyo.me	mstdn.poyo.me	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Poyo.me					
-1	ro-mastodon.puyo.jp	ro-mastodon.puyo.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/RO%E4%B8%BC					
-1	toot.yukimochi.jp	toot.yukimochi.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E9%9B%AA%E9%A4%85					
-1	mustardon.tokyo	mustardon.tokyo	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	setl.ist	setl.ist	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mst.m544.net	mst.m544.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%82%81%E3%81%84%E3%82%81%E3%81%84					
-1	prinsesse.co	prinsesse.co	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	orikilli.yaruki0.net	orikilli.yaruki0.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.rinsuki.net	mstdn.rinsuki.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	rainyman.jp	rainyman.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.kanagu.info	mstdn.kanagu.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.cardina1.red	mastodon.cardina1.red	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.zunda.ninja	mastodon.zunda.ninja	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	isidai.com	isidai.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	tebukuro.pw	tebukuro.pw	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	tebukuro.m.to	tebukuro.m.to	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	たいやきん家	mstdn.taiyaki.online	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0				http://archive.fo/d3uzw		
-1	cironnup.com	cironnup.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.matcha-soft.com	mastodon.matcha-soft.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	md.ggtea.org	md.ggtea.org	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	altdn.me	altdn.me	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	matitodon.com	matitodon.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%81%BE%E3%81%A1%E3%83%88%E3%83%89%E3%83%B3					
-1	handon.club	handon.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	gamelinks007.net	gamelinks007.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Creatodon					
-1	mstdn.fujii-yuji.net	mstdn.fujii-yuji.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	tl.telmina.com	tl.telmina.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0		https://tl.telmina.com/@Telmina/101233441633013227				
-1	s2.libera.blue	s2.libera.blue	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0		https://s2.libera.blue/@Telmina/101233453464838392				
-1	imastodon.net	imastodon.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Imastodon.net					
-1	gorone.xyz	gorone.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	ffxiv-mastodon.com	ffxiv-mastodon.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Ffxiv-mastodon.com					
-1	syasai.club	syasai.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.precure.fun	mstdn.precure.fun	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.inct-densan.club	mstdn.inct-densan.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	muknown.jp	muknown.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.potproject.net	mastodon.potproject.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	popon.pptdn.jp	popon.pptdn.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	yysk.icu	yysk.icu	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	toot.blue	toot.blue	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.gtn-works.com	mstdn.gtn-works.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	angraecumnote.net	angraecumnote.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	real-escape.jp	real-escape.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	ukadon.shillest.net	ukadon.shillest.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	don.neso.tech	don.neso.tech	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.snowandtweet.jp	mastodon.snowandtweet.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.snowandtweet.jp					
-1	mstdn.klamath.jp	mstdn.klamath.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mathtod.online	mathtod.online	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	seichi.work	seichi.work	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	steam-don.fun	steam-don.fun	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.kurosuke.org	mstdn.kurosuke.org	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	felesitas.cloud	felesitas.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.res.ac	mstdn.res.ac	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mdn.hinaloe.net	mdn.hinaloe.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.dasoran.net	mstdn.dasoran.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	fla.red	fla.red	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Fla.red					
-1	qiitadon.com	qiitadon.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.soysoftware.net	mstdn.soysoftware.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	otogamer.me	otogamer.me	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Otogamer.me					
-1	otoya.space	otoya.space	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E9%9F%B3%E5%B1%8B%E4%B8%BC					
-1	photodn.net	photodn.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.ryanak.xyz	mstdn.ryanak.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	digineko.jp	digineko.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	don.m2hq.net	don.m2hq.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.unasuke.com	mstdn.unasuke.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.osyakasyama.me	mastodon.osyakasyama.me	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	testingmstdn.abcang.net	testingmstdn.abcang.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	hige.alterna-cloud.com	hige.alterna-cloud.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.сумирэ.рф	mstdn.xn--h1ahnbk7d.xn--p1ai	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.a-tak.com	mstdn.a-tak.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	shiroganedon.net	shiroganedon.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	gingadon.com	gingadon.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E9%8A%80%E6%B2%B3%E4%B8%BC					
-1	mstdn.haun.jp	mstdn.haun.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	pao.moe	pao.moe	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.kuriuzu.tk	mstdn.kuriuzu.tk	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	amemiya.work	amemiya.work	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.glorificatio.org	mstdn.glorificatio.org	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	meganekeesu.tokyo	meganekeesu.tokyo	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodooooooon.xyz	mastodooooooon.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	md.xps2.net	md.xps2.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	solna.in	solna.in	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	gadget.inpocket.net	gadget.inpocket.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	wug.fun	wug.fun	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Wugtodon					
-1	netstat.app	netstat.app	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	kakudon.com	kakudon.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Kakudon.com					
-1	social.kimamass.com	social.kimamass.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	qnmd.info	qnmd.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	kuroringo.com	kuroringo.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.yakitamago.info	mstdn.yakitamago.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	makimaki.jp	makimaki.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.nekonote.cc	mstdn.nekonote.cc	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	kurage.cc	kurage.cc	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Kurage.cc					
-1	mstdn.atcurio.com	mstdn.atcurio.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	junkhub.org	junkhub.org	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	cpper.xyz	cpper.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	yamaken.jp	yamaken.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	gnosia.info	gnosia.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	omochi.xyz	omochi.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mosw.work	mosw.work	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.tmp1024.com	mastodon.tmp1024.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	obitsudon.midyuki.net	obitsudon.midyuki.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	grain.izayoiwind.net	grain.izayoiwind.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.kessai-otaku.club	mstdn.kessai-otaku.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	md.paoon.social	md.paoon.social	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	yakiniku.cloud	yakiniku.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	kirishima.cloud	kirishima.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Kirishima.cloud					
-1	sandbox.skoji.jp	sandbox.skoji.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	bookwor.ms	bookwor.ms	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	www.mstddntfdn.online	www.mstddntfdn.online	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.imoimo.xyz	mstdn.imoimo.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.schoolidol.club	mstdn.schoolidol.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	homoo.social	homoo.social	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn-jp.site	mstdn-jp.site	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	flower.afn.social	flower.afn.social	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Flower.afn.social					
-1	kancolle.social	kancolle.social	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	august-don.site	august-don.site	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E9%9B%AA%E9%A4%85					
-1	precure.ml	precure.ml	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Precure.ml					
-1	blessedgeeks.org	blessedgeeks.org	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	kero.ccsakura.jp	kero.ccsakura.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Kero.ccsakura.jp					
-1	mstdn.hinabita.com	mstdn.hinabita.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	clonis.xyz	clonis.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	animedon.chao.tokyo	animedon.chao.tokyo	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mochiwasadon.com	mochiwasadon.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	hexadon.net	hexadon.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastdon.amazedkoumei.com	mastdon.amazedkoumei.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.kitchen	mastodon.kitchen	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	kemonodon.club	kemonodon.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Kemonodon.club					
-1	ichiji.social	ichiji.social	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Ichiji.social					
-1	wasaradan.m.to	wasaradan.m.to	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%83%AF%E3%82%B5%E3%83%A9%E3%83%80%E3%83%B3					
-1	mstdn-bike.net	mstdn-bike.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.tokyocameraclub.com	mstdn.tokyocameraclub.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mental.social	mental.social	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	nitiasa.com	nitiasa.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	nt.mstdon.app	nt.mstdon.app	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.vtube.media	mstdn.vtube.media	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%81%B6%E3%81%84%E3%81%A4%E3%81%B9%E3%81%A9%E3%82%93					
-1	plasticmodels.tokyo	plasticmodels.tokyo	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	m6n.onsen.tech	m6n.onsen.tech	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon_Onsen					
-1	syamutodon.xyz	syamutodon.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Syamutodon.xyz					
-1	mstdn.yjsnpi.nu	mstdn.yjsnpi.nu	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon%E6%B7%AB%E5%A4%A2					
-1	foresdon.jp	foresdon.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Foresdon.jp					
-1	mzn-potatochips.me	mzn-potatochips.me	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	steam-don.fun	steam-don.fun	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodol.jp	mastodol.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.futaba-works.com	mstdn.futaba-works.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.cosplayer.com	mstdn.cosplayer.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.moe-max.jp	mstdn.moe-max.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	マストドン.jp	xn--zck4ad5f2e.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3.jp					
-1	ef67.myhome.cx	ef67.myhome.cx	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.binfish.jp	mstdn.binfish.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	justodon.net	justodon.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.noraworld.jp	mastodon.noraworld.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	catgram.jp	catgram.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.cosnomi.com	mstdn.cosnomi.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mimumedon.com	mimumedon.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.ht164.jp	mstdn.ht164.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	naokisz.tk	naokisz.tk	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	z-flag.work	z-flag.work	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	catdon.life	catdon.life	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	foodon.jp	foodon.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	+Plustodon	plustodon.net	#fff	#db4437	https://wee.jp/2/__plustodon_net.png	18	パブリックドメイン		https://plustodon.net/@akyoz/101237916976159149	http://archive.fo/m90Tn	http://archive.fo/m90Tn		
-1	7144.party	7144.party	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.diglateam3.com	mastodon.diglateam3.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	netherdon.nyadobe.online	netherdon.nyadobe.online	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0		https://netherdon.nyadobe.online/@nyadobe/101068032885367348				
-1	newjack.city	newjack.city	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mobile.st	mobile.st	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	maho.app	maho.app	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	backyard.cloud	backyard.cloud	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	hearthtodon.com	hearthtodon.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Hearthtodon					
-1	hakorena.net	hakorena.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.toyoko.in	mstdn.toyoko.in	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.square-rooty.org	mstdn.square-rooty.org	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	artritelacy.jp	artritelacy.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	ika.queloud.net	ika.queloud.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	eletusk.club	eletusk.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	manhole.club	manhole.club	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	heislandmine.work	heislandmine.work	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0		https://heislandmine.work/@Heislandmine/101233329520993598				
-1	mstdn.sasachi.tokyo	mstdn.sasachi.tokyo	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.ropo.jp	mstdn.ropo.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	ykzts.technology	ykzts.technology	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	kiritan.work	kiritan.work	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Kiritan.work					
-1	kemoshi.co	kemoshi.co	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Kemoshi.co					
-1	mastodon.bitbank.cc	mastodon.bitbank.cc	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.bitbank.cc					
-1	mstdn.camera	mstdn.camera	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.Camera					
-1	danshudon.jp	danshudon.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Danshudon.jp					
-1	googoldon.net	googoldon.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Googoldon					
-1	weep.me	weep.me	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0		https://weep.me/@weep/101030699173187260				
-1	unnerv.jp	unnerv.jp	#fff	#e12	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Unnerv.jp					
-1	mstdn.nil.nu	mstdn.nil.nu	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.nil.nu					
-1	mstdn.misosi.ru	mstdn.misosi.ru	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	norimi.ch	norimi.ch	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	don.8mitsu.net	don.8mitsu.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.b-shock.org	mstdn.b-shock.org	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	ma.fono.jp	ma.fono.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	comm.cx	comm.cx	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0		https://comm.cx/@ikuradon/101228751704501724				
-1	shimaidon.net	shimaidon.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	terusid.com	terusid.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	svrdn.drillion.net	svrdn.drillion.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	pekepeke.work	pekepeke.work	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	popon.pptdn.jp	popon.pptdn.jp	#fff	#fb5	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0		https://popon.pptdn.jp/@popn_ja/101165403426828050		http://archive.fo/mxgsH		
-1	edge4cube.work	social.edge4cube.work	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0		https://social.edge4cube.work/@popn_ja/101170111975395733		http://archive.fo/CMDLO		
-1	waraiotoko.net	waraiotoko.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.boxp.tk	mstdn.boxp.tk	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	gamecluster.net	gamecluster.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.nieein56.xyz	mstdn.nieein56.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	fumufu.xyz	fumufu.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	fetishdon.tk	fetishdon.tk	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	doll.social	doll.social	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodoll.net	mastodoll.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	hack.syscaller.jp	hack.syscaller.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.dgm.pw	mstdn.dgm.pw	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	gochisou.photo	gochisou.photo	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.ijs01140.com	mstdn.ijs01140.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	toot.loner.jp	toot.loner.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	m.upsilo.net	m.upsilo.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mikado-city.jp	mikado-city.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn-amadeus.tech	mstdn-amadeus.tech	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	akanechan.love	akanechan.love	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.plusminus.io	mstdn.plusminus.io	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	machida.yokohama	machida.yokohama	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	djanzu.tokyo	djanzu.tokyo	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	stellaria.network	stellaria.network	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	m.aqr.af	m.aqr.af	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	twitchain.net	twitchain.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	cute2d.xyz	cute2d.xyz	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	headphone.actor	headphone.actor	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	tokotodon.m.to	tokotodon.m.to	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mastodon.tackman.info	mastodon.tackman.info	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	ap.kitahina.co	ap.kitahina.co	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	don.thinaticsystem.com	don.thinaticsystem.com	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	ap.kitahina.co	ap.kitahina.co	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	wlw.pw	wlw.pw	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	mstdn.ryecroft21.net	mstdn.ryecroft21.net	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	dotdon.jp	dotdon.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-1	vapers.jp	vapers.jp	#fff	#26a	https://wee.jp/2/01.png	18	(c)weepjp CC BY 4.0						
-2	mastodon.social	mastodon.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.social					
-2	mastodon.xyz	mastodon.xyz	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.xyz					
-2	mastodon.cloud	mastodon.cloud	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.cloud					
-2	mastodon.moe	mastodon.moe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.moe					
-2	mastodon.host	mastodon.host	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.host					
-2	mastodon.art	mastodon.art	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon.ART					
-2	mastodon.club	mastodon.club	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mastodon.at	mastodon.at	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mastodon.technology	mastodon.technology	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	quey.org	quey.org	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	humblr.social	humblr.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	masto.pt	masto.pt	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Masto.pt					
-2	bofa.lol	bofa.lol	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	niu.moe	niu.moe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Niu.moe					
-2	mstdn.io	mstdn.io	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mstdn.io					
-2	ika.moe	ika.moe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Ika.moe					
-2	octodon.social	octodon.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastodon_Instances_(octodon.social)					
-2	cybre.space	cybre.space	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mamot.fr	mamot.fr	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mastory					
-2	kirakiratter.com	kirakiratter.com	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Kirakiratter.com					
-2	switter.at	switter.at	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Switter.at					
-2	glitch.social	glitch.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Glitch.social					
-2	ephemeral.glitch.social	ephemeral.glitch.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Ephemeral.glitch.social					
-2	twingyeo.kr	twingyeo.kr	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Twingyeo.kr					
-2	occult.camp	occult.camp	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	awooo.club	awooo.club	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	shelter.moe	shelter.moe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	framapiaf.org	framapiaf.org	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Framapiaf.org					
-2	diaspodon.fr	diaspodon.fr	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	queer.town	queer.town	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	witchcraft.cafe	witchcraft.cafe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	eldritch.cafe	eldritch.cafe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	radical.town	radical.town	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	jorts.horse	jorts.horse	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	sunbeam.city	sunbeam.city	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	hostux.social	hostux.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	chaos.social	chaos.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	cmx.im	cmx.im	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Cmx.im					
-2	qoto.org	qoto.org	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	guillotines.masto.host	guillotines.masto.host	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	todon.nl	todon.nl	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	toot.cat	toot.cat	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	fosstodon.org	fosstodon.org	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	wandering.shop	wandering.shop	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mastodon.sdf.org	mastodon.sdf.org	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	icosahedron.website	icosahedron.website	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	soc.ialis.me	soc.ialis.me	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	cryptids.online	cryptids.online	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	wxw.moe	wxw.moe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Wxw.moe					
-2	toot.cafe	toot.cafe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mastodon.tetaneutral.net	mastodon.tetaneutral.net	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	social.taker.fr	social.taker.fr	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	elekk.xyz	elekk.xyz	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	yiff.life	yiff.life	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	playvicious.social	playvicious.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	twinja.club	twinja.club	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	4eva.online	4eva.online	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	shelter.moe	shelter.moe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	aus.social	aus.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	social.coop	social.coop	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	chitter.xyz	chitter.xyz	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mastodon.ketchupma.io	mastodon.ketchupma.io	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	gensokyo.social	gensokyo.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	chat.cdstm.ch	chat.cdstm.ch	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	kosmos.social	kosmos.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	whomst.dog	whomst.dog	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	toot.la	toot.la	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	innerwebs.social	innerwebs.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	pony.social	pony.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	snouts.online	snouts.online	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	appdot.net	appdot.net	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mast.eu.org	mast.eu.org	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	queer.party	queer.party	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mao.daizhige.org	mao.daizhige.org	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Mao.daizhige.org					
-2	843.pl	843.pl	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	the.goofs.space	the.goofs.space	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	witches.live	witches.live	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	social.targaryen.house	social.targaryen.house	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	social.homunyan.com	social.homunyan.com	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	toot.chat	toot.chat	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	uwu.social	uwu.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	donphan.social	donphan.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mastd.racing	mastd.racing	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	die-partei.social	die-partei.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	en.osm.town	en.osm.town	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	noagendasocial.com	noagendasocial.com	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	nulled.red	nulled.red	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	toot-lab.reclaim.technology	toot-lab.reclaim.technology	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	kitty.town	kitty.town	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	social.wxcafe.net	social.wxcafe.net	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	infosec.exchange	infosec.exchange	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	computerfairi.es	computerfairi.es	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	social.imirhil.fr	social.imirhil.fr	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	birdsite.link	birdsite.link	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	animeisgay.com	animeisgay.com	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	deadinsi.de	deadinsi.de	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	comicscamp.club	comicscamp.club	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	banana.dog	banana.dog	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mstdn.selfhosting.rocks	mstdn.selfhosting.rocks	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	fellies.social	fellies.social	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mast.datamol.org	mast.datamol.org	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	royalaid.me	royalaid.me	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mstdn.quebec.gq	mstdn.quebec.gq	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mastodon.lubar.me	mastodon.lubar.me	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	toot.devfs.xyz	toot.devfs.xyz	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	glasses.moe	glasses.moe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	social.linux.pizza	social.linux.pizza	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	social.dropbear.xyz	social.dropbear.xyz	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	hellsite.tyronesama.moe	hellsite.tyronesama.moe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	producers.masto.host	producers.masto.host	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mastodon.macsnet.cz	mastodon.macsnet.cz	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	calc.news	calc.news	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	greenlifeplus.net	greenlifeplus.net	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	ramses.amicidelbaretto.org	ramses.amicidelbaretto.org	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	social.unextro.net	social.unextro.net	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	mastodon.barkshark.tk	mastodon.barkshark.tk	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	beach.city	beach.city	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	takeoverthe.world	takeoverthe.world	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	miaou.drycat.fr	miaou.drycat.fr	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	onster.farm	onster.farm	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	plush.city	plush.city	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	es.muy.moe	es.muy.moe	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-2	botsin.space	botsin.space	#fff	#46a	https://wee.jp/2/02.png	18	(c)weepjp CC BY 4.0						
-3	pleroma.soykaf.com	pleroma.soykaf.com	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Pleroma					
-3	pleroma.gdgd.jp.net	pleroma.gdgd.jp.net	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	plrm.ht164.jp	plrm.ht164.jp	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	pleroma.vocalodon.net	pleroma.vocalodon.net	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	pl.telteltel.com	pl.telteltel.com	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	shitposter.club	shitposter.club	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	plero.ma	plero.ma	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	pleroma.site	pleroma.site	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	3.distsn.org	3.distsn.org	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	kawen.space	kawen.space	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	ple.watachan.net	ple.watachan.net	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	talknet.akabe.co	talknet.akabe.co	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	plrm.beanlog.xyz	plrm.beanlog.xyz	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	pl.smuglo.li	pl.smuglo.li	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	sale.gauchiste.club	sale.gauchiste.club	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	weeaboo.space	weeaboo.space	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	thechad.zone	thechad.zone	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	the.hedgehoghunter.club	the.hedgehoghunter.club	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	cat.social	cat.social	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	sink.big.mt	sink.big.mt	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	social.sakamoto.gq	social.sakamoto.gq	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	letsalllovela.in	letsalllovela.in	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	iscute.moe	iscute.moe	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	social.beepboop.ga	social.beepboop.ga	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	pleroma.nakanod.net	pleroma.nakanod.net	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	pleroma.io	pleroma.io	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	rabbit.country	rabbit.country	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	pla.social	pla.social	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	pleroma7.pla1.net	pleroma7.pla1.net	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	pleroma.pla1.net	pleroma.pla1.net	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	soliton.nonlinear.zone	soliton.nonlinear.zone	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	social.toromino.de	social.toromino.de	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	p.lmao.tf	p.lmao.tf	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	shitpost.beep.computer	shitpost.beep.computer	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	social.libre.fi	social.libre.fi	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-3	p.a3.pm	p.a3.pm	#da5	#123	https://wee.jp/2/03.png	18	(c)weepjp CC BY 4.0						
-4	misskey.xyz	misskey.xyz	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/Misskey					
-4	misskey.jp	misskey.jp	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	msk.kirigakure.net	msk.kirigakure.net	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	misskey.site	misskey.site	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	misskey.m544.net	misskey.m544.net	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	misskey.saibou.work	misskey.saibou.work	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	misskey.xps2.net	misskey.xps2.net	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	mewl.me	mewl.me	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	msky.jnsk.info	msky.jnsk.info	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	7.distsn.org	7.distsn.org	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	💛.tk	xn--6r8h.tk	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	misskey.barippi.com	misskey.barippi.com	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	msky.tokyo	msky.tokyo	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	misskey.myhome.cx	misskey.myhome.cx	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	misskey.love	misskey.love	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	mk.kigurumi.fun	mk.kigurumi.fun	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	noir.pub	noir.pub	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	social.galaxy.cat	social.galaxy.cat	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	msky.naru.cafe	msky.naru.cafe	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	misskey.social	misskey.social	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	uselesslesbian.club	uselesslesbian.club	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	lifeisabug.com	lifeisabug.com	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	uhouho.xyz	uhouho.xyz	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	re.kirishima.cloud	re.kirishima.cloud	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	yuzulia.xyz	yuzulia.xyz	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	mk.yuzulia.com	mk.yuzulia.com	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	misskey.nokotaro.com	misskey.nokotaro.com	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	msk.kirigakure.net	msk.kirigakure.net	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	kawaii.social	kawaii.social	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	emoji.msky.work	emoji.msky.work	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-4	819.blue	819.blue	#fff	#17a	https://wee.jp/2/04.png	18	(c)weepjp CC BY 4.0						
-5	peertube.cpy.re	peertube.cpy.re	#000	#fff, #fff, #fff	https://wee.jp/2/05.png	18	(c)weepjp CC BY 4.0	https://ja.mstdn.wiki/PeerTube					
-5	peertube.jp.net	peertube.jp.net	#000	#fff, #fff, #fff	https://wee.jp/2/05.png	18	(c)weepjp CC BY 4.0						
-5	tube.h3z.jp	tube.h3z.jp	#000	#fff, #fff, #fff	https://wee.jp/2/05.png	18	(c)weepjp CC BY 4.0						
-5	video.blender.org	video.blender.org	#000	#fff, #fff, #fff	https://wee.jp/2/05.png	18	(c)weepjp CC BY 4.0						
-5	tube.yukimochi.jp	tube.yukimochi.jp	#000	#fff, #fff, #fff	https://wee.jp/2/05.png	18	(c)weepjp CC BY 4.0						
-5	peertube.mastodon.host	peertube.mastodon.host	#000	#fff, #fff, #fff	https://wee.jp/2/05.png	18	(c)weepjp CC BY 4.0						
-5	peertube.video	peertube.video	#000	#fff, #fff, #fff	https://wee.jp/2/05.png	18	(c)weepjp CC BY 4.0						
-5	peertube.live	peertube.live	#000	#fff, #fff, #fff	https://wee.jp/2/05.png	18	(c)weepjp CC BY 4.0						
-6	juick.com	juick.com	#fff	#000	https://wee.jp/2/06.png	18	(c)weepjp CC BY 4.0						
-7	info.ikebuku.ro	info.ikebuku.ro	#000	#eee, #eee, #fff	https://wee.jp/2/07.png	18	(c)weepjp CC BY 4.0						
-8	pxlfd.me	pxlfd.me	#000	#fff	https://wee.jp/2/08.png	18	(c)weepjp CC BY 4.0						
-10	plus.haruk.in	plus.haruk.in	#fff	#448	https://wee.jp/2/10.png	18	(c)weepjp CC BY 4.0						
-11	osada.app	osada.app	#fff	#334,#334	https://wee.jp/2/11.png	18	(c)weepjp CC BY 4.0						
+[0] #InstanceTicker (Type-0) Ver.201901292039.tsv - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
+0	senooken.jp	social.senooken.jp	#fff	#c77	https://wee.jp/2/0.png	18	代替アイコン						
+0	js4.in	js4.in	#fff	#c77	https://wee.jp/2/0.png	18	代替アイコン						
+0	quitter.im	quitter.im	#fff	#c77	https://wee.jp/2/0.png	18	代替アイコン						
+0	bitcast.info	social.bitcast.info	#fff	#c77	https://wee.jp/2/0.png	18	代替アイコン						
+1	閉鎖済み	theboss.tech	#fff	#666	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Theboss.tech					
+1	閉鎖済み	masi.theboss.tech	#fff	#666	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Theboss.tech					
+1	閉鎖済み	pptdn.popnja.com	#fff	#666	https://wee.jp/2/1.png	18	代替アイコン		https://pptdn.popnja.com/@popn_ja/101170529451258116				
+1	mstdn.jp	mstdn.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.jp					
+1	mstdn.cc	mstdn.cc	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.beer	mstdn.beer	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.blue	mstdn.blue	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.guru	mstdn.guru	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.guru					
+1	mstdn.tw	mstdn.tw	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.club	mstdn.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.club					
+1	mstdn.love	mstdn.love	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.love					
+1	mstdn.fm	mstdn.fm	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	tablegame.mstdn.cloud	tablegame.mstdn.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Dasoran					
+1	socialgame.mstdn.cloud	socialgame.mstdn.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Dasoran					
+1	anime.mstdn.cloud	anime.mstdn.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Dasoran					
+1	gamecreate.mstdn.cloud	gamecreate.mstdn.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Dasoran					
+1	azurlane.mastportal.info	azurlane.mastportal.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB					
+1	animal-crossing.mastportal.info	animal-crossing.mastportal.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB					
+1	pokemon.mastportal.info	pokemon.mastportal.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%83%9D%E3%82%B1%E3%83%9E%E3%82%B9					
+1	osomatsu.mastportal.info	osomatsu.mastportal.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB					
+1	mastodon.chotto.moe	mastodon.chotto.moe	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	jitakurack.chotto.moe	jitakurack.chotto.moe	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.hostdon.jp	mstdn.hostdon.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Hostdon					
+1	chaosphere.hostdon.jp	chaosphere.hostdon.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	gldon.hostdon.jp	gldon.hostdon.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mostodon.cloud	mostodon.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mostodon.cloud					
+1	zhenya.masto.host	zhenya.masto.host	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	wndp.masto.host	wndp.masto.host	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	okadon.masto.host	okadon.masto.host	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	yukoyajp.masto.host	yukoyajp.masto.host	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	porkmeeting.masto.host	porkmeeting.masto.host	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	now.kibousoft.co.jp	now.kibousoft.co.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Kibousoft_Now					
+1	pawoo.net	pawoo.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Pawoo					
+1	music.pawoo.net	music.pawoo.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Pawoo_Music					
+1	friends.nico	friends.nico	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Friends.nico					
+1	knzk.me	knzk.me	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://dic.nicovideo.jp/id/5482954					
+1	mstdn-workers.com	mstdn-workers.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%9F%E3%81%A1%E3%81%AEMastodon					
+1	mstdn.kemono-friends.info	mstdn.kemono-friends.info	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%81%BE%E3%81%99%E3%81%A8%E3%81%A9%E3%82%93%E3%81%A1%E3%81%BB%E3%83%BC					
+1	mstdn.hokkaido.jp	mstdn.hokkaido.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.hokkaido.jp					
+1	iwatedon.net	iwatedon.net	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Iwatedon.net					
+1	tokamstdn.jp	tokamstdn.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E3%81%AEMastodon					
+1	ashikaga.link	ashikaga.link	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E8%B6%B3%E5%88%A9%E5%B8%82%E3%81%AEMastodon					
+1	odakyu.app	odakyu.app	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E5%B0%8F%E7%94%B0%E6%80%A5don					
+1	itabashi.0j0.jp	itabashi.0j0.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Itabashi.0j0.jp					
+1	mstdn.ikebuku.ro	mstdn.ikebuku.ro	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.tokyo	mstdn.tokyo	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.tokyo					
+1	mstdn.msky.tokyo	mstdn.msky.tokyo	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン						
+1	east.mstdn.tokyo	east.mstdn.tokyo	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/East.mstdn.tokyo					
+1	mastodon.yokohama	mastodon.yokohama	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.yokohama					
+1	nagoyadon.jp	nagoyadon.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%B8%BC					
+1	mstdn.osaka	mstdn.osaka	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.osaka					
+1	minohdon.jp	minohdon.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Minohdon.jp					
+1	ngndn.jp	ngndn.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/NaGaNoDoN_%E3%83%8A%E3%82%AC%E3%83%8E%E3%83%89%E3%83%B3					
+1	biwakodon.com	biwakodon.com	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%81%B3%E3%82%8F%E6%B9%96%E3%81%AB%E6%9A%AE%E3%82%89%E3%81%99%E4%BA%BA%E3%81%AEMastodon					
+1	mstdn-kanazawa.jp	mstdn-kanazawa.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn-kanazawa.jp					
+1	mastodos.com	mastodos.com	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%81%A9%E3%81%99					
+1	mastodon.wakayama.jp	mastodon.wakayama.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E4%B8%BC					
+1	mastodon.nara.jp	mastodon.nara.jp	#fff	#262 90%,#eee 17px	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.nara.jp					
+1	mstdn.hyogo.jp	mstdn.hyogo.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.hyogo.jp					
+1	mstdn.sanin.link	mstdn.sanin.link	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E5%B1%B1%E9%99%B0%E4%BA%A4%E9%80%9A%E4%B8%BC					
+1	shikokudon.m.to	shikokudon.m.to	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Shikokudon.m.to					
+1	mstdn.fukuoka.jp	mstdn.fukuoka.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.fukuoka.jp					
+1	mastodon.oita.jp	mastodon.oita.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.oita.jp					
+1	mstdn.miyazaki.jp	mstdn.miyazaki.jp	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/MastoDongene_%E5%AE%AE%E5%B4%8E					
+1	tegedon.net	tegedon.net	#fff	#262	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Tegedon					
+1	mstdn.maud.io	mstdn.maud.io	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.maud.io					
+1	mstdn.y-zu.org	mstdn.y-zu.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.y-zu.org					
+1	oransns.com	oransns.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Oransns.com					
+1	v2.nyoki.club	v2.nyoki.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	abyss.fun	abyss.fun	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Abyss.fun					
+1	mstdn.nere9.help	mstdn.nere9.help	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.nere9.help					
+1	mastodon.juggler.jp	mastodon.juggler.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.juggler.jp					
+1	ding-dong.asmodeus.tokyo	ding-dong.asmodeus.tokyo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon-train.info	mastodon-train.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.home.js4.in	mastodon.home.js4.in	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/IPv6%E3%83%89%E3%83%B3					
+1	mstdn.komittee.net	mstdn.komittee.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.mimikun.jp	mstdn.mimikun.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.f72u.net	mstdn.f72u.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	v1x3n.net	v1x3n.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/V1x3n.net					
+1	social.arnip.org	social.arnip.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	social.bluecore.net	social.bluecore.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.asterism.xyz	mstdn.asterism.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	gensokyo.town	gensokyo.town	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Gensokyo.town					
+1	social.mikutter.hachune.net	social.mikutter.hachune.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Social.mikutter.hachune.net					
+1	pcgamer.social	pcgamer.social	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	dtp-mstdn.jp	dtp-mstdn.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/DTP-Mstdn.jp					
+1	mstdn.h3z.jp	mstdn.h3z.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	social.0ko.me	social.0ko.me	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	don.gomasy.jp	don.gomasy.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	ミニ四駆DON	mstdn.mini4wd-engineer.com	#fff	#26a	https://wee.jp/o/mini4wd.png	32	管理者提出	https://ja.mstdn.wiki/%E3%83%9F%E3%83%8B%E5%9B%9B%E9%A7%86DON	https://mstdn.mini4wd-engineer.com/@kumanotetu/101067852009767326	https://archive.fo/X3zwy	https://archive.fo/X3zwy		
+1	claristdon.net	claristdon.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	claris.cf	claris.cf	#003	#ffc7c8	https://wee.jp/o/claris_cf.png	17	管理者提出	https://ja.mstdn.wiki/Claris.cf		https://archive.fo/Okzug	https://archive.fo/Okzug		
+1	toot.playground.ws	toot.playground.ws	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	m.auri.ga	m.auri.ga	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.motcha.tech	mastodon.motcha.tech	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.motcha.tech					
+1	mastodon.crazynewworld.net	mastodon.crazynewworld.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	yakumo.foundation	yakumo.foundation	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	tsuki.network	tsuki.network	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.awa.sfc.keio.ac.jp	mstdn.awa.sfc.keio.ac.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.awa.sfc.keio.ac.jp					
+1	utodon.jp	utodon.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/UTodon					
+1	taruntarun.net	taruntarun.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	💌私信	si.pmpm.pw	#000	#fff,#fff	https://wee.jp/2/1.png	18	代替アイコン				https://archive.fo/mJSSm		
+1	raptol.net	raptol.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mast.moe	mast.moe	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	momoiro9.ro	momoiro9.ro	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	social.hideo54.com	social.hideo54.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	under-bank.blue	under-bank.blue	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	raspidon.mamemo.online	raspidon.mamemo.online	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	sukebeneko.com	sukebeneko.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	vocalodon.net	vocalodon.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Vocalodon					
+1	mstdn.tomokiwakimoto.com	mstdn.tomokiwakimoto.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mikuspot.net	mikuspot.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/MIKUSPOT					
+1	39sounds.net	39sounds.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mikumikudance.cloud	mikumikudance.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mikumikudance.cloud					
+1	iguanodon.net	iguanodon.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	ertona.net	ertona.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	alserver.jp	alserver.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	msdnaart.net	msdnaart.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Msdnaart.net					
+1	don.mamemo.online	don.mamemo.online	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.lithium03.info	mastodon.lithium03.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.poyo.me	mstdn.poyo.me	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Poyo.me					
+1	ro-mastodon.puyo.jp	ro-mastodon.puyo.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/RO%E4%B8%BC					
+1	toot.yukimochi.jp	toot.yukimochi.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E9%9B%AA%E9%A4%85					
+1	mustardon.tokyo	mustardon.tokyo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	setl.ist	setl.ist	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mst.m544.net	mst.m544.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%82%81%E3%81%84%E3%82%81%E3%81%84					
+1	prinsesse.co	prinsesse.co	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	orikilli.yaruki0.net	orikilli.yaruki0.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.rinsuki.net	mstdn.rinsuki.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	rainyman.jp	rainyman.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.kanagu.info	mstdn.kanagu.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.cardina1.red	mastodon.cardina1.red	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.zunda.ninja	mastodon.zunda.ninja	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	isidai.com	isidai.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	tebukuro.pw	tebukuro.pw	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	tebukuro.m.to	tebukuro.m.to	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	たいやきん家	mstdn.taiyaki.online	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン				https://archive.fo/d3uzw		
+1	cironnup.com	cironnup.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.matcha-soft.com	mastodon.matcha-soft.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	md.ggtea.org	md.ggtea.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	altdn.me	altdn.me	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	matitodon.com	matitodon.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%81%BE%E3%81%A1%E3%83%88%E3%83%89%E3%83%B3					
+1	handon.club	handon.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	gamelinks007.net	gamelinks007.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Creatodon					
+1	mstdn.fujii-yuji.net	mstdn.fujii-yuji.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	Telmina’s TL	tl.telmina.com	#fff	#008060	https://wee.jp/2/1.png	18	代替アイコン		https://tl.telmina.com/@Telmina/101233441633013227		https://archive.fo/IyPfu		
+1	LIBERA S2	s2.libera.blue	#fff	#004ea2	https://wee.jp/2/1.png	18	代替アイコン		https://s2.libera.blue/@Telmina/101233453464838392		https://archive.fo/E7683		
+1	imastodon.net	imastodon.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Imastodon.net					
+1	gorone.xyz	gorone.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	ffxiv-mastodon.com	ffxiv-mastodon.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Ffxiv-mastodon.com					
+1	syasai.club	syasai.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.precure.fun	mstdn.precure.fun	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.inct-densan.club	mstdn.inct-densan.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	muknown.jp	muknown.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.potproject.net	mastodon.potproject.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	popon.pptdn.jp	popon.pptdn.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	yysk.icu	yysk.icu	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	toot.blue	toot.blue	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.gtn-works.com	mstdn.gtn-works.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	angraecumnote.net	angraecumnote.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	real-escape.jp	real-escape.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	ukadon.shillest.net	ukadon.shillest.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	don.neso.tech	don.neso.tech	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.snowandtweet.jp	mastodon.snowandtweet.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.snowandtweet.jp					
+1	mstdn.klamath.jp	mstdn.klamath.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mathtod.online	mathtod.online	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	seichi.work	seichi.work	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	steam-don.fun	steam-don.fun	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.kurosuke.org	mstdn.kurosuke.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	felesitas.cloud	felesitas.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.res.ac	mstdn.res.ac	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mdn.hinaloe.net	mdn.hinaloe.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.dasoran.net	mstdn.dasoran.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	fla.red	fla.red	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Fla.red					
+1	qiitadon.com	qiitadon.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.soysoftware.net	mstdn.soysoftware.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	otogamer.me	otogamer.me	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Otogamer.me					
+1	otoya.space	otoya.space	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E9%9F%B3%E5%B1%8B%E4%B8%BC					
+1	photodn.net	photodn.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.ryanak.xyz	mstdn.ryanak.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	digineko.jp	digineko.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	don.m2hq.net	don.m2hq.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.unasuke.com	mstdn.unasuke.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.osyakasyama.me	mastodon.osyakasyama.me	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	testingmstdn.abcang.net	testingmstdn.abcang.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	hige.alterna-cloud.com	hige.alterna-cloud.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.сумирэ.рф	mstdn.xn--h1ahnbk7d.xn--p1ai	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.a-tak.com	mstdn.a-tak.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	shiroganedon.net	shiroganedon.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	gingadon.com	gingadon.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E9%8A%80%E6%B2%B3%E4%B8%BC					
+1	mstdn.haun.jp	mstdn.haun.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	pao.moe	pao.moe	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.kuriuzu.tk	mstdn.kuriuzu.tk	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	amemiya.work	amemiya.work	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.glorificatio.org	mstdn.glorificatio.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	meganekeesu.tokyo	meganekeesu.tokyo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodooooooon.xyz	mastodooooooon.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	md.xps2.net	md.xps2.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	solna.in	solna.in	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	gadget.inpocket.net	gadget.inpocket.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	wug.fun	wug.fun	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Wugtodon					
+1	netstat.app	netstat.app	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	kakudon.com	kakudon.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Kakudon.com					
+1	social.kimamass.com	social.kimamass.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	qnmd.info	qnmd.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	kuroringo.com	kuroringo.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.yakitamago.info	mstdn.yakitamago.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	makimaki.jp	makimaki.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.nekonote.cc	mstdn.nekonote.cc	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	kurage.cc	kurage.cc	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Kurage.cc					
+1	mstdn.atcurio.com	mstdn.atcurio.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	junkhub.org	junkhub.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	cpper.xyz	cpper.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	yamaken.jp	yamaken.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	gnosia.info	gnosia.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	omochi.xyz	omochi.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mosw.work	mosw.work	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.tmp1024.com	mastodon.tmp1024.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	obitsudon.midyuki.net	obitsudon.midyuki.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	grain.izayoiwind.net	grain.izayoiwind.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.kessai-otaku.club	mstdn.kessai-otaku.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	md.paoon.social	md.paoon.social	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	yakiniku.cloud	yakiniku.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	kirishima.cloud	kirishima.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Kirishima.cloud					
+1	sandbox.skoji.jp	sandbox.skoji.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	bookwor.ms	bookwor.ms	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	www.mstddntfdn.online	www.mstddntfdn.online	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.imoimo.xyz	mstdn.imoimo.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.schoolidol.club	mstdn.schoolidol.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	homoo.social	homoo.social	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn-jp.site	mstdn-jp.site	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	flower.afn.social	flower.afn.social	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Flower.afn.social					
+1	kancolle.social	kancolle.social	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	august-don.site	august-don.site	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E9%9B%AA%E9%A4%85					
+1	precure.ml	precure.ml	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Precure.ml					
+1	blessedgeeks.org	blessedgeeks.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	kero.ccsakura.jp	kero.ccsakura.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Kero.ccsakura.jp					
+1	mstdn.hinabita.com	mstdn.hinabita.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	clonis.xyz	clonis.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	animedon.chao.tokyo	animedon.chao.tokyo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mochiwasadon.com	mochiwasadon.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	hexadon.net	hexadon.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastdon.amazedkoumei.com	mastdon.amazedkoumei.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.kitchen	mastodon.kitchen	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	kemonodon.club	kemonodon.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Kemonodon.club					
+1	ichiji.social	ichiji.social	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Ichiji.social					
+1	wasaradan.m.to	wasaradan.m.to	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%83%AF%E3%82%B5%E3%83%A9%E3%83%80%E3%83%B3					
+1	mstdn-bike.net	mstdn-bike.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.tokyocameraclub.com	mstdn.tokyocameraclub.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mental.social	mental.social	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	nitiasa.com	nitiasa.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	nt.mstdon.app	nt.mstdon.app	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.vtube.media	mstdn.vtube.media	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%81%B6%E3%81%84%E3%81%A4%E3%81%B9%E3%81%A9%E3%82%93					
+1	plasticmodels.tokyo	plasticmodels.tokyo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	m6n.onsen.tech	m6n.onsen.tech	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon_Onsen					
+1	syamutodon.xyz	syamutodon.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Syamutodon.xyz					
+1	mstdn.yjsnpi.nu	mstdn.yjsnpi.nu	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon%E6%B7%AB%E5%A4%A2					
+1	foresdon.jp	foresdon.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Foresdon.jp					
+1	mzn-potatochips.me	mzn-potatochips.me	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	steam-don.fun	steam-don.fun	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodol.jp	mastodol.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.futaba-works.com	mstdn.futaba-works.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.cosplayer.com	mstdn.cosplayer.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.moe-max.jp	mstdn.moe-max.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	マストドン.jp	xn--zck4ad5f2e.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3.jp					
+1	ef67.myhome.cx	ef67.myhome.cx	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.binfish.jp	mstdn.binfish.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	justodon.net	justodon.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.noraworld.jp	mastodon.noraworld.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.cosnomi.com	mstdn.cosnomi.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mimumedon.com	mimumedon.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.ht164.jp	mstdn.ht164.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	naokisz.tk	naokisz.tk	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	z-flag.work	z-flag.work	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	catdon.life	catdon.life	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	foodon.jp	foodon.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	+Plustodon	plustodon.net	#fff	#db4437	https://wee.jp/o/plustodon.png	18	パブリックドメイン		https://plustodon.net/@akyoz/101237916976159149	https://archive.fo/m90Tn	https://archive.fo/m90Tn		
+1	7144.party	7144.party	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.diglateam3.com	mastodon.diglateam3.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	Netherdon	netherdon.nyadobe.online	#fff	#dc632c	https://wee.jp/2/1.png	18	代替アイコン		https://netherdon.nyadobe.online/@nyadobe/101068032885367348				
+1	newjack.city	newjack.city	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mobile.st	mobile.st	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	maho.app	maho.app	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	backyard.cloud	backyard.cloud	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	hearthtodon.com	hearthtodon.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Hearthtodon					
+1	hakorena.net	hakorena.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.toyoko.in	mstdn.toyoko.in	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.square-rooty.org	mstdn.square-rooty.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	artritelacy.jp	artritelacy.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	ika.queloud.net	ika.queloud.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	eletusk.club	eletusk.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	manhole.club	manhole.club	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	heislandmine.work	heislandmine.work	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン		https://heislandmine.work/@Heislandmine/101233329520993598				
+1	mstdn.sasachi.tokyo	mstdn.sasachi.tokyo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.ropo.jp	mstdn.ropo.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	ykzts.technology	ykzts.technology	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	kiritan.work	kiritan.work	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Kiritan.work					
+1	kemoshi.co	kemoshi.co	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Kemoshi.co					
+1	mastodon.bitbank.cc	mastodon.bitbank.cc	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.bitbank.cc					
+1	mstdn.camera	mstdn.camera	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.Camera					
+1	danshudon.jp	danshudon.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Danshudon.jp					
+1	googoldon.net	googoldon.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Googoldon					
+1	weep.me	weep.me	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン		https://weep.me/@weep/101030699173187260				
+1	unnerv.jp	unnerv.jp	#fff	#e12	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Unnerv.jp					
+1	mstdn.nil.nu	mstdn.nil.nu	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.nil.nu					
+1	mstdn.misosi.ru	mstdn.misosi.ru	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	norimi.ch	norimi.ch	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	don.8mitsu.net	don.8mitsu.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.b-shock.org	mstdn.b-shock.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	ma.fono.jp	ma.fono.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	comm.cx	comm.cx	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン		https://comm.cx/@ikuradon/101228751704501724				
+1	shimaidon.net	shimaidon.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	terusid.com	terusid.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	svrdn.drillion.net	svrdn.drillion.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	pekepeke.work	pekepeke.work	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	popon.pptdn.jp	popon.pptdn.jp	#fff	#fb5	https://wee.jp/2/1.png	18	代替アイコン		https://popon.pptdn.jp/@popn_ja/101165403426828050		https://archive.fo/mxgsH		
+1	edge4cube.work	social.edge4cube.work	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン		https://social.edge4cube.work/@popn_ja/101170111975395733		https://archive.fo/CMDLO		
+1	waraiotoko.net	waraiotoko.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.boxp.tk	mstdn.boxp.tk	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	gamecluster.net	gamecluster.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.nieein56.xyz	mstdn.nieein56.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	fumufu.xyz	fumufu.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	fetishdon.tk	fetishdon.tk	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	doll.social	doll.social	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodoll.net	mastodoll.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	hack.syscaller.jp	hack.syscaller.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.dgm.pw	mstdn.dgm.pw	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	gochisou.photo	gochisou.photo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.ijs01140.com	mstdn.ijs01140.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	toot.loner.jp	toot.loner.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	m.upsilo.net	m.upsilo.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mikado-city.jp	mikado-city.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn-amadeus.tech	mstdn-amadeus.tech	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	akanechan.love	akanechan.love	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.plusminus.io	mstdn.plusminus.io	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	machida.yokohama	machida.yokohama	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	djanzu.tokyo	djanzu.tokyo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	stellaria.network	stellaria.network	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	m.aqr.af	m.aqr.af	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	twitchain.net	twitchain.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	cute2d.xyz	cute2d.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	headphone.actor	headphone.actor	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	tokotodon.m.to	tokotodon.m.to	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.tackman.info	mastodon.tackman.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	ap.kitahina.co	ap.kitahina.co	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	don.thinaticsystem.com	don.thinaticsystem.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	ap.kitahina.co	ap.kitahina.co	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	wlw.pw	wlw.pw	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.ryecroft21.net	mstdn.ryecroft21.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	dotdon.jp	dotdon.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	vapers.jp	vapers.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	gorone-xyz.noellabo.jp	gorone-xyz.noellabo.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.ponseta.ga	mstdn.ponseta.ga	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	hakomas.cf	hakomas.cf	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	pomdon.top	pomdon.top	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+2	mastodon.social	mastodon.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.social					
+2	mastodon.xyz	mastodon.xyz	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.xyz					
+2	mastodon.cloud	mastodon.cloud	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.cloud					
+2	mastodon.moe	mastodon.moe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.moe					
+2	mastodon.host	mastodon.host	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.host					
+2	mastodon.art	mastodon.art	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.ART					
+2	mastodon.club	mastodon.club	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mastodon.at	mastodon.at	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mastodon.technology	mastodon.technology	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	quey.org	quey.org	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	humblr.social	humblr.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	masto.pt	masto.pt	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Masto.pt					
+2	bofa.lol	bofa.lol	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	niu.moe	niu.moe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Niu.moe					
+2	mstdn.io	mstdn.io	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mstdn.io					
+2	ika.moe	ika.moe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Ika.moe					
+2	octodon.social	octodon.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon_Instances_(octodon.social)					
+2	cybre.space	cybre.space	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mamot.fr	mamot.fr	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastory					
+2	kirakiratter.com	kirakiratter.com	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Kirakiratter.com					
+2	switter.at	switter.at	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Switter.at					
+2	glitch.social	glitch.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Glitch.social					
+2	ephemeral.glitch.social	ephemeral.glitch.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Ephemeral.glitch.social					
+2	twingyeo.kr	twingyeo.kr	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Twingyeo.kr					
+2	occult.camp	occult.camp	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	awooo.club	awooo.club	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	shelter.moe	shelter.moe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	framapiaf.org	framapiaf.org	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Framapiaf.org					
+2	diaspodon.fr	diaspodon.fr	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	queer.town	queer.town	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	witchcraft.cafe	witchcraft.cafe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	eldritch.cafe	eldritch.cafe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	radical.town	radical.town	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	jorts.horse	jorts.horse	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	sunbeam.city	sunbeam.city	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	hostux.social	hostux.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	chaos.social	chaos.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	cmx.im	cmx.im	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Cmx.im					
+2	qoto.org	qoto.org	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	guillotines.masto.host	guillotines.masto.host	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	todon.nl	todon.nl	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	toot.cat	toot.cat	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	fosstodon.org	fosstodon.org	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	wandering.shop	wandering.shop	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mastodon.sdf.org	mastodon.sdf.org	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	icosahedron.website	icosahedron.website	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	soc.ialis.me	soc.ialis.me	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	cryptids.online	cryptids.online	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	wxw.moe	wxw.moe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Wxw.moe					
+2	toot.cafe	toot.cafe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mastodon.tetaneutral.net	mastodon.tetaneutral.net	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	social.taker.fr	social.taker.fr	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	elekk.xyz	elekk.xyz	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	yiff.life	yiff.life	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	playvicious.social	playvicious.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	twinja.club	twinja.club	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	4eva.online	4eva.online	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	shelter.moe	shelter.moe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	aus.social	aus.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	social.coop	social.coop	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	chitter.xyz	chitter.xyz	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mastodon.ketchupma.io	mastodon.ketchupma.io	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	gensokyo.social	gensokyo.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	chat.cdstm.ch	chat.cdstm.ch	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	kosmos.social	kosmos.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	whomst.dog	whomst.dog	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	toot.la	toot.la	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	innerwebs.social	innerwebs.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	pony.social	pony.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	snouts.online	snouts.online	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	appdot.net	appdot.net	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mast.eu.org	mast.eu.org	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	queer.party	queer.party	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mao.daizhige.org	mao.daizhige.org	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mao.daizhige.org					
+2	843.pl	843.pl	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	the.goofs.space	the.goofs.space	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	witches.live	witches.live	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	social.targaryen.house	social.targaryen.house	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	social.homunyan.com	social.homunyan.com	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	toot.chat	toot.chat	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	uwu.social	uwu.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	donphan.social	donphan.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mastd.racing	mastd.racing	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	die-partei.social	die-partei.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	en.osm.town	en.osm.town	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	noagendasocial.com	noagendasocial.com	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	nulled.red	nulled.red	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	toot-lab.reclaim.technology	toot-lab.reclaim.technology	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	kitty.town	kitty.town	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	social.wxcafe.net	social.wxcafe.net	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	infosec.exchange	infosec.exchange	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	computerfairi.es	computerfairi.es	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	social.imirhil.fr	social.imirhil.fr	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	birdsite.link	birdsite.link	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	animeisgay.com	animeisgay.com	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	deadinsi.de	deadinsi.de	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	comicscamp.club	comicscamp.club	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	banana.dog	banana.dog	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mstdn.selfhosting.rocks	mstdn.selfhosting.rocks	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	fellies.social	fellies.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mast.datamol.org	mast.datamol.org	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	royalaid.me	royalaid.me	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mstdn.quebec.gq	mstdn.quebec.gq	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mastodon.lubar.me	mastodon.lubar.me	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	toot.devfs.xyz	toot.devfs.xyz	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	glasses.moe	glasses.moe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	social.linux.pizza	social.linux.pizza	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	social.dropbear.xyz	social.dropbear.xyz	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	hellsite.tyronesama.moe	hellsite.tyronesama.moe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	producers.masto.host	producers.masto.host	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mastodon.macsnet.cz	mastodon.macsnet.cz	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	calc.news	calc.news	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	greenlifeplus.net	greenlifeplus.net	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	ramses.amicidelbaretto.org	ramses.amicidelbaretto.org	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	social.unextro.net	social.unextro.net	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mastodon.barkshark.tk	mastodon.barkshark.tk	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	beach.city	beach.city	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	takeoverthe.world	takeoverthe.world	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	miaou.drycat.fr	miaou.drycat.fr	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	onster.farm	onster.farm	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	plush.city	plush.city	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	es.muy.moe	es.muy.moe	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	botsin.space	botsin.space	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+3	pleroma.soykaf.com	pleroma.soykaf.com	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン	https://ja.mstdn.wiki/Pleroma					
+3	pleroma.gdgd.jp.net	pleroma.gdgd.jp.net	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	plrm.ht164.jp	plrm.ht164.jp	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pleroma.vocalodon.net	pleroma.vocalodon.net	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pl.telteltel.com	pl.telteltel.com	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	shitposter.club	shitposter.club	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	plero.ma	plero.ma	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pleroma.site	pleroma.site	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	3.distsn.org	3.distsn.org	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	kawen.space	kawen.space	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	ple.watachan.net	ple.watachan.net	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	talknet.akabe.co	talknet.akabe.co	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	plrm.beanlog.xyz	plrm.beanlog.xyz	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pl.smuglo.li	pl.smuglo.li	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	sale.gauchiste.club	sale.gauchiste.club	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	weeaboo.space	weeaboo.space	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	the.hedgehoghunter.club	the.hedgehoghunter.club	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	social.sakamoto.gq	social.sakamoto.gq	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	letsalllovela.in	letsalllovela.in	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	iscute.moe	iscute.moe	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	social.beepboop.ga	social.beepboop.ga	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pleroma.nakanod.net	pleroma.nakanod.net	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pleroma.io	pleroma.io	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	rabbit.country	rabbit.country	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pla.social	pla.social	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pleroma7.pla1.net	pleroma7.pla1.net	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pleroma.pla1.net	pleroma.pla1.net	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	soliton.nonlinear.zone	soliton.nonlinear.zone	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	social.toromino.de	social.toromino.de	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	social.libre.fi	social.libre.fi	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	p.a3.pm	p.a3.pm	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+4	misskey.xyz	misskey.xyz	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン	https://ja.mstdn.wiki/Misskey					
+4	misskey.jp	misskey.jp	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	msk.kirigakure.net	msk.kirigakure.net	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	misskey.m544.net	misskey.m544.net	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	misskey.xps2.net	misskey.xps2.net	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	mewl.me	mewl.me	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	💛.tk	xn--6r8h.tk	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	misskey.barippi.com	misskey.barippi.com	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	msky.tokyo	msky.tokyo	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	misskey.myhome.cx	misskey.myhome.cx	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	misskey.love	misskey.love	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	mk.kigurumi.fun	mk.kigurumi.fun	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	noir.pub	noir.pub	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	msky.naru.cafe	msky.naru.cafe	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	misskey.social	misskey.social	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	uselesslesbian.club	uselesslesbian.club	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	lifeisabug.com	lifeisabug.com	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	uhouho.xyz	uhouho.xyz	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	yuzulia.xyz	yuzulia.xyz	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	misskey.nokotaro.com	misskey.nokotaro.com	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	msk.kirigakure.net	msk.kirigakure.net	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	emoji.msky.work	emoji.msky.work	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	819.blue	819.blue	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+4	i.mi.xeltica.work	i.mi.xeltica.work	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
+5	peertube.cpy.re	peertube.cpy.re	#000	#fff, #fff, #fff	https://wee.jp/2/5.png	18	代替アイコン	https://ja.mstdn.wiki/PeerTube					
+5	peertube.jp.net	peertube.jp.net	#000	#fff, #fff, #fff	https://wee.jp/2/5.png	18	代替アイコン						
+5	tube.h3z.jp	tube.h3z.jp	#000	#fff, #fff, #fff	https://wee.jp/2/5.png	18	代替アイコン						
+5	video.blender.org	video.blender.org	#000	#fff, #fff, #fff	https://wee.jp/2/5.png	18	代替アイコン						
+5	tube.yukimochi.jp	tube.yukimochi.jp	#000	#fff, #fff, #fff	https://wee.jp/2/5.png	18	代替アイコン						
+5	peertube.mastodon.host	peertube.mastodon.host	#000	#fff, #fff, #fff	https://wee.jp/2/5.png	18	代替アイコン						
+5	peertube.video	peertube.video	#000	#fff, #fff, #fff	https://wee.jp/2/5.png	18	代替アイコン						
+5	peertube.live	peertube.live	#000	#fff, #fff, #fff	https://wee.jp/2/5.png	18	代替アイコン						
+6	juick.com	juick.com	#fff	#000	https://wee.jp/2/6.png	18	代替アイコン						
+7	info.ikebuku.ro	info.ikebuku.ro	#000	#eee, #eee, #fff	https://wee.jp/2/7.png	18	代替アイコン						
+8	pxlfd.me	pxlfd.me	#000	#fff	https://wee.jp/2/8.png	18	代替アイコン						
+10	plus.haruk.in	plus.haruk.in	#fff	#448	https://wee.jp/2/10.png	18	代替アイコン						
+11	osada.app	osada.app	#fff	#334,#334	https://wee.jp/2/11.png	18	代替アイコン						
