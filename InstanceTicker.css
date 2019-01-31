@@ -1,6 +1,6 @@
 @charset 'utf-8';
 /*-----------------------------
- #InstanceTicker (Type-0) 201901292039.css
+ #InstanceTicker (Type-0) 201901301456.css
  https://wee.jp/mastodon/
 
  Copyright (c) 2018-2019 weepjp
@@ -97,62 +97,66 @@ linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat
 .status a[href^='https://mstdn-workers.com/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn-workers.com'!important;}
 .status a[href^='https://mstdn.kemono-friends.info/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.kemono-friends.info'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'ますとどんちほー'!important;}
 .status a[href^='https://mstdn.hokkaido.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.hokkaido.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'北海丼 (北海道)'!important;}
 .status a[href^='https://iwatedon.net/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'iwatedon.net'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'イワテドン (岩手県)'!important;}
 .status a[href^='https://tokamstdn.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'tokamstdn.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'十日町市 (新潟県)'!important;}
 .status a[href^='https://ashikaga.link/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'ashikaga.link'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'足利市 (栃木県)'!important;}
 .status a[href^='https://odakyu.app/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'odakyu.app'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'小田急don'!important;}
 .status a[href^='https://itabashi.0j0.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'itabashi.0j0.jp'!important;}
-.status a[href^='https://mstdn.ikebuku.ro/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.ikebuku.ro'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'板橋丼 (東京都)'!important;}
 .status a[href^='https://mstdn.tokyo/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.tokyo'!important;}
-.status a[href^='https://mstdn.msky.tokyo/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.msky.tokyo'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'MastodonTokyo (東京都)'!important;}
 .status a[href^='https://east.mstdn.tokyo/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'east.mstdn.tokyo'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'東東京'!important;}
+.status a[href^='https://mstdn.ikebuku.ro/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'Ikebuku.ro (池袋)'!important;}
+.status a[href^='https://mstdn.msky.tokyo/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'池袋丼'!important;}
 .status a[href^='https://mastodon.yokohama/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.yokohama'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'横浜 (神奈川県横浜市)'!important;}
+.status a[href^='https://tekkadon.manimani.cc/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'Tekkadon (神奈川県三浦半島)'!important;}
+.status a[href^='https://sukadon.cf/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'スカ丼 (神奈川県横須賀市)'!important;}
 .status a[href^='https://nagoyadon.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'nagoyadon.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'名古屋丼'!important;}
 .status a[href^='https://mstdn.osaka/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.osaka'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'大阪丼'!important;}
 .status a[href^='https://minohdon.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'minohdon.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'箕面どん (大阪府)'!important;}
 .status a[href^='https://ngndn.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'ngndn.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'ナガノドン (長野県)'!important;}
 .status a[href^='https://biwakodon.com/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'biwakodon.com'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'びわ湖 (滋賀県)'!important;}
 .status a[href^='https://mstdn-kanazawa.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn-kanazawa.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'金沢丼 (石川県)'!important;}
 .status a[href^='https://mastodos.com/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodos.com'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'マストどす (京都府)'!important;}
 .status a[href^='https://mastodon.wakayama.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.wakayama.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'和歌山丼'!important;}
 .status a[href^='https://mastodon.nara.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 90%,#eee 17px )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.nara.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'鹿トドン (奈良県)'!important;}
 .status a[href^='https://mstdn.hyogo.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.hyogo.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'兵庫丼'!important;}
 .status a[href^='https://mstdn.sanin.link/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.sanin.link'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'山陰交通丼 (山陰地方)'!important;}
 .status a[href^='https://shikokudon.m.to/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'shikokudon.m.to'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'四国丼'!important;}
 .status a[href^='https://mstdn.fukuoka.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.fukuoka.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'ふくおかどん (福岡県)'!important;}
 .status a[href^='https://mastodon.oita.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.oita.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'Mastodon 大分'!important;}
 .status a[href^='https://mstdn.miyazaki.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.miyazaki.jp'!important;}
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'MastoDongene 宮崎'!important;}
 .status a[href^='https://tegedon.net/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'tegedon.net'!important;}
-.status a[href^='https://mstdn.maud.io/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
+linear-gradient(to left,transparent,#262 )!important;background-repeat:no-repeat,no-repeat!important;content:'てげどん (鹿児島)'!important;}
+.status a[href^='https://mstdn.maud.io/'] .display-name:after{color:#fff!important;padding-left:28px!important;background: url('https://wee.jp/o/don.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.maud.io'!important;}
 .status a[href^='https://mstdn.y-zu.org/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.y-zu.org'!important;}
@@ -634,8 +638,6 @@ linear-gradient(to left,transparent,#e12 )!important;background-repeat:no-repeat
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.nil.nu'!important;}
 .status a[href^='https://mstdn.misosi.ru/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'mstdn.misosi.ru'!important;}
-.status a[href^='https://norimi.ch/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
-linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'norimi.ch'!important;}
 .status a[href^='https://don.8mitsu.net/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'don.8mitsu.net'!important;}
 .status a[href^='https://mstdn.b-shock.org/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
@@ -668,9 +670,9 @@ linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'fumufu.xyz'!important;}
 .status a[href^='https://fetishdon.tk/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'fetishdon.tk'!important;}
-.status a[href^='https://doll.social/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
+.status a[href^='https://doll.social/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/o/doll.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'doll.social'!important;}
-.status a[href^='https://mastodoll.net/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
+.status a[href^='https://mastodoll.net/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/o/doll.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodoll.net'!important;}
 .status a[href^='https://hack.syscaller.jp/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'hack.syscaller.jp'!important;}
@@ -732,6 +734,8 @@ linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'hakomas.cf'!important;}
 .status a[href^='https://pomdon.top/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
 linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'pomdon.top'!important;}
+.status a[href^='https://9177xe.tokyo/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/1.png'),
+linear-gradient(to left,transparent,#26a )!important;background-repeat:no-repeat,no-repeat!important;content:'9177xe.tokyo'!important;}
 .status a[href^='https://mastodon.social/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/2.png'),
 linear-gradient(to left,transparent,#46a )!important;background-repeat:no-repeat,no-repeat!important;content:'mastodon.social'!important;}
 .status a[href^='https://mastodon.xyz/'] .display-name:after{color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/2.png'),
