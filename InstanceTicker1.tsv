@@ -1,4 +1,4 @@
-[0] #InstanceTicker (Type-1) Ver.201901292039.tsv - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
+[0] #InstanceTicker (Type-1) Ver.201901301456.tsv - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
 0	senooken.jp	social.senooken.jp	#fff	#c77	https://wee.jp/f/social.senooken.jp	18	(favicon.ico)						
 0	js4.in	js4.in	#fff	#c77	https://wee.jp/f/js4.in	18	(favicon.ico)						
 0	quitter.im	quitter.im	#fff	#c77	https://wee.jp/f/quitter.im	18	(favicon.ico)						
@@ -40,35 +40,37 @@
 1	friends.nico	friends.nico	#fff	#26a	https://wee.jp/f/friends.nico	18	(favicon.ico)	https://ja.mstdn.wiki/Friends.nico					
 1	knzk.me	knzk.me	#fff	#26a	https://wee.jp/f/knzk.me	18	(favicon.ico)	https://dic.nicovideo.jp/id/5482954					
 1	mstdn-workers.com	mstdn-workers.com	#fff	#26a	https://wee.jp/f/mstdn-workers.com	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%8A%B4%E5%83%8D%E8%80%85%E3%81%9F%E3%81%A1%E3%81%AEMastodon					
-1	mstdn.kemono-friends.info	mstdn.kemono-friends.info	#fff	#262	https://wee.jp/f/mstdn.kemono-friends.info	18	(favicon.ico)	https://ja.mstdn.wiki/%E3%81%BE%E3%81%99%E3%81%A8%E3%81%A9%E3%82%93%E3%81%A1%E3%81%BB%E3%83%BC					
-1	mstdn.hokkaido.jp	mstdn.hokkaido.jp	#fff	#262	https://wee.jp/f/mstdn.hokkaido.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.hokkaido.jp					
-1	iwatedon.net	iwatedon.net	#fff	#262	https://wee.jp/f/iwatedon.net	18	(favicon.ico)	https://ja.mstdn.wiki/Iwatedon.net					
-1	tokamstdn.jp	tokamstdn.jp	#fff	#262	https://wee.jp/f/tokamstdn.jp	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E3%81%AEMastodon					
-1	ashikaga.link	ashikaga.link	#fff	#262	https://wee.jp/f/ashikaga.link	18	(favicon.ico)	https://ja.mstdn.wiki/%E8%B6%B3%E5%88%A9%E5%B8%82%E3%81%AEMastodon					
-1	odakyu.app	odakyu.app	#fff	#262	https://wee.jp/f/odakyu.app	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%B0%8F%E7%94%B0%E6%80%A5don					
-1	itabashi.0j0.jp	itabashi.0j0.jp	#fff	#262	https://wee.jp/f/itabashi.0j0.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Itabashi.0j0.jp					
-1	mstdn.ikebuku.ro	mstdn.ikebuku.ro	#fff	#262	https://wee.jp/f/mstdn.ikebuku.ro	18	(favicon.ico)						
-1	mstdn.tokyo	mstdn.tokyo	#fff	#262	https://wee.jp/f/mstdn.tokyo	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.tokyo					
-1	mstdn.msky.tokyo	mstdn.msky.tokyo	#fff	#262	https://wee.jp/f/mstdn.msky.tokyo	18	(favicon.ico)						
-1	east.mstdn.tokyo	east.mstdn.tokyo	#fff	#262	https://wee.jp/f/east.mstdn.tokyo	18	(favicon.ico)	https://ja.mstdn.wiki/East.mstdn.tokyo					
-1	mastodon.yokohama	mastodon.yokohama	#fff	#262	https://wee.jp/f/mastodon.yokohama	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.yokohama					
-1	nagoyadon.jp	nagoyadon.jp	#fff	#262	https://wee.jp/f/nagoyadon.jp	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%B8%BC					
-1	mstdn.osaka	mstdn.osaka	#fff	#262	https://wee.jp/f/mstdn.osaka	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.osaka					
-1	minohdon.jp	minohdon.jp	#fff	#262	https://wee.jp/f/minohdon.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Minohdon.jp					
-1	ngndn.jp	ngndn.jp	#fff	#262	https://wee.jp/f/ngndn.jp	18	(favicon.ico)	https://ja.mstdn.wiki/NaGaNoDoN_%E3%83%8A%E3%82%AC%E3%83%8E%E3%83%89%E3%83%B3					
-1	biwakodon.com	biwakodon.com	#fff	#262	https://wee.jp/f/biwakodon.com	18	(favicon.ico)	https://ja.mstdn.wiki/%E3%81%B3%E3%82%8F%E6%B9%96%E3%81%AB%E6%9A%AE%E3%82%89%E3%81%99%E4%BA%BA%E3%81%AEMastodon					
-1	mstdn-kanazawa.jp	mstdn-kanazawa.jp	#fff	#262	https://wee.jp/f/mstdn-kanazawa.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn-kanazawa.jp					
-1	mastodos.com	mastodos.com	#fff	#262	https://wee.jp/f/mastodos.com	18	(favicon.ico)	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%81%A9%E3%81%99					
-1	mastodon.wakayama.jp	mastodon.wakayama.jp	#fff	#262	https://wee.jp/f/mastodon.wakayama.jp	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E4%B8%BC					
-1	mastodon.nara.jp	mastodon.nara.jp	#fff	#262 90%,#eee 17px	https://wee.jp/f/mastodon.nara.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.nara.jp					
-1	mstdn.hyogo.jp	mstdn.hyogo.jp	#fff	#262	https://wee.jp/f/mstdn.hyogo.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.hyogo.jp					
-1	mstdn.sanin.link	mstdn.sanin.link	#fff	#262	https://wee.jp/f/mstdn.sanin.link	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%B1%B1%E9%99%B0%E4%BA%A4%E9%80%9A%E4%B8%BC					
-1	shikokudon.m.to	shikokudon.m.to	#fff	#262	https://wee.jp/f/shikokudon.m.to	18	(favicon.ico)	https://ja.mstdn.wiki/Shikokudon.m.to					
-1	mstdn.fukuoka.jp	mstdn.fukuoka.jp	#fff	#262	https://wee.jp/f/mstdn.fukuoka.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.fukuoka.jp					
-1	mastodon.oita.jp	mastodon.oita.jp	#fff	#262	https://wee.jp/f/mastodon.oita.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.oita.jp					
-1	mstdn.miyazaki.jp	mstdn.miyazaki.jp	#fff	#262	https://wee.jp/f/mstdn.miyazaki.jp	18	(favicon.ico)	https://ja.mstdn.wiki/MastoDongene_%E5%AE%AE%E5%B4%8E					
-1	tegedon.net	tegedon.net	#fff	#262	https://wee.jp/f/tegedon.net	18	(favicon.ico)	https://ja.mstdn.wiki/Tegedon					
-1	mstdn.maud.io	mstdn.maud.io	#fff	#26a	https://wee.jp/f/mstdn.maud.io	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.maud.io					
+1	ますとどんちほー	mstdn.kemono-friends.info	#fff	#262	https://wee.jp/f/mstdn.kemono-friends.info	18	(favicon.ico)	https://ja.mstdn.wiki/%E3%81%BE%E3%81%99%E3%81%A8%E3%81%A9%E3%82%93%E3%81%A1%E3%81%BB%E3%83%BC					
+1	北海丼 (北海道)	mstdn.hokkaido.jp	#fff	#262	https://wee.jp/f/mstdn.hokkaido.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.hokkaido.jp					
+1	イワテドン (岩手県)	iwatedon.net	#fff	#262	https://wee.jp/f/iwatedon.net	18	(favicon.ico)	https://ja.mstdn.wiki/Iwatedon.net					
+1	十日町市 (新潟県)	tokamstdn.jp	#fff	#262	https://wee.jp/f/tokamstdn.jp	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%8D%81%E6%97%A5%E7%94%BA%E5%B8%82%E3%81%AEMastodon					
+1	足利市 (栃木県)	ashikaga.link	#fff	#262	https://wee.jp/f/ashikaga.link	18	(favicon.ico)	https://ja.mstdn.wiki/%E8%B6%B3%E5%88%A9%E5%B8%82%E3%81%AEMastodon					
+1	小田急don	odakyu.app	#fff	#262	https://wee.jp/f/odakyu.app	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%B0%8F%E7%94%B0%E6%80%A5don					
+1	板橋丼 (東京都)	itabashi.0j0.jp	#fff	#262	https://wee.jp/f/itabashi.0j0.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Itabashi.0j0.jp					
+1	MastodonTokyo (東京都)	mstdn.tokyo	#fff	#262	https://wee.jp/f/mstdn.tokyo	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.tokyo					
+1	東東京	east.mstdn.tokyo	#fff	#262	https://wee.jp/f/east.mstdn.tokyo	18	(favicon.ico)	https://ja.mstdn.wiki/East.mstdn.tokyo					
+1	Ikebuku.ro (池袋)	mstdn.ikebuku.ro	#fff	#262	https://wee.jp/f/mstdn.ikebuku.ro	18	(favicon.ico)						
+1	池袋丼	mstdn.msky.tokyo	#fff	#262	https://wee.jp/f/mstdn.msky.tokyo	18	(favicon.ico)						
+1	横浜 (神奈川県横浜市)	mastodon.yokohama	#fff	#262	https://wee.jp/f/mastodon.yokohama	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.yokohama					
+1	Tekkadon (神奈川県三浦半島)	tekkadon.manimani.cc	#fff	#262	https://wee.jp/f/tekkadon.manimani.cc	18	(favicon.ico)						
+1	スカ丼 (神奈川県横須賀市)	sukadon.cf	#fff	#262	https://wee.jp/f/sukadon.cf	18	(favicon.ico)						
+1	名古屋丼	nagoyadon.jp	#fff	#262	https://wee.jp/f/nagoyadon.jp	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%B8%BC					
+1	大阪丼	mstdn.osaka	#fff	#262	https://wee.jp/f/mstdn.osaka	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.osaka					
+1	箕面どん (大阪府)	minohdon.jp	#fff	#262	https://wee.jp/f/minohdon.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Minohdon.jp					
+1	ナガノドン (長野県)	ngndn.jp	#fff	#262	https://wee.jp/f/ngndn.jp	18	(favicon.ico)	https://ja.mstdn.wiki/NaGaNoDoN_%E3%83%8A%E3%82%AC%E3%83%8E%E3%83%89%E3%83%B3					
+1	びわ湖 (滋賀県)	biwakodon.com	#fff	#262	https://wee.jp/f/biwakodon.com	18	(favicon.ico)	https://ja.mstdn.wiki/%E3%81%B3%E3%82%8F%E6%B9%96%E3%81%AB%E6%9A%AE%E3%82%89%E3%81%99%E4%BA%BA%E3%81%AEMastodon					
+1	金沢丼 (石川県)	mstdn-kanazawa.jp	#fff	#262	https://wee.jp/f/mstdn-kanazawa.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn-kanazawa.jp					
+1	マストどす (京都府)	mastodos.com	#fff	#262	https://wee.jp/f/mastodos.com	18	(favicon.ico)	https://ja.mstdn.wiki/%E3%83%9E%E3%82%B9%E3%83%88%E3%81%A9%E3%81%99					
+1	和歌山丼	mastodon.wakayama.jp	#fff	#262	https://wee.jp/f/mastodon.wakayama.jp	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%92%8C%E6%AD%8C%E5%B1%B1%E4%B8%BC					
+1	鹿トドン (奈良県)	mastodon.nara.jp	#fff	#262	https://wee.jp/f/mastodon.nara.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.nara.jp					
+1	兵庫丼	mstdn.hyogo.jp	#fff	#262	https://wee.jp/f/mstdn.hyogo.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.hyogo.jp					
+1	山陰交通丼 (山陰地方)	mstdn.sanin.link	#fff	#262	https://wee.jp/f/mstdn.sanin.link	18	(favicon.ico)	https://ja.mstdn.wiki/%E5%B1%B1%E9%99%B0%E4%BA%A4%E9%80%9A%E4%B8%BC					
+1	四国丼	shikokudon.m.to	#fff	#262	https://wee.jp/f/shikokudon.m.to	18	(favicon.ico)	https://ja.mstdn.wiki/Shikokudon.m.to					
+1	ふくおかどん (福岡県)	mstdn.fukuoka.jp	#fff	#262	https://wee.jp/f/mstdn.fukuoka.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.fukuoka.jp					
+1	Mastodon 大分	mastodon.oita.jp	#fff	#262	https://wee.jp/f/mastodon.oita.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.oita.jp					
+1	MastoDongene 宮崎	mstdn.miyazaki.jp	#fff	#262	https://wee.jp/f/mstdn.miyazaki.jp	18	(favicon.ico)	https://ja.mstdn.wiki/MastoDongene_%E5%AE%AE%E5%B4%8E					
+1	てげどん (鹿児島)	tegedon.net	#fff	#262	https://wee.jp/f/tegedon.net	18	(favicon.ico)	https://ja.mstdn.wiki/Tegedon					
+1	mstdn.maud.io	mstdn.maud.io	#fff	#26a	https://wee.jp/o/don.png	28	Good Boy License	https://ja.mstdn.wiki/Mstdn.maud.io		https://github.com/Akane-Blue/gallery			
 1	mstdn.y-zu.org	mstdn.y-zu.org	#fff	#26a	https://wee.jp/f/mstdn.y-zu.org	18	(favicon.ico)	https://ja.mstdn.wiki/Mstdn.y-zu.org					
 1	oransns.com	oransns.com	#fff	#26a	https://wee.jp/f/oransns.com	18	(favicon.ico)	https://ja.mstdn.wiki/Oransns.com					
 1	v2.nyoki.club	v2.nyoki.club	#fff	#26a	https://wee.jp/f/v2.nyoki.club	18	(favicon.ico)						
@@ -309,11 +311,10 @@
 1	unnerv.jp	unnerv.jp	#fff	#e12	https://wee.jp/f/unnerv.jp	18	(favicon.ico)	https://ja.mstdn.wiki/Unnerv.jp					
 1	mstdn.nil.nu	mstdn.nil.nu	#fff	#26a	https://wee.jp/f/mstdn.nil.nu	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.nil.nu					
 1	mstdn.misosi.ru	mstdn.misosi.ru	#fff	#26a	https://wee.jp/f/mstdn.misosi.ru	18	(favicon.ico)						
-1	norimi.ch	norimi.ch	#fff	#26a	https://wee.jp/f/norimi.ch	18	(favicon.ico)						
 1	don.8mitsu.net	don.8mitsu.net	#fff	#26a	https://wee.jp/f/don.8mitsu.net	18	(favicon.ico)						
 1	mstdn.b-shock.org	mstdn.b-shock.org	#fff	#26a	https://wee.jp/f/mstdn.b-shock.org	18	(favicon.ico)						
 1	ma.fono.jp	ma.fono.jp	#fff	#26a	https://wee.jp/f/ma.fono.jp	18	(favicon.ico)						
-1	comm.cx	comm.cx	#fff	#26a	https://wee.jp/f/comm.cx	18	(favicon.ico)		https://comm.cx/@ikuradon/101228751704501724				
+1	comm.cx	comm.cx	#fff	#26a	https://wee.jp/f/comm.cx	18	(favicon.ico)						
 1	shimaidon.net	shimaidon.net	#fff	#26a	https://wee.jp/f/shimaidon.net	18	(favicon.ico)						
 1	terusid.com	terusid.com	#fff	#26a	https://wee.jp/f/terusid.com	18	(favicon.ico)						
 1	svrdn.drillion.net	svrdn.drillion.net	#fff	#26a	https://wee.jp/f/svrdn.drillion.net	18	(favicon.ico)						
@@ -326,8 +327,8 @@
 1	mstdn.nieein56.xyz	mstdn.nieein56.xyz	#fff	#26a	https://wee.jp/f/mstdn.nieein56.xyz	18	(favicon.ico)						
 1	fumufu.xyz	fumufu.xyz	#fff	#26a	https://wee.jp/f/fumufu.xyz	18	(favicon.ico)						
 1	fetishdon.tk	fetishdon.tk	#fff	#26a	https://wee.jp/f/fetishdon.tk	18	(favicon.ico)						
-1	doll.social	doll.social	#fff	#26a	https://wee.jp/f/doll.social	18	(favicon.ico)						
-1	mastodoll.net	mastodoll.net	#fff	#26a	https://wee.jp/f/mastodoll.net	18	(favicon.ico)						
+1	doll.social	doll.social	#fff	#26a	https://wee.jp/o/doll.png	18	いらすとや			https://www.irasutoya.com/2012/12/blog-post_653.html	https://discordapp.com/channels/480731529073524736/519416040283701252/521146166172188673		
+1	mastodoll.net	mastodoll.net	#fff	#26a	https://wee.jp/o/doll.png	18	いらすとや			https://www.irasutoya.com/2012/12/blog-post_653.html	https://discordapp.com/channels/480731529073524736/519416040283701252/521146166172188673		
 1	hack.syscaller.jp	hack.syscaller.jp	#fff	#26a	https://wee.jp/f/hack.syscaller.jp	18	(favicon.ico)						
 1	mstdn.dgm.pw	mstdn.dgm.pw	#fff	#26a	https://wee.jp/f/mstdn.dgm.pw	18	(favicon.ico)						
 1	gochisou.photo	gochisou.photo	#fff	#26a	https://wee.jp/f/gochisou.photo	18	(favicon.ico)						
@@ -358,6 +359,7 @@
 1	mstdn.ponseta.ga	mstdn.ponseta.ga	#fff	#26a	https://wee.jp/f/mstdn.ponseta.ga	18	(favicon.ico)						
 1	hakomas.cf	hakomas.cf	#fff	#26a	https://wee.jp/f/hakomas.cf	18	(favicon.ico)						
 1	pomdon.top	pomdon.top	#fff	#26a	https://wee.jp/f/pomdon.top	18	(favicon.ico)						
+1	9177xe.tokyo	9177xe.tokyo	#fff	#26a	https://wee.jp/f/9177xe.tokyo	18	(favicon.ico)						
 2	mastodon.social	mastodon.social	#fff	#46a	https://wee.jp/f/mastodon.social	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.social					
 2	mastodon.xyz	mastodon.xyz	#fff	#46a	https://wee.jp/f/mastodon.xyz	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.xyz					
 2	mastodon.cloud	mastodon.cloud	#fff	#46a	https://wee.jp/f/mastodon.cloud	18	(favicon.ico)	https://ja.mstdn.wiki/Mastodon.cloud					
