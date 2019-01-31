@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTicker (Type-0) user.js 
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201901292039
+// @version      201901301456
 // @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep
 //
@@ -53,21 +53,29 @@
 // @match        https://mstdn.kemono-friends.info/*
 // @match        https://mstdn.hokkaido.jp/*
 // @match        https://iwatedon.net/*
+// @match        https://tokamstdn.jp/*
+// @match        https://ashikaga.link/*
+// @match        https://odakyu.app/*
 // @match        https://itabashi.0j0.jp/*
-// @match        https://mstdn.ikebuku.ro/*
 // @match        https://mstdn.tokyo/*
-// @match        https://*.mstdn.tokyo/*
+// @match        https://east.mstdn.tokyo/*
+// @match        https://mstdn.ikebuku.ro/*
+// @match        https://mstdn.msky.tokyo/*
 // @match        https://mastodon.yokohama/*
+// @match        https://tekkadon.manimani.cc/*
+// @match        https://sukadon.cf/*
 // @match        https://nagoyadon.jp/*
 // @match        https://mstdn.osaka/*
 // @match        https://minohdon.jp/*
 // @match        https://ngndn.jp/*
+// @match        https://biwakodon.com/*
 // @match        https://mstdn-kanazawa.jp/*
 // @match        https://mastodos.com/*
 // @match        https://mastodon.wakayama.jp/*
 // @match        https://mastodon.nara.jp/*
 // @match        https://mstdn.hyogo.jp/*
-// @match        https://mstdn.sanin.club/*
+// @match        https://mstdn.sanin.link/*
+// @match        https://shikokudon.m.to/*
 // @match        https://mstdn.fukuoka.jp/*
 // @match        https://mastodon.oita.jp/*
 // @match        https://mstdn.miyazaki.jp/*
@@ -103,6 +111,7 @@
 // @match        https://fla.red/*
 // @match        https://gingadon.com/*
 // @match        https://pao.moe/*
+// @match        https://dotdon.jp/*
 //
 // @resource     CCSS https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTicker.css
 // @grant        GM_addStyle
