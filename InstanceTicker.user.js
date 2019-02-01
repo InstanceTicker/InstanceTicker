@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTicker (Type-0) user.js 
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201901301456
+// @version      201902012341
 // @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep
 //
@@ -125,7 +125,9 @@
 //
 //
 /****************************************************
- * Type-1 公開したら、ここ(Type-0) 人気なくなるんだろな *
+ * いきつけの病院がどこも予約が空いてなくて            *
+ * 予約不要の病院に行ったら紹介状もらってこいって       *
+ * ガチで叱られた日に更新。                           *
  ****************************************************/
 //
 //
