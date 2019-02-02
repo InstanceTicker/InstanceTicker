@@ -168,7 +168,7 @@
 // @match        https://tomo.airen-no-jikken.icu/*
 // @match        https://cybre.club/*
 // @match        https://pleroma.pptdn.jp/*
-// @match        https:// pleroma.xyz/*
+// @match        https://pleroma.xyz/*
 //
 //
 // @resource     MASTODON https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTicker1.css
