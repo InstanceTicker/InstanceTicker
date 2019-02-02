@@ -15,8 +15,8 @@
 - - #InstanceTicker1.css
 - - #InstanceTicker1.tsv
 - - #InstanceTicker1.user.js
-- - InstanceTickerDX.user.js	- Mastodon と Misskey 対応版
-- - InstanceTickerMisskey1.css - Misskey 版 の CSS (Type-1)
+- - - #InstanceTickerDX.user.js	- Mastodon と Misskey 対応版
+- - - #InstanceTickerMisskey1.css - Misskey 版 の CSS (Type-1)
 
 
 ### 仕様
