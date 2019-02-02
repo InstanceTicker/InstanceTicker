@@ -4,7 +4,7 @@
 ====
 
 - "Mastodon #InstanceTicker" とは、Mastodon Timeline 上の投稿者に所属インスタンス名を彩る "Custom CSS" です。
-- 本来は PHP で出力されますが、GitHub 上では、定期的にコピペしてログを取ります。
+- 本来は PHP で出力されますが、GitHub 上では、定期的にコピペしてログを取ります（PHP設置鯖に障害があったときのための予備）。
 
 ## ファイル - File
 - [Type-0](https://github.com/weepjp/InstanceTicker/wiki/Type0) - 原則「代替アイコン」表示
