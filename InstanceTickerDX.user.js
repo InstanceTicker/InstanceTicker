@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         #InstanceTicker (DX) user.js
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201902022222
-// @description  #InstanceTicker DX は、 Mastodon と Misskey タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
+// @version      201902030651
+// @description  #InstanceTicker DX は、 Mastodon, Misskey, Pleroma のタイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
 //
 // @license      Original CSS © https://odakyu.app/@ars42525 and #InstanceTicker © 2018 https://weep.me/@weep Released under the MIT license https://opensource.org/licenses/MIT
@@ -19,33 +19,33 @@
 // @match        https://ika.moe/*
 // @match        https://switter.at/*
 // @match        https://octodon.social/*
-
+//
 // @match        https://mstdn.jp/*
 // @match        https://mstdn.cc/*
 // @match        https://mstdn.fm/*
 // @match        https://mstdn.tw/*
 // @match        https://mstdn.io/*
-
+//
 // @match        https://mstdn.club/*
 // @match        https://mstdn.blue/*
 // @match        https://mstdn.beer/*
 // @match        https://mstdn.guru/*
 // @match        https://mstdn.love/*
-
+//
 // @match        https://pawoo.net/*
 // @match        https://music.pawoo.net/*
 // @match        https://friends.nico/*
 // @match        https://mstdn.maud.io/*
 // @match        https://*.theboss.tech/*
 // @match        https://knzk.me/*
-
+//
 // @match        https://*.masto.host/*
 // @match        https://*.m.to/*
 // @match        https://*.hostdon.jp/*
 // @match        https://*.mstdn.cloud/*
 // @match        https://*.mastportal.info/*
 // @match        https://*.chotto.moe/*
-
+//
 // @match        https://now.kibousoft.co.jp/*
 // @match        https://mastodon.juggler.jp/*
 // @match        https://alserver.jp/*
@@ -80,10 +80,8 @@
 // @match        https://mastodon.oita.jp/*
 // @match        https://mstdn.miyazaki.jp/*
 // @match        https://tegedon.net/*
-
 // @match        https://vocalodon.net/*
 // @match        https://mikumikudance.cloud/*
-
 // @match        https://mimumedon.com/*
 // @match        https://kirakiratter.com/*
 // @match        https://ro-mastodon.puyo.jp/*
@@ -104,14 +102,14 @@
 // @match        https://kirishima.cloud/*
 // @match        https://doll.social/*
 // @match        https://mastodoll.net/*
-//
 // @match        https://gorone.xyz/*
 // @match        https://mstdn.inct-densan.club/*
 // @match        https://fla.red/*
 // @match        https://gingadon.com/*
 // @match        https://pao.moe/*
 // @match        https://dotdon.jp/*
-
+//
+//
 // @match        https://misskey.xyz/*
 // @match        https://misskey.jp/*
 // @match        https://msk.kirigakure.net/*
@@ -135,8 +133,47 @@
 // @match        https://819.blue/*
 // @match        https://i.mi.xeltica.work/*
 //
-// @resource     CCSS1 https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTicker1.css
-// @resource     CCSS2 https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerMisskey1.css
+//
+// @match        https://pleroma.soykaf.com/*
+// @match        https://pleroma.gdgd.jp.net/*
+// @match        https://plrm.ht164.jp/*
+// @match        https://pleroma.vocalodon.net/*
+// @match        https://pl.telteltel.com/*
+// @match        https://shitposter.club/*
+// @match        https://plero.ma/*
+// @match        https://pleroma.site/*
+// @match        https://3.distsn.org/*
+// @match        https://kawen.space/*
+// @match        https://ple.watachan.net/*
+// @match        https://talknet.akabe.co/*
+// @match        https://plrm.beanlog.xyz/*
+// @match        https://pl.smuglo.li/*
+// @match        https://sale.gauchiste.club/*
+// @match        https://weeaboo.space/*
+// @match        https://the.hedgehoghunter.club/*
+// @match        https://social.sakamoto.gq/*
+// @match        https://letsalllovela.in/*
+// @match        https://iscute.moe/*
+// @match        https://social.beepboop.ga/*
+// @match        https://pleroma.nakanod.net/*
+// @match        https://pleroma.io/*
+// @match        https://rabbit.country/*
+// @match        https://pla.social/*
+// @match        https://pleroma7.pla1.net/*
+// @match        https://pleroma.pla1.net/*
+// @match        https://soliton.nonlinear.zone/*
+// @match        https://social.toromino.de/*
+// @match        https://social.libre.fi/*
+// @match        https://p.a3.pm/*
+// @match        https://tomo.airen-no-jikken.icu/*
+// @match        https://cybre.club/*
+// @match        https://pleroma.pptdn.jp/*
+// @match        https:// pleroma.xyz/*
+//
+//
+// @resource     MASTODON https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTicker1.css
+// @resource     MISSKEY https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerMisskey1.css
+// @resource     PLEROMA https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerPleroma1.css
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 //
@@ -161,16 +198,18 @@
 
 // ここに処理を記載する
 (function(){
-  var misky = 'Misskey|みすきーじぇーぴー';
   var mstdn = 'mastodon';
+  var misky = 'Misskey|みすきーじぇーぴー';
 
   var appn = document.getElementsByName('application-name').item(0);
   var apph = document.getElementsByClassName('app-holder').item(0);
 
-  if (appn != null && appn.content.match(misky)){
-    GM_addStyle(GM_getResourceText('CCSS2'));
-  }else if(apph != null && apph.id.match(mstdn)){
-    GM_addStyle(GM_getResourceText('CCSS1'));
+ if(apph != null && apph.id.match(mstdn)){
+    GM_addStyle(GM_getResourceText('MASTODON'));
+  }else if (appn != null && appn.content.match(misky)){
+    GM_addStyle(GM_getResourceText('MISSKEY'));
+  }else {
+    GM_addStyle(GM_getResourceText('PLEROMA'));
   }
-})();
 
+})();
