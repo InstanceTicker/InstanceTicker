@@ -41,8 +41,7 @@
 ## 貢献について - Contribution
 - weepjp は、からっきしの GitHub 初心者であり、あらゆる機能について網羅しておらず、右も左も分かりません。
 - 少しずつ覚えていきますので、お手柔らかにお願いします。
-- [仮想通貨での投げ銭](https://weep.jp/tip)
-- Kyash ID : weep
+- [Donation?](https://github.com/weepjp/InstanceTicker/wiki/ZENINAGE)
 
 ## スタッフ - Staff
 適度に協議しながら、やっています。
