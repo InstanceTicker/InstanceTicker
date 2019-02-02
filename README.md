@@ -5,8 +5,8 @@
 
 - "#InstanceTicker" とは、Mastodon Timeline 上の投稿者に所属インスタンス名を彩る "Custom CSS" です。
 - 最近では、"Mastodon" のみならず、 "Misskey" に対応。。。
-- "[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる感じらしいです。
-- 本来は PHP で出力されますが、GitHub 上では、定期的にコピペ設置してログとっています。PHP設置サーバー(wee.jp)障害時の予備として。
+- 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
+- 本来は PHP で出力されますが、GitHub 上では、定期的にコピペ設置してログとって、PHP設置サーバー(wee.jp)障害時の予備としての役割にしています。
 
 ## ファイル - File
 - [Type-0](https://github.com/weepjp/InstanceTicker/wiki/Type0) - 原則「代替アイコン」表示
