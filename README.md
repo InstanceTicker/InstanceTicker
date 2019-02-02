@@ -17,7 +17,7 @@
 - - #InstanceTicker1.css
 - - #InstanceTicker1.tsv
 - - #InstanceTicker1.user.js
-- - - #InstanceTickerDX.user.js	- Mastodon と Misskey 対応版
+- - - #InstanceTickerDX.user.js	- Mastodon, Misskey, Pleroma 対応版
 - - - #InstanceTickerMisskey1.css - Misskey 版 の CSS (Type-1)
 
 ## 概要 - Description
@@ -30,9 +30,10 @@
 - .user.js 先は、GitHub 上の .css に向けています。
 - 最新版でなく、安定版として機能しています（wee.jp 上の CSS に向けても、user.js が更新されない場合 CSS も更新されないための措置）。
 
-## 今後の予定
-- "Pleroma" への対応（保留）
-- - アプリ名を宣言している HTML タグがないため、対応は見送りとしています。
+## 予定
+- "Pleroma" への対応について。
+- - カスタムCSSさせるのが厳しい。
+- - アプリ名を宣言している HTML タグがない。
 
 ## 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
