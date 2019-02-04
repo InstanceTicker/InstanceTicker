@@ -1,5 +1,5 @@
 <img src="https://wee.jp/mastodon/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
-
+![#InstanceTicker タイトルデザイン案（１）](https://res.cloudinary.com/weep/image/upload/c_scale,w_480/v1549300416/img/InstanceTickerMyon.png)
 #InstanceTicker　Github Version
 ====
 
