@@ -4,7 +4,7 @@
 ====
 
 - "#InstanceTicker" とは、Mastodon Timeline 上の投稿者に所属インスタンス名を彩る "Custom CSS" です。
-- 最近では、"Mastodon" のみならず、 "Misskey" に対応。。。
+- Github では、user.js を配布しています。 "Mastodon" のみならず、 "Misskey" "Pleroma" に対応しています。
 - 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
 - 本来は PHP で出力されますが、GitHub 上では、定期的にコピペ設置してログとって、PHP設置サーバー(wee.jp)障害時の予備としての役割にしています。
 
