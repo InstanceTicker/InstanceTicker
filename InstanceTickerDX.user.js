@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTicker (DX) user.js
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201902080543
+// @version      201902080555
 // @description  #InstanceTicker DX は、 Mastodon, Misskey, Pleroma のタイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
 //
@@ -169,13 +169,11 @@
 // @match        https://pleroma.pptdn.jp/*
 // @match        https://pleroma.xyz/*
 //
-//
 // @resource     MASTODON https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTicker1.css
 // @resource     MISSKEY https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerMisskey1.css
 // @resource     PLEROMA https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerPleroma1.css
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
-//
 //
 /*****************************************************
  * Special Thanks: popn_ja                           *
@@ -185,9 +183,9 @@
  ****************************************************/
 //
 //
-/******************************************************
- * 健康が欲しい！健康が欲しい！健康が欲しい！健康が欲しい ！*
- ******************************************************/
+/*****************
+ * 健康が欲しい！ *
+ ****************/
 //
 //
 // ==/UserScript==
