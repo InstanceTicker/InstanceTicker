@@ -210,7 +210,7 @@
     GM_addStyle(GM_getResourceText('MISSKEY'));
   }else {
     GM_addStyle(GM_getResourceText('PLEROMA'));
-    GM_addStyle(GM_getResourceText('MASTODON')); /* app-holder の宣言なしの場合もあったため。*/
+    GM_addStyle(GM_getResourceText('MASTODON')); /* app-holder の宣言なしの場合(ユーザーページ等)もあったため。*/
   }
 
 })();
