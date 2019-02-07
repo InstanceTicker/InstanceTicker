@@ -13,7 +13,7 @@
  Released under the MIT license
  https://opensource.org/licenses/MIT
 /------------------------------*/
-@keyframes fade{0%{opacity:1;}1%{opacity:0.1;}96%,to{opacity:1;}}
+@keyframes fade{0%{opacity:0.1;}96%,to{opacity:1;}}
 .status__info a[href^='https://social.senooken.jp/'] .display-name:after{font-size:12px!important;height:16px!important;animation:fade 1s;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/f/social.senooken.jp'),
 linear-gradient(to left,transparent,#c77 )!important;background-repeat:no-repeat,no-repeat!important;content:'senooken.jp'!important;}
 .status__info a[href^='https://js4.in/'] .display-name:after{font-size:12px!important;height:16px!important;animation:fade 1s;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/f/js4.in'),
