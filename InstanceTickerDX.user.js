@@ -195,16 +195,18 @@
 (function(){
   var mstdn = 'mastodon';
   var misky = 'Misskey|みすきーじぇーぴー';
-
+  
+  /* <meta name="application-name" content="Misskey"> */
   var appn = document.getElementsByName('application-name').item(0);
+  /* <div class='app-holder' data-props='...' id='mastodon'> */
   var apph = document.getElementsByClassName('app-holder').item(0);
 
- if(apph != null && apph.id.match(mstdn)){
+ if (apph != null && apph.id.match(mstdn)){
     GM_addStyle(GM_getResourceText('MASTODON'));
-  }else if (appn != null && appn.content.match(misky)){
+  } else if (appn != null && appn.content.match(misky)){
     GM_addStyle(GM_getResourceText('MISSKEY'));
-  }else {
-    GM_addStyle(GM_getResourceText('PLEROMA')); /* .display-name{font-size:10px!important;} の追加。 */
+  } else {
+    GM_addStyle(GM_getResourceText('PLEROMA')); /*  .display-name__html, .display-name__account{font-size:10px!important;} の追加。 */
     GM_addStyle(GM_getResourceText('MASTODON')); /* app-holder の宣言なしの場合(ユーザーページ等)もあったため。*/
   }
 
