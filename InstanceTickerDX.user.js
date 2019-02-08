@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTicker (DX) user.js
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201902080555
+// @version      201902080310
 // @description  #InstanceTicker DX は、 Mastodon, Misskey, Pleroma のタイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
 //
@@ -204,7 +204,7 @@
   }else if (appn != null && appn.content.match(misky)){
     GM_addStyle(GM_getResourceText('MISSKEY'));
   }else {
-    GM_addStyle(GM_getResourceText('PLEROMA'));
+    GM_addStyle(GM_getResourceText('PLEROMA')); /* .display-name{font-size:10px!important;} の追加。 */
     GM_addStyle(GM_getResourceText('MASTODON')); /* app-holder の宣言なしの場合(ユーザーページ等)もあったため。*/
   }
 
