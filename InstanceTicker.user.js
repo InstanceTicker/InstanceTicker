@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTicker (Type-0) user.js 
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201902090627
+// @version      201902091156
 // @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep
 //
@@ -119,17 +119,24 @@
 //
 //
 /****************************************************
- * MastdonInstanceTicker.user.js                    *
+ * InstanceTicker0.user.js                          *
  * https://github.com/weepjp/InstanceTicker         *
  ****************************************************/
 //
 //
-/****************************************************
- *  喉と腰を壊して泣く日々です。。。                   *
- ****************************************************/
+/****************************************
+ * やたらクスリが増えて泣く日々です。。。。 *
+ ****************************************/
 //
 //
 // ==/UserScript==
+// ここに処理を記載する
+(function(){
 
-GM_addStyle(GM_getResourceText('CCSS'));
+
+     GM_addStyle(GM_getResourceText('CCSS'));
+
+
+})();
+
 
