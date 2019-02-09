@@ -68,10 +68,13 @@
 //
 // ==/UserScript==
 
+// ここに処理を記載する
+(function(){
 
 
+     GM_addStyle(GM_getResourceText('PLEFE')); /* Pleroma Fe (未対応になりそうなので将来廃止) */
+     GM_addStyle(GM_getResourceText('MASFE')); /* Mastodon Fe */
 
-GM_addStyle(GM_getResourceText('PLEFE')); /* Pleroma Fe (未対応になりそうなので将来廃止) */
-GM_addStyle(GM_getResourceText('MASFE')); /* Mastodon Fe */
 
+})();
 
