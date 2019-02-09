@@ -14,7 +14,6 @@
  https://opensource.org/licenses/MIT
 /------------------------------*/
 @keyframes fade{0%{opacity:1;}6%{opacity:0.5;}9%{opacity:0;}96%,to{opacity:1;}}
-.display-name{padding:0 0 16px 0!important;}
 .status__info a[href^='https://social.senooken.jp/'] .display-name:after{font-size:12px!important;height:16px!important;animation:fade 1s;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/0.png'),linear-gradient(to left,transparent,#c77 )!important;background-repeat:no-repeat,no-repeat!important;content:'senooken.jp'!important;}
 .status__info a[href^='https://js4.in/'] .display-name:after{font-size:12px!important;height:16px!important;animation:fade 1s;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/0.png'),linear-gradient(to left,transparent,#c77 )!important;background-repeat:no-repeat,no-repeat!important;content:'js4.in'!important;}
 .status__info a[href^='https://quitter.im/'] .display-name:after{font-size:12px!important;height:16px!important;animation:fade 1s;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;color:#fff!important;padding-left:18px!important;background: url('https://wee.jp/2/0.png'),linear-gradient(to left,transparent,#c77 )!important;background-repeat:no-repeat,no-repeat!important;content:'quitter.im'!important;}
