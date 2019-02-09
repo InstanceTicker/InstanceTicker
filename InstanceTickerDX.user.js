@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         #InstanceTicker (DX) user.js
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201902091111
-// @description  #InstanceTickerDX は、 Mastodon, Misskey のタイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
+// @version      201902091116
+// @description  #InstanceTickerDX は、 Mastodon と Misskey の タイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
 //
 // @license      Original CSS © https://odakyu.app/@ars42525 and #InstanceTicker © 2018 https://weep.me/@weep Released under the MIT license https://opensource.org/licenses/MIT
@@ -108,7 +108,6 @@
 // @match        https://pao.moe/*
 // @match        https://dotdon.jp/*
 //
-//
 // @match        https://misskey.xyz/*
 // @match        https://misskey.jp/*
 // @match        https://msk.kirigakure.net/*
@@ -169,7 +168,7 @@
   } else if (appn != null && appn.content.match(misky)){
     GM_addStyle(GM_getResourceText('MISSKEY'));
   } else {
-    /* ※ Pleroma は、#InstanceTickerFE に、分離しました。  */
+    /* ※ Pleroma は、#InstanceTickerFE に、分離。。。。  */
     /*                                                    */
     /* app-holder の宣言なしの場合(ユーザーページ等)もあったため。*/
     GM_addStyle(GM_getResourceText('MASTODON')); 
