@@ -2,7 +2,7 @@
 // @name         #InstanceTicker (DX) user.js
 // @namespace    https://github.com/weepjp/InstanceTicker
 // @version      201902090627
-// @description  #InstanceTicker DX は、 Mastodon, Misskey, Pleroma のタイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
+// @description  #InstanceTickerDX は、 Mastodon, Misskey のタイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
 //
 // @license      Original CSS © https://odakyu.app/@ars42525 and #InstanceTicker © 2018 https://weep.me/@weep Released under the MIT license https://opensource.org/licenses/MIT
@@ -133,45 +133,11 @@
 // @match        https://i.mi.xeltica.work/*
 //
 //
-// @match        https://pleroma.soykaf.com/*
-// @match        https://pleroma.gdgd.jp.net/*
-// @match        https://plrm.ht164.jp/*
-// @match        https://pleroma.vocalodon.net/*
-// @match        https://pl.telteltel.com/*
-// @match        https://shitposter.club/*
-// @match        https://plero.ma/*
-// @match        https://pleroma.site/*
-// @match        https://3.distsn.org/*
-// @match        https://kawen.space/*
-// @match        https://ple.watachan.net/*
-// @match        https://talknet.akabe.co/*
-// @match        https://plrm.beanlog.xyz/*
-// @match        https://pl.smuglo.li/*
-// @match        https://sale.gauchiste.club/*
-// @match        https://weeaboo.space/*
-// @match        https://the.hedgehoghunter.club/*
-// @match        https://social.sakamoto.gq/*
-// @match        https://letsalllovela.in/*
-// @match        https://iscute.moe/*
-// @match        https://social.beepboop.ga/*
-// @match        https://pleroma.nakanod.net/*
-// @match        https://pleroma.io/*
-// @match        https://rabbit.country/*
-// @match        https://pla.social/*
-// @match        https://pleroma7.pla1.net/*
-// @match        https://pleroma.pla1.net/*
-// @match        https://soliton.nonlinear.zone/*
-// @match        https://social.toromino.de/*
-// @match        https://social.libre.fi/*
-// @match        https://p.a3.pm/*
-// @match        https://tomo.airen-no-jikken.icu/*
-// @match        https://cybre.club/*
-// @match        https://pleroma.pptdn.jp/*
-// @match        https://pleroma.xyz/*
 //
 // @resource     MASTODON https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTicker1.css
 // @resource     MISSKEY https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerMisskey1.css
 // @resource     PLEROMA https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerPleroma1.css
+//
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 //
@@ -183,9 +149,9 @@
  ****************************************************/
 //
 //
-/*****************
- * なんとかなった。*
- ****************/
+/********************
+ * Pleroma 分離します *
+ *******************/
 //
 //
 // ==/UserScript==
@@ -206,7 +172,7 @@
   } else if (appn != null && appn.content.match(misky)){
     GM_addStyle(GM_getResourceText('MISSKEY'));
   } else {
-    GM_addStyle(GM_getResourceText('PLEROMA')); /* .status__info{height:64px!important;} の追加。 */
+    /* ※ Pleroma は、#InstanceTickerFE に、分離しました。  */
     GM_addStyle(GM_getResourceText('MASTODON')); /* app-holder の宣言なしの場合(ユーザーページ等)もあったため。*/
   }
 
