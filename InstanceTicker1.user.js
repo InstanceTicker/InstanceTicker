@@ -130,6 +130,13 @@
 //
 //
 // ==/UserScript==
+// ここに処理を記載する
+(function(){
 
-GM_addStyle(GM_getResourceText('CCSS'));
+
+     GM_addStyle(GM_getResourceText('CCSS'));
+
+
+})();
+
 
