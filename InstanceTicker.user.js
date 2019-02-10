@@ -16,36 +16,35 @@
 // @match        https://mastodon.xyz/*
 // @match        https://mastodon.art/*
 // @match        https://masto.pt/*
-// @match        https://ika.moe/*
 // @match        https://switter.at/*
 // @match        https://octodon.social/*
-
+//
 // @match        https://mstdn.jp/*
 // @match        https://mstdn.cc/*
 // @match        https://mstdn.fm/*
 // @match        https://mstdn.tw/*
 // @match        https://mstdn.io/*
-
+//
 // @match        https://mstdn.club/*
 // @match        https://mstdn.blue/*
 // @match        https://mstdn.beer/*
 // @match        https://mstdn.guru/*
 // @match        https://mstdn.love/*
-
+//
 // @match        https://pawoo.net/*
 // @match        https://music.pawoo.net/*
 // @match        https://friends.nico/*
 // @match        https://mstdn.maud.io/*
 // @match        https://*.theboss.tech/*
 // @match        https://knzk.me/*
-
+//
 // @match        https://*.masto.host/*
 // @match        https://*.m.to/*
 // @match        https://*.hostdon.jp/*
 // @match        https://*.mstdn.cloud/*
 // @match        https://*.mastportal.info/*
 // @match        https://*.chotto.moe/*
-
+//
 // @match        https://now.kibousoft.co.jp/*
 // @match        https://mastodon.juggler.jp/*
 // @match        https://alserver.jp/*
@@ -80,11 +79,8 @@
 // @match        https://mastodon.oita.jp/*
 // @match        https://mstdn.miyazaki.jp/*
 // @match        https://tegedon.net/*
-
 // @match        https://vocalodon.net/*
-// @match        https://mikuspot.net/*
 // @match        https://mikumikudance.cloud/*
-
 // @match        https://mimumedon.com/*
 // @match        https://kirakiratter.com/*
 // @match        https://ro-mastodon.puyo.jp/*
@@ -105,7 +101,6 @@
 // @match        https://kirishima.cloud/*
 // @match        https://doll.social/*
 // @match        https://mastodoll.net/*
-//
 // @match        https://gorone.xyz/*
 // @match        https://mstdn.inct-densan.club/*
 // @match        https://fla.red/*
@@ -125,7 +120,7 @@
 //
 //
 /****************************************
- * やたらクスリが増えて泣く日々です。。。。 *
+ * 各自で、 match 追加してください。。。   *
  ****************************************/
 //
 //
