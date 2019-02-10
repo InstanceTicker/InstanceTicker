@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTickerDX.user.js
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201902091158
+// @version      201902110333
 // @description  #InstanceTickerDX は、 Mastodon と Misskey の タイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
 //
@@ -145,9 +145,9 @@
  ****************************************************/
 //
 //
-/********************
- * Pleroma 分離します *
- *******************/
+/****************************************
+ * 各自で、 match 追加してください。。。   *
+ ****************************************/
 //
 //
 // ==/UserScript==
@@ -158,9 +158,9 @@
   var mstdn = 'mastodon';
   var misky = 'Misskey|みすきーじぇーぴー';
   
-  /* <meta name="application-name" content="Misskey"> */
+  /* <meta name="application-name" content="Misskey"> がある場合、Misskey 判定する。 */
   var appn = document.getElementsByName('application-name').item(0);
-  /* <div class='app-holder' data-props='...' id='mastodon'> */
+  /* <div class='app-holder' data-props='...' id='mastodon'> がある場合、Mastodon 判定する。 */
   var apph = document.getElementsByClassName('app-holder').item(0);
 
  if (apph != null && apph.id.match(mstdn)){
