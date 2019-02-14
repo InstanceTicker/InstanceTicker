@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTickerDX.user.js
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201902110333
+// @version      201902141111
 // @description  #InstanceTickerDX は、 Mastodon と Misskey の タイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
 //
@@ -156,11 +156,13 @@
 // ここに処理を記載する
 (function(){
   var mstdn = 'mastodon';
+/* var misky = 'Misskey';  「みすきーじぇいぴー」閉鎖予定に伴い、いちおー準備。  */
   var misky = 'Misskey|みすきーじぇーぴー';
-  
-  /* <meta name="application-name" content="Misskey"> がある場合、Misskey 判定する。 */
+
+/* <meta name="application-name" content="Misskey"> がある場合、Misskey 判定する。 */
   var appn = document.getElementsByName('application-name').item(0);
-  /* <div class='app-holder' data-props='...' id='mastodon'> がある場合、Mastodon 判定する。 */
+
+/* <div class='app-holder' data-props='...' id='mastodon'> がある場合、Mastodon 判定する。 */
   var apph = document.getElementsByClassName('app-holder').item(0);
 
  if (apph != null && apph.id.match(mstdn)){
@@ -168,9 +170,7 @@
   } else if (appn != null && appn.content.match(misky)){
     GM_addStyle(GM_getResourceText('MISSKEY'));
   } else {
-    /* ※ Pleroma は、#InstanceTickerFE に、分離。。。。  */
-    /*                                                    */
-    /* app-holder の宣言なしの場合(ユーザーページ等)もあったため。*/
+    /* app-holder の宣言なしの場合も対応。*/
     GM_addStyle(GM_getResourceText('MASTODON')); 
   }
 
