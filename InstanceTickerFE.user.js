@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTickerFE user.js
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201902210552
+// @version      201902260204
 // @description  #InstanceTickerFE は、Pleroma の Mastodon FE タイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
 //
@@ -62,7 +62,7 @@
 //
 //
 /*****************
- * ふう・・・　　  *
+ * ふぇ・・・　　  *
  ****************/
 //
 //
