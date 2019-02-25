@@ -1,7 +1,5 @@
 <img src="https://res.cloudinary.com/weep/image/upload/v1551123733/it/InstanceTicker.png" title="#InstanceTicker" alt="#InstanceTicker" />
 
-<img src="https://wee.jp/mastodon/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
-
 #InstanceTicker　Github Version
 ====
 
@@ -10,6 +8,8 @@
 - 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
 - 仕様と使い方は「[InstanceTicker Wiki](https://github.com/weepjp/InstanceTicker/wiki)」で、まとめています。
 - 本来は PHP で出力されますが、GitHub 上では、定期的にコピペ設置してログとって、PHP設置サーバー(wee.jp)障害時の予備としての役割にしています。
+
+<img src="https://wee.jp/mastodon/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
 
 ## ファイル - File
 - [Type-0](https://github.com/weepjp/InstanceTicker/wiki/Type0) - 原則「代替アイコン」表示
