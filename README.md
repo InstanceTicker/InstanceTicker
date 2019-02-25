@@ -1,13 +1,14 @@
-<img src="https://res.cloudinary.com/weep/image/upload/c_scale,w_480/v1549300416/img/InstanceTickerMyon.png" title="#InstanceTicker" alt="#InstanceTicker" />
+<img src="https://res.cloudinary.com/weep/image/upload/v1551123495/it/InstanceTicker.png" title="#InstanceTicker" alt="#InstanceTicker" />
 
 <img src="https://wee.jp/mastodon/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
 
 #InstanceTicker　Github Version
 ====
 
-- "#InstanceTicker" とは、Mastodon Timeline 上の投稿者に所属インスタンス名を彩る "Custom CSS" です。
+- "#InstanceTicker" とは、投稿者に所属インスタンス名を彩る "Custom CSS" です。
 - Github では、user.js を配布しています。 "Mastodon" のみならず、 "Misskey" "Pleroma" に対応しています。
 - 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
+- 仕様と使い方は「[InstanceTicker Wiki](https://github.com/weepjp/InstanceTicker/wiki)」で、まとめています。
 - 本来は PHP で出力されますが、GitHub 上では、定期的にコピペ設置してログとって、PHP設置サーバー(wee.jp)障害時の予備としての役割にしています。
 
 ## ファイル - File
