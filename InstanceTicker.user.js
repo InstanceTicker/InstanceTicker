@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTicker (Type-0) user.js 
 // @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201902210552
+// @version      201902260204
 // @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep
 //
@@ -120,7 +120,7 @@
 //
 //
 /****************************************
- * 各自で、match 追加してくれよん。　　　　*
+ * 各自で、match 追加してくれよよよよよ。　　*
  ****************************************/
 //
 //
