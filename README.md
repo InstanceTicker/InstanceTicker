@@ -12,16 +12,23 @@
 <img src="https://wee.jp/mastodon/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
 
 ## ファイル - File
-- [Type-0](https://github.com/weepjp/InstanceTicker/wiki/Type0) - 原則「代替アイコン」表示
+### [Type-0](https://github.com/weepjp/InstanceTicker/wiki/Type0) - 原則「代替アイコン」表示
+- **Mastodon**
+- - #InstanceTicker.user.js
 - - #InstanceTicker.css
 - - #InstanceTicker.tsv
-- - #InstanceTicker.user.js
-- [Type-1](https://github.com/weepjp/InstanceTicker/wiki/Type1) - 原則「Favicon」表示
+### [Type-1](https://github.com/weepjp/InstanceTicker/wiki/Type1) - 原則「Favicon」表示
+- **Mastodon**
+- - #InstanceTicker1.user.js
 - - #InstanceTicker1.css
 - - #InstanceTicker1.tsv
-- - #InstanceTicker1.user.js
-- - - #InstanceTickerDX.user.js	- Mastodon, Misskey, Pleroma 対応版
-- - - #InstanceTickerMisskey1.css - Misskey 版 の CSS (Type-1)
+- **Mastodon / Misskey**
+- - #InstanceTickerDX.user.js
+- - #InstanceTickerMisskey1.css - Misskey 版 の CSS
+- **Pleroma - Pleroma FE(旧バージョンのみ) / Mastodon FE 対応**
+- - #InstanceTickerFE.user.js - Pleroma FE(旧バージョンのみ) / Mastodon FE 対応
+- - #InstanceTickerPleroma1.css - Pleroma FE 版 の CSS(旧バージョンのみ)
+- - #InstanceTickerPleroma11.css - Mastodon FE 版 の CSS
 
 ## 概要 - Description
 - [こちらの解説ページ(Wiki)](https://github.com/weepjp/InstanceTicker/wiki) を参照下さい。
