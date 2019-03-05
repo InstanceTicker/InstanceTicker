@@ -1,4 +1,4 @@
-[0] #InstanceTicker (Type-0) Ver.201902260204.tsv - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
+[0] #InstanceTicker (Type-0) Ver.201903050014.tsv - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
 0	senooken.jp	social.senooken.jp	#fff	#c77	https://wee.jp/2/0.png	18	代替アイコン						
 0	js4.in	js4.in	#fff	#c77	https://wee.jp/2/0.png	18	代替アイコン						
 0	quitter.im	quitter.im	#fff	#c77	https://wee.jp/2/0.png	18	代替アイコン						
@@ -48,6 +48,7 @@
 1	okadon.masto.host	okadon.masto.host	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 1	yukoyajp.masto.host	yukoyajp.masto.host	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 1	porkmeeting.masto.host	porkmeeting.masto.host	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	k-shiigi-136.masto.host	k-shiigi-136.masto.host	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 1	now.kibousoft.co.jp	now.kibousoft.co.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Kibousoft_Now					
 1	pawoo.net	pawoo.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Pawoo					
 1	music.pawoo.net	music.pawoo.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Pawoo_Music					
@@ -388,6 +389,8 @@
 1	nayukana.info	nayukana.info	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 1	rcj.mstdon.app	rcj.mstdon.app	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 1	dongeki.com	dongeki.com	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstd.toco2.fun	mstd.toco2.fun	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mastodon.farman.tokyo	mastodon.farman.tokyo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 2	mastodon.social	mastodon.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.social					
 2	mastodon.xyz	mastodon.xyz	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.xyz					
 2	mastodon.cloud	mastodon.cloud	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.cloud					
@@ -536,6 +539,9 @@
 2	sleeping.town	sleeping.town	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
 2	sleeping.town	mastodon.sleeping.town	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
 2	lgbt.io	lgbt.io	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	mstdn.mx	mstdn.mx	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	lamp.institute	lamp.institute	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
+2	wake.st	wake.st	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン						
 3	pleroma.soykaf.com	pleroma.soykaf.com	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン	https://ja.mstdn.wiki/Pleroma					
 3	pleroma.gdgd.jp.net	pleroma.gdgd.jp.net	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
 3	plrm.ht164.jp	plrm.ht164.jp	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
@@ -575,6 +581,9 @@
 3	nemoroma.ml	nemoroma.ml	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
 3	mamemoma.mamemo.online	mamemoma.mamemo.online	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
 3	habitat.lunarpunk.space	habitat.lunarpunk.space	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	pl.at7s.me	pl.at7s.me	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	plrm.polyohm.net	plrm.polyohm.net	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	patch.cx	patch.cx	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
 4	misskey.xyz	misskey.xyz	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン	https://ja.mstdn.wiki/Misskey					
 4	misskey.jp	misskey.jp	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
 4	msk.kirigakure.net	msk.kirigakure.net	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
