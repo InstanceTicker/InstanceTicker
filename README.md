@@ -1,6 +1,14 @@
+====
+
+**[#InstanceTicker Wiki](https://github.com/weepjp/InstanceTicker/wiki)**
+
+====
+
 <img src="https://res.cloudinary.com/weep/image/upload/v1551123733/it/InstanceTicker.png" title="#InstanceTicker" alt="#InstanceTicker" />
+====
 
 #InstanceTicker　Github Version
+
 ====
 
 - "#InstanceTicker" とは、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
