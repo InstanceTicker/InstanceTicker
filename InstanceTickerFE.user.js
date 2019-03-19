@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTickerFE user.js
-// @namespace    https://github.com/weepjp/InstanceTicker
-// @version      201903050014
+// @namespace    https://github.com/weepjp/InstanceTicker/
+// @version      201903181509
 // @description  #InstanceTickerFE は、Pleroma の Mastodon FE タイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
 //
@@ -46,8 +46,8 @@
 // @match        https://pleroma.xyz/*
 //
 //
-// @resource     PLEFE https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerPleroma1.css
-// @resource     MASFE https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerPleroma11.css
+// @resource     PLEFE https://raw.githubusercontent.com/fedpla/InstanceTicker/master/InstanceTickerPleroma1.css
+// @resource     MASFE https://raw.githubusercontent.com/fedpla/InstanceTicker/master/InstanceTickerPleroma11.css
 //
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
@@ -57,7 +57,7 @@
  * Special Thanks: popn_ja                           *
  *                                                   *
  * InstanceTickerDX.user.js                          *
- * https://github.com/weepjp/InstanceTicker          *
+ * https://github.com/fedpla/InstanceTicker          *
  ****************************************************/
 //
 //
