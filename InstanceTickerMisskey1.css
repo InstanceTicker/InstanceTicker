@@ -1,6 +1,6 @@
 @charset 'utf-8';
 /*-----------------------------
- #InstanceTicker Misskey (Type-1) 201903200006.css
+ #InstanceTicker Misskey (Type-1) 201903200008.css
  https://github.com/fedpla/InstanceTicker/wiki/
 
  Copyright (c) 2018-2019 weepjp
@@ -18,6 +18,7 @@
 /------------------------------*/
 @keyframes fade{ 0%{opacity:1;}6%{opacity:0.5;}9%{opacity:0;}96%,to{opacity:1;} }
 @keyframes mqee{0%{opacity:1;}0.01%{opacity:0;}4%{transform:translate(0);opacity:1;}48%{transform:translate(0);}96%{transform:translate(-64%);opacity:1;} to{transform:translate(-64%);opacity:0;}}
+.main .body:before{font-size:12px!important;height:16px!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;}
 a[class*='mk-avatar'][href*='theboss.tech']+.main .body:before{color:#fff!important;padding-left:18px!important;animation:fade 1s;background: url('https://wee.jp/f/theboss.tech'),linear-gradient(to left,transparent,#666 )!important;background-repeat:no-repeat,no-repeat!important;content:'閉鎖済み'!important;}
 a[class*='mk-avatar'][href*='masi.theboss.tech']+.main .body:before{color:#fff!important;padding-left:18px!important;animation:fade 1s;background: url('https://wee.jp/f/masi.theboss.tech'),linear-gradient(to left,transparent,#666 )!important;background-repeat:no-repeat,no-repeat!important;content:'閉鎖済み'!important;}
 a[class*='mk-avatar'][href*='misskey.social']+.main .body:before{color:#fff!important;padding-left:18px!important;animation:fade 1s;background: url('https://wee.jp/f/misskey.social'),linear-gradient(to left,transparent,#666 )!important;background-repeat:no-repeat,no-repeat!important;content:'閉鎖済み'!important;}
