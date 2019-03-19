@@ -131,8 +131,8 @@
 // @match        https://819.blue/*
 // @match        https://i.mi.xeltica.work/*
 //
-// @resource     MASTODON https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTicker1.css
-// @resource     MISSKEY https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTickerMisskey1.css
+// @resource     MASTODON https://raw.githubusercontent.com/fedpla/InstanceTicker/master/InstanceTicker1.css
+// @resource     MISSKEY https://raw.githubusercontent.com/fedpla/InstanceTicker/master/InstanceTickerMisskey1.css
 //
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
@@ -141,7 +141,7 @@
  * Special Thanks: popn_ja                           *
  *                                                   *
  * InstanceTickerDX.user.js                          *
- * https://github.com/weepjp/InstanceTicker          *
+ * https://github.com/fedpla/InstanceTicker          *
  ****************************************************/
 //
 //
