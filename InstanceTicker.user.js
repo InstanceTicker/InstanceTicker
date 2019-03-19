@@ -108,7 +108,7 @@
 // @match        https://pao.moe/*
 // @match        https://dotdon.jp/*
 //
-// @resource     CCSS https://raw.githubusercontent.com/weepjp/InstanceTicker/master/InstanceTicker.css
+// @resource     CCSS https://raw.githubusercontent.com/fedpla/InstanceTicker/master/InstanceTicker.css
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 //
