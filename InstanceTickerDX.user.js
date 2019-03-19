@@ -156,8 +156,8 @@
 // ここに処理を記載する
 (function(){
   var mstdn = 'mastodon';
-  var misky = 'Misskey';  
-/*var misky = 'Misskey|みすきーじぇーぴー';「みすきーじぇいぴー」閉鎖予定に伴い。*/
+  var misky = 'Misskey|misskey.m544.net';  
+/*var misky = 'Misskey|みすきーじぇーぴー';「みすきーじぇいぴー」閉鎖予定に伴い。めいめいのいけずう。*/
 
 /* <meta name="application-name" content="Misskey"> がある場合、Misskey 判定する。 */
   var appn = document.getElementsByName('application-name').item(0);
