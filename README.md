@@ -1,13 +1,13 @@
 <hr>
 
+# #InstanceTicker Github Version
 
+<hr>
 
 <img src="https://res.cloudinary.com/weep/image/upload/v1551123733/it/InstanceTicker.png" title="#InstanceTicker" alt="#InstanceTicker" />
 <hr>
 
-# #InstanceTicker Github Version
 
-<hr>
 
 # **[#InstanceTicker Wiki](https://github.com/fedpla/InstanceTicker/wiki) をお読み下さい**
 
