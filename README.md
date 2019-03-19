@@ -39,9 +39,9 @@
 - **Mastodon / Misskey**
 - - #InstanceTickerDX.user.js
 - - #InstanceTickerMisskey1.css - Misskey 版 の CSS
-- **Pleroma - Pleroma FE(旧バージョンのみ) / Mastodon FE 対応**
-- - #InstanceTickerFE.user.js - Pleroma FE(旧バージョンのみ) / Mastodon FE 対応
-- - #InstanceTickerPleroma1.css - Pleroma FE 版 の CSS(旧バージョンのみ)
+- **Pleroma - Pleroma FE(旧バージョンのみ対応) & Mastodon FE 対応**
+- - #InstanceTickerFE.user.js - Pleroma FE(旧バージョンのみ対応) & Mastodon FE 対応
+- - #InstanceTickerPleroma1.css - Pleroma FE 版 の CSS(旧バージョンのみ対応)
 - - #InstanceTickerPleroma11.css - Mastodon FE 版 の CSS
 
 <hr>
