@@ -1,6 +1,6 @@
 @charset 'utf-8';
 /*-----------------------------
- #InstanceTicker Pleroma-Mastodon FE (Type-1) 201903181509.css
+ #InstanceTicker Pleroma-Mastodon FE (Type-1) 201903200006.css
  https://github.com/fedpla/InstanceTicker/wiki/
 
  Copyright (c) 2018-2019 weepjp
@@ -16,8 +16,10 @@
  Released under the MIT license
  https://opensource.org/licenses/MIT
 /------------------------------*/
+.main .body:before{font-size:12px!important;height:16px!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;}
 @keyframes fade{ 0%{opacity:1;}6%{opacity:0.5;}9%{opacity:0;}96%,to{opacity:1;} }
 @keyframes mqee{0%{opacity:1;}0.01%{opacity:0;}4%{transform:translate(0);opacity:1;}48%{transform:translate(0);}96%{transform:translate(-64%);opacity:1;} to{transform:translate(-64%);opacity:0;}}
+.display-name{padding:0 0 16px 0!important;}
 .status__info a[href^='https://theboss.tech/'] .display-name:after{font-size:12px!important;height:16px!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;color:#fff!important;padding-left:18px!important;animation:fade 1s;background: url('https://wee.jp/f/theboss.tech'),linear-gradient(to left,transparent,#666 )!important;background-repeat:no-repeat,no-repeat!important;content:'閉鎖済み'!important;}
 .status__info a[href^='https://masi.theboss.tech/'] .display-name:after{font-size:12px!important;height:16px!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;color:#fff!important;padding-left:18px!important;animation:fade 1s;background: url('https://wee.jp/f/masi.theboss.tech'),linear-gradient(to left,transparent,#666 )!important;background-repeat:no-repeat,no-repeat!important;content:'閉鎖済み'!important;}
 .status__info a[href^='https://misskey.social/'] .display-name:after{font-size:12px!important;height:16px!important;display:block!important;white-space:pre!important;text-overflow:ellipsis!important;color:#fff!important;padding-left:18px!important;animation:fade 1s;background: url('https://wee.jp/f/misskey.social'),linear-gradient(to left,transparent,#666 )!important;background-repeat:no-repeat,no-repeat!important;content:'閉鎖済み'!important;}
