@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         #InstanceTickerDX.user.js
 // @namespace    https://github.com/fedpla/InstanceTicker/
-// @version      201903200040
-// @description  #InstanceTickerDX は、 Mastodon と Misskey の タイムライン上投稿者に所属インスタンス名を彩るカスタムCSSです。
-// @author       weep https://weep.me/@weep (Special Thanks: popn_ja)
+// @version      201903290537
+// @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
+// @author       weep https://weep.me/@weep
 //
 // @license      Original CSS © https://odakyu.app/@ars42525 and #InstanceTicker © 2018 https://weep.me/@weep Released under the MIT license https://opensource.org/licenses/MIT
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABG0lEQVQ4y6WTLWzCUBSFnwAxxMQEE5uYQMxMDIGYmamEjvCX2lVM0ASxpCOBZE1mSINA1CCqq6ura6urq6urz3oeKEiBPF7y2S/v3HuuCMMQURRJ4jhGkiSSNE2RZZkkz3NJURQ4fCIIAtQnWzQmHm7HG9yN1mgOV3gY/uFp4KDVX+K5P8fLxzfa+gyd3hRv3S+8dz93At/3USsFN+MDwYCC31KwKAU/UvBaJagrChhJeJ53ncB13TOCZaWAgxWO4xwJ7s8JejsBN3SVgKsWtm0rR5ACy7KUh8jCCdM0lSOwuRcIqn/A+gvDMC6YwbxaoOu6cpV5iELTtOMIoxUeTx3TfgY8RCkg/AlhJM6FcENcM2Ff2FrC+vOGyD8Yvit5VS8OawAAAABJRU5ErkJggg==
@@ -108,8 +108,15 @@
 // @match        https://pao.moe/*
 // @match        https://dotdon.jp/*
 //
+// @match        https://mstdn.unigiri.net/*
+// @match        https://hokutodon.co/*
+// @match        https://h.kokuda.org/*
+// @match        https://mstdn.mynoghra.jp/*
+// @match        https://kemoner-don.tokyo/*
+// @match        https://h.kokuda.org/*
+// @match        https://d.c-cha.cc/*
+//
 // @match        https://misskey.xyz/*
-// @match        https://misskey.jp/*
 // @match        https://msk.kirigakure.net/*
 // @match        https://misskey.m544.net/*
 // @match        https://misskey.xps2.net/*
@@ -128,7 +135,6 @@
 // @match        https://misskey.nokotaro.com/*
 // @match        https://msk.kirigakure.net/*
 // @match        https://emoji.msky.work/*
-// @match        https://819.blue/*
 // @match        https://i.mi.xeltica.work/*
 //
 // @resource     MASTODON https://raw.githubusercontent.com/fedpla/InstanceTicker/master/InstanceTicker1.css
