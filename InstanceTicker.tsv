@@ -1,4 +1,4 @@
-[0] #InstanceTicker (Type-0) Ver.201903181509.tsv - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
+[0] #InstanceTicker (Type-0) Ver.201903290537.tsv - (c)weepjp (c)kyori19 MIT License.	[1] ScreenName	[2] DomainName	[3] FontColor	[4] BackGroundColor	[5] ImgPath	[6] ImgWidth	[7] ImgLicense	[8] WikiURL	[9] UsersVoiceURL	[10] ImgLicenseURL	[11] AdminsVoiceURL	[12] Missingno.12	[13] Missingno.13
 1	閉鎖済み	theboss.tech	#fff	#666	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Theboss.tech					
 1	閉鎖済み	masi.theboss.tech	#fff	#666	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Theboss.tech					
 4	閉鎖済み	misskey.social	#fff	#666	https://wee.jp/2/4.png	18	代替アイコン						
@@ -90,7 +90,7 @@
 1	mstdn.f72u.net	mstdn.f72u.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 1	v1x3n.net	v1x3n.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/V1x3n.net					
 1	social.arnip.org	social.arnip.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
-1	social.bluecore.net	social.bluecore.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	インフラ技術専門(九州)	social.bluecore.net	#fff	#e12	https://wee.jp/2/1.png	18	代替アイコン						
 1	mstdn.asterism.xyz	mstdn.asterism.xyz	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 1	gensokyo.town	gensokyo.town	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Gensokyo.town					
 1	social.mikutter.hachune.net	social.mikutter.hachune.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン	https://ja.mstdn.wiki/Social.mikutter.hachune.net					
@@ -390,6 +390,12 @@
 1	mstdn.fuyumori.net	mstdn.fuyumori.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 1	わかきゅーdon	wakakyu.tk	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 1	mstdn.unigiri.net	mstdn.unigiri.net	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	hokutodon.co	hokutodon.co	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	h.kokuda.org	h.kokuda.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	mstdn.mynoghra.jp	mstdn.mynoghra.jp	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	kemoner-don.tokyo	kemoner-don.tokyo	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	h.kokuda.org	h.kokuda.org	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
+1	d.c-cha.cc	d.c-cha.cc	#fff	#26a	https://wee.jp/2/1.png	18	代替アイコン						
 2	mastodon.social	mastodon.social	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.social					
 2	mastodon.xyz	mastodon.xyz	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.xyz					
 2	mastodon.cloud	mastodon.cloud	#fff	#46a	https://wee.jp/2/2.png	18	代替アイコン	https://ja.mstdn.wiki/Mastodon.cloud					
@@ -584,6 +590,7 @@
 3	pl.at7s.me	pl.at7s.me	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
 3	plrm.polyohm.net	plrm.polyohm.net	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
 3	patch.cx	patch.cx	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
+3	social.gerotintin.com	social.gerotintin.com	#da5	#123	https://wee.jp/2/3.png	18	代替アイコン						
 4	misskey.xyz	misskey.xyz	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン	https://ja.mstdn.wiki/Misskey					
 4	misskey.rip	misskey.rip	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
 4	msk.kirigakure.net	msk.kirigakure.net	#fff	#17a	https://wee.jp/2/4.png	18	代替アイコン						
