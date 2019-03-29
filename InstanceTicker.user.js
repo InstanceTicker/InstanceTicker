@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTicker (Type-0) user.js 
 // @namespace    https://github.com/fedpla/InstanceTicker/
-// @version      201903200006
+// @version      201903290537
 // @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep
 //
@@ -108,6 +108,21 @@
 // @match        https://pao.moe/*
 // @match        https://dotdon.jp/*
 //
+// @match        https://mstdn.unigiri.net/*
+// @match        https://hokutodon.co/*
+// @match        https://h.kokuda.org/*
+// @match        https://mstdn.mynoghra.jp/*
+// @match        https://kemoner-don.tokyo/*
+// @match        https://h.kokuda.org/*
+// @match        https://d.c-cha.cc/*
+
+
+
+
+
+
+
+//
 // @resource     CCSS https://raw.githubusercontent.com/fedpla/InstanceTicker/master/InstanceTicker.css
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
@@ -120,7 +135,7 @@
 //
 //
 /****************************************
- * 各自で、match 追加して...　*
+ * 各自で、match 追加して......　*
  ****************************************/
 //
 //
