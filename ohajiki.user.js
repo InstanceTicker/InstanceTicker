@@ -5,11 +5,18 @@
   var domain = location.hostname;
 
   /* URLの条件を指定 */
-  if (domain.match('mastodon.social') || domain.match('mastodon.cloud') || domain.match('mstdn.jp') ) {
-    const css = document.createElement('link');
-    css.setAttribute('rel', 'stylesheet');
-    css.setAttribute('media', 'all');
-    css.setAttribute('href', 'https://wee.jp/css/1.css');
-    document.getElementsByTagName('head')[0].appendChild(css);
+  if (domain.match('mastodon.social')
+      || domain.match('mastodon.cloud') ) {
+    var css = d.createElement('style');
+    /* 適用するCSSを記述 */
+    var rule = d.createTextNode('* {}  @import url("https://wee.jp/css/1.css");');
+    css.type = 'text/css';
+    if (css.styleSheet) {
+      css.styleSheet.cssText = rule.nodeValue;
+    } else {
+      css.appendChild(rule);
+    };
+
+    d.getElementsByTagName('html')[0].appendChild(css);
   }
 })();
