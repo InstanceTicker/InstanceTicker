@@ -48,7 +48,7 @@
 
 ## 概要 - Description
 - [こちらの解説ページ(Wiki)](https://github.com/fedpla/InstanceTicker/wiki) を参照下さい。
-- - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://mastodon.social/@InstanceTicker">@InstanceTicker</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
+- - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://friendsni.co/@weep">@weep@friendsni.co</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
 - - 開発に関するお問い合わせは 、[鯖缶工場 Discord](https://discord.gg/tCgghdP) まで。
 - - その他のお問い合わせ（警告等も含みます）、 [メールフォーム](https://weep.jp/mail) から連絡下さい。
 
@@ -83,10 +83,10 @@
 ## スタッフ - Staff
 適度に協議しながら、やっています。
 - CSSオリジナル: [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
-- 企画・開発: [weep.me](https://weep.me/about) ( [weepjp](https://github.com/weepjp) )
+- 企画・開発: ( [weepjp](https://github.com/weepjp) )
 - スペシャルサンクス: popn_ja さん ( #InstanceTickerMisskey1.css and #InstanceTickerDX.user.js )
 
 ## ライセンス - Licence
 - ORIGINAL CSS © [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
-- #InstanceTicker 2018 © [weepjp](https://si.pmpm.pw/@weep) ( [weepjp](https://github.com/weepjp) )
+- #InstanceTicker 2018 © [weepjp](https://friendsni.co/@weep) ( [weepjp](https://github.com/weepjp) )
 - Released under the [MIT License](https://opensource.org/licenses/mit-license.php)
