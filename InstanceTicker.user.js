@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTicker (Type-0) user.js 
 // @namespace    https://github.com/fedpla/InstanceTicker/
-// @version      201905010057
+// @version      201905010058
 // @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep
 // @license      Original CSS © https://github.com/kyori1954 and #InstanceTicker © 2018 https://github.com/weepjp Released under the MIT license https://opensource.org/licenses/MIT
