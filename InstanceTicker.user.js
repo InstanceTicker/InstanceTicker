@@ -1,4 +1,4 @@
-@charset 'utf-8';// ==UserScript==
+// ==UserScript==
 // @name         #InstanceTicker (Type-0) user.js 
 // @namespace    https://github.com/fedpla/InstanceTicker/
 // @version      201905010057
