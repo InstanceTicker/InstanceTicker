@@ -16,7 +16,7 @@
 - "#InstanceTicker" とは、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
 - Github では、user.js を配布しています。 "Mastodon" のみならず、 "Misskey" "Pleroma" に対応しています。
 - 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
-- 仕様と使い方は「[InstanceTicker Wiki](https://github.com/fedpla/InstanceTicker/wiki)」で、まとめています。
+- 仕様と使い方は「[InstanceTicker Wiki](https://github.com/fedpla/InstanceTicker/wiki/)」で、まとめています。
 - 本来は PHP で出力されますが、GitHub 上では、定期的にコピペ設置してログとって、PHP設置サーバー(wee.jp)障害時の予備としての役割にしています。
 
 <hr>
@@ -26,44 +26,22 @@
 <hr>
 
 ## ファイル - File
-### [Type-0](https://github.com/fedpla/InstanceTicker/wiki/Type0) - 原則「代替アイコン」表示
-- **Mastodon**
-- - #InstanceTicker.user.js
-- - #InstanceTicker.css
-- - #InstanceTicker.tsv
-### [Type-1](https://github.com/fedpla/InstanceTicker/wiki/Type1) - 原則「Favicon」表示
-- **Mastodon**
-- - #InstanceTicker1.user.js
-- - #InstanceTicker1.css
-- - #InstanceTicker1.tsv
-- **Mastodon / Misskey**
-- - #InstanceTickerDX.user.js
-- - #InstanceTickerMisskey1.css - Misskey 版 の CSS
-- **Pleroma - Pleroma FE(旧バージョンのみ対応) & Mastodon FE 対応**
-- - #InstanceTickerFE.user.js - Pleroma FE(旧バージョンのみ対応) & Mastodon FE 対応
-- - #InstanceTickerPleroma1.css - Pleroma FE 版 の CSS(旧バージョンのみ対応)
-- - #InstanceTickerPleroma11.css - Mastodon FE 版 の CSS
-
+- **2019年7月より GitHub 上のユーザースクリプトはすべて廃止されます。**
 <hr>
 
 ## 概要 - Description
 - [こちらの解説ページ(Wiki)](https://github.com/fedpla/InstanceTicker/wiki) を参照下さい。
-- - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://friendsni.co/@weep">こちらのマストドンアカウント</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
-- - 開発に関するお問い合わせは 、[鯖缶工場 Discord](https://discord.gg/tCgghdP) まで。
+- - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://si.pmpm.pw/@weep">こちらのマストドンアカウント</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
+- - 開発に関するお問い合わせは 、[こちらのマストドンアカウント](https://si.pmpm.pw/@weep) まで。
 - - その他のお問い合わせ（警告等も含みます）、 [メールフォーム](https://weep.jp/mail) から連絡下さい。
 
-<hr>
-
-### 仕様
-- .user.js 先は、GitHub 上の .css に向けています。
-- 最新版でなく、安定版として機能しています（wee.jp 上の CSS に向けても、user.js が更新されない場合 CSS も更新されないための措置）。
 
 <hr>
 
 ## 予定
-- "Pleroma" への対応について。
-- - カスタムCSSさせるのが厳しい。
-- - アプリ名を宣言している HTML タグがない。
+- **2019年7月より GitHub 上のユーザースクリプトはすべて廃止されます。**
+- **2019年8月より GitHub 上のユーザースクリプトはすべて削除されます。**
+- - ユーザースクリプトは今後、「[PHP版（抹茶ミックス味）](https://github.com/fedpla/InstanceTicker/wiki/CSS_Matcha_Mix)」に変更下さい。
 
 <hr>
 
