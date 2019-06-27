@@ -41,7 +41,8 @@
 ## 予定
 - **2019年7月より GitHub 上のユーザースクリプトはすべて廃止されます。**
 - **2019年8月より GitHub 上のユーザースクリプトはすべて削除されます。**
-- - ユーザースクリプトは今後、「[PHP版（抹茶ミックス味）](https://github.com/fedpla/InstanceTicker/wiki/CSS_Matcha_Mix)」に変更下さい。
+- - ユーザースクリプトは今後、「[PHP版（抹茶ミックス味）](https://github.com/fedpla/InstanceTicker/wiki/CSS_Matcha_Mix)」に後継されます。
+- Pleroma 対応は見送りとなっています。
 
 <hr>
 
