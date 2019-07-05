@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         #InstanceTicker (Type-0) user.js 
 // @namespace    https://github.com/fedpla/InstanceTicker/
-// @version      201907052340
+// @version      201907052341
 // @description  #InstanceTicker とは、Mastodon タイムライン上の投稿者のみなさんに所属インスタンス名を彩るカスタムCSSです。
 // @author       weep https://weep.me/@weep
 // @license      Original CSS © https://github.com/kyori1954 and #InstanceTicker © 2018 https://github.com/weepjp Released under the MIT license https://opensource.org/licenses/MIT
@@ -536,29 +536,6 @@
 // @match        https://wxw.moe/*
 // @match        https://x0f.org/*
 // @match        https://yiff.life/*
-// @match        https://twista.283.cloud/*
-// @match        https://misskey.barippi.com/*
-// @match        https://gyutte.site/*
-// @match        https://msk.kirigakure.net/*
-// @match        https://kig.life/*
-// @match        https://mi.makotia.me/*
-// @match        https://misskey.m544.net/*
-// @match        https://mewl.me/*
-// @match        https://mi-chan.work/*
-// @match        https://misskey.dev/*
-// @match        https://misskey.io/*
-// @match        https://misskey.love/*
-// @match        https://twista.283.cloud/*
-// @match        https://misskey.nana.sh/*
-// @match        https://misskey.ranranhome.info/*
-// @match        https://msky.naru.cafe/*
-// @match        https://noir.pub/*
-// @match        https://misskey.nokotaro.com/*
-// @match        https://tri.cash/*
-// @match        https://uhouho.xyz/*
-// @match        https://xn--6r8h.tk/*
-// @match        https://misskey.xps2.net/*
-// @match        https://yuzulia.xyz/*
 //
 // @resource     CCSS https://raw.githubusercontent.com/fedpla/InstanceTicker/master/InstanceTicker.css
 // @grant        GM_addStyle
