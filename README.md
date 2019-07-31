@@ -31,13 +31,13 @@
 
 ## 概要 - Description
 - [こちらの解説ページ(Wiki)](https://github.com/fedpla/InstanceTicker/wiki) を参照下さい。
-- - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://mastodon.social/@weepjp">こちらのマストドンアカウント</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
-- - 開発に関するお問い合わせは 、<a target="_blank" rel="me" href="https://mastodon.social/@weepjp">こちらのマストドンアカウント</a> まで。
+- - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://i--i.net/@weep">こちらのマストドンアカウント</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
+- - 開発に関するお問い合わせは 、<a target="_blank" rel="me" href="https://i--i.net/@weep">こちらのマストドンアカウント</a> まで。
 - - その他のお問い合わせ（警告等も含みます）、 [メールフォーム](https://weep.jp/mail) から連絡下さい。
 <hr>
 
 ## 予定
-- 後継サイト #Fedplanet を開発中ですので、それが開設し軌道に乗れば、#InstanceTicker は廃止となります。
+- 後継である **#Fedplanet** を開発中ですので、それが開設し軌道に乗れば、#InstanceTicker は廃止となります。
 
 <hr>
 
