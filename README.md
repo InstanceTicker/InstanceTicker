@@ -21,12 +21,12 @@
 
 <hr>
 
-<img src="https://wee.jp/mastodon/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
+<img src="https://wee.jp/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
 
 <hr>
 
 ## ファイル - File
-- **2019年7月より GitHub 上のユーザースクリプトはすべて廃止されます。**
+- **2019年8月より GitHub 上にはサーバーリストだけ置きます。**
 <hr>
 
 ## 概要 - Description
@@ -34,15 +34,10 @@
 - - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://mastodon.social/@weepjp">こちらのマストドンアカウント</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
 - - 開発に関するお問い合わせは 、<a target="_blank" rel="me" href="https://mastodon.social/@weepjp">こちらのマストドンアカウント</a> まで。
 - - その他のお問い合わせ（警告等も含みます）、 [メールフォーム](https://weep.jp/mail) から連絡下さい。
-
-
 <hr>
 
 ## 予定
-- **2019年7月より GitHub 上のユーザースクリプトはすべて廃止されます。**
-- **2019年8月より GitHub 上のユーザースクリプトはすべて削除されます。**
-- - ユーザースクリプトは今後、「[PHP版（抹茶ミックス味）](https://github.com/fedpla/InstanceTicker/wiki/CSS_Matcha_Mix)」に後継されます。
-- Pleroma 対応は見送りとなっています。
+- 後継サイト #Fedplanet を開発中ですので、それが開設し軌道に乗れば、#InstanceTicker は廃止となります。
 
 <hr>
 
