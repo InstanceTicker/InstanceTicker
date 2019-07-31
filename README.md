@@ -59,13 +59,12 @@
 
 <hr>
 
-## スタッフ - Staff
-適度に協議しながら、やっています。
-- CSSオリジナル: [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
+## 著作者表記
 - 企画・開発: ( [weepjp](https://github.com/weepjp) )
-- スペシャルサンクス: popn_ja さん ( #InstanceTickerMisskey1.css and #InstanceTickerDX.user.js )
+- CSSオリジナル: [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
+- スペシャルサンクス: popn_ja さん ( Misskey および Pleroma への対応を考えたお方 )
 
 ## ライセンス - Licence
 - ORIGINAL CSS © [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
-- #InstanceTicker 2018 © [weepjp](https://friendsni.co/@weep) ( [weepjp](https://github.com/weepjp) )
+- #InstanceTicker 2019 © Fedplanet / [weep](https://i--i.net/@weep) ( [weepjp](https://github.com/weepjp) )
 - Released under the [MIT License](https://opensource.org/licenses/mit-license.php)
