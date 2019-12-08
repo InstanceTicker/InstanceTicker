@@ -30,8 +30,8 @@
 
 ## 概要 - Description
 - [こちらの解説ページ(Wiki)](https://github.com/fedpla/InstanceTicker/wiki) を参照下さい。
-- - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://i--i.net/@weep">こちらのマストドンアカウント</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
-- - 開発に関するお問い合わせは 、<a target="_blank" rel="me" href="https://i--i.net/@weep">こちらのマストドンアカウント</a> まで。
+- - 表示変更依頼（非表示化も含みます）は、 <a target="_blank" rel="me" href="https://weep.jp/fed">こちらのマストドンアカウント</a> にて、必ず公開投稿でメーションして下さい。（未収載・フォロワー限定・ダイレクトでのメーションにはお受けできません）
+- - 開発に関するお問い合わせは 、<a target="_blank" rel="me" href="https://weep.jp/fed">こちらのマストドンアカウント</a> まで。
 - - その他のお問い合わせ（警告等も含みます）、 [メールフォーム](https://weep.jp/mail) から連絡下さい。
 <hr>
 
@@ -60,5 +60,5 @@
 
 ## ライセンス - Licence
 - ORIGINAL CSS © [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
-- #InstanceTicker 2019 © [Tickerjp](https://fedibird.com/Tickerjp) / [weep](https://fedibird.com//@weep) ( [weepjp](https://github.com/weepjp) )
+- #InstanceTicker 2019 © [Tickerjp](https://fedibird.com/Tickerjp) / [weep](https://weep.jp/fed) ( [weepjp](https://github.com/weepjp) )
 - Released under the [MIT License](https://opensource.org/licenses/mit-license.php)
