@@ -13,11 +13,10 @@
 
 <hr>
 
-- "#InstanceTicker" とは、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
-- Github では、user.js を配布しています。 "Mastodon" のみならず、 "Misskey" "Pleroma" に対応しています。
+- "#InstanceTicker" とは、Mastodon 上で、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
 - 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
-- 仕様と使い方は「[InstanceTicker Wiki](https://github.com/fedpla/InstanceTicker/wiki/)」で、まとめています。
-- 本来は PHP で出力されますが、GitHub 上では、定期的にコピペ設置してログとって、PHP設置サーバー(wee.jp)障害時の予備としての役割にしています。
+- 仕様と使い方は「[InstanceTicker Wiki](https://github.com/Tickerjp/InstanceTicker/wiki/)」で、まとめています。
+- 本来は PHP で出力されますが、GitHub 上では、PHP設置サーバー(wee.jp)障害時の予備としての役割にしています。
 
 <hr>
 
@@ -37,7 +36,7 @@
 <hr>
 
 ## 予定
-- 後継である **#Fedplanet** を開発中ですので、それが開設し軌道に乗れば、#InstanceTicker は廃止となります。
+- 後継である **#Tickerjp** を開発中ですので、それが開設し軌道に乗れば、#InstanceTicker は廃止となります。
 
 <hr>
 
@@ -57,9 +56,9 @@
 ## 著作者表記
 - 企画・開発: ( [weepjp](https://github.com/weepjp) )
 - CSSオリジナル: [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
-- スペシャルサンクス: popn_ja さん ( Misskey および Pleroma への対応を考えたお方 )
+- スペシャルサンクス: [popn_ja](https://github.com/kaias1jp/) さん (Dolphin 版: [socialapi](https://github.com/kaias1jp/socialapi))
 
 ## ライセンス - Licence
 - ORIGINAL CSS © [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
-- #InstanceTicker 2019 © Fedplanet / [weep](https://i--i.net/@weep) ( [weepjp](https://github.com/weepjp) )
+- #InstanceTicker 2019 © [Tickerjp](https://fedibird.com/Tickerjp) / [weep](https://fedibird.com//@weep) ( [weepjp](https://github.com/weepjp) )
 - Released under the [MIT License](https://opensource.org/licenses/mit-license.php)
