@@ -18,7 +18,7 @@
 
 - 仕様と使い方は「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
 
-## 配信CSS(Mastodonのみ) - Public Custom CSS (Mastodon Only)
+### 配信CSS(Mastodonのみ) - Public Custom CSS (Mastodon Only)
 - Type-0 - 代替アイコン
 - - `https://wee.jp/css/0.css`
 - Type-1 - Favicon
@@ -30,7 +30,7 @@
 
 - 詳細は、「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
 
-## 配信ユーザースクリプト(Mastodonのみ) - Public .user.js (Mastodon Only)
+### 配信ユーザースクリプト(Mastodonのみ) - Public .user.js (Mastodon Only)
 - Type-0
 - - `https://wee.jp/userjs/0.user.js`
 - Type-1
@@ -42,7 +42,7 @@
 
 - 詳細は、「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
 
-## 関連リポジトリ - Sub Repository
+### 関連リポジトリ - Sub Repository
 
 - リストデータは [InstanceTicker_List](https://github.com/MiyonMiyon/InstanceTicker_List) に分割。
 - - アプリ導入については、リストデータを API としてお使い下さい。
