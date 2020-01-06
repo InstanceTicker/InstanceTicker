@@ -56,4 +56,4 @@
 - CSSオリジナル: [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
 
 ## ライセンス - Licence
-- ©2018 [kyori19](https://github.com/kyori19) / ©2018-2020 [weepjp](https://github.com/weepjp) Released under the [MIT License](https://opensource.org/licenses/mit-license.php)
+- ©2018 [kyori19](https://github.com/kyori19) / ©2018-2020 [weepjp](https://github.com/weepjp) Released under the [MIT License](https://opensource.org/licenses/mit-license.php).
