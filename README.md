@@ -19,28 +19,43 @@
 - 仕様と使い方は「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
 
 ## 配信CSS(Mastodonのみ) - Public Custom CSS (Mastodon Only)
-- 代替アイコン
+- Type-0 - 代替アイコン
 - - `https://wee.jp/css/0.css`
-- Favicon
+- Type-1 - Favicon
 - - `https://wee.jp/css/1.css`
-- 代替アイコン＋通知
+- Type-10 - 代替アイコン＋通知
 - - `https://wee.jp/css/10.css`
-- Favicon＋通知
+- Type-11 - Favicon＋通知
 - - `https://wee.jp/css/11.css`
 
-- 仕様と使い方は「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
+- 詳細は、「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
+
+## 配信ユーザースクリプト(Mastodonのみ) - Public .user.js (Mastodon Only)
+- Type-0
+- - `https://wee.jp/userjs/0.user.js`
+- Type-1
+- - `https://wee.jp/userjs/1.user.js`
+- Type-10
+- - `https://wee.jp/userjs/10.user.js`
+- Type-11
+- - `https://wee.jp/userjs/11.user.js`
+
+- 詳細は、「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
 
 ## 関連リポジトリ - Sub Repository
 
 - リストデータは [InstanceTicker_List](https://github.com/MiyonMiyon/InstanceTicker_List) に分割。
-- - アプリ導入については、リストデータをお使い下さい。
+- - アプリ導入については、リストデータを API としてお使い下さい。
 - デザインの規定については、[InstanceTicker_Design](https://github.com/MiyonMiyon/InstanceTicker_Design) に分割。
 
 <hr>
 
 ## 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
-- 「改造」から「CSS配信」「ブラウザ拡張用途」「GitHub での公開」に至るまで、快く了解してくださった「小田急don」の管理者の [きょり/わんせた](https://github.com/kyori19) さんには、この場を借りて感謝致します。
+- 「改造」から「CSS配信」「ユーザースクリプト」に快く了解してくださり、「GitHub での公開」を提案してくださいました「小田急don」の管理者の [きょり/わんせた](https://github.com/kyori19) さんには、この場を借りて感謝致します。
+- アプリに採用してくださった、[Tateisu](https://github.com/tateisu/) さん や [Cutls](https://github.com/cutls/) さんには、感謝申し上げるとともに、[InstanceTicker_List](https://github.com/MiyonMiyon/InstanceTicker_List) を API として利用することを提案してくださいました。
+- [kaias1jp](https://github.com/kaias1jp/) さんは、[halcyon](https://github.com/kaias1jp/halcyon) の対応や Mastodon 以外のSNSでの導入の模索など、心強く協力してくださっております。
+- [yi0713](https://github.com/yi0713) さんからは、プラス通知（Type-10/Type-11）の提案と快くCSSソースの使用許可をしてくださり感謝しております。
 
 <hr>
 
@@ -55,5 +70,8 @@
 - 企画・開発: ( [weepjp](https://github.com/weepjp) )
 - CSSオリジナル: [小田急don](https://odakyu.app/about) ( [kyori19](https://github.com/kyori19) )
 
+<hr>
+
 ## ライセンス - Licence
-- ©2018 [kyori19](https://github.com/kyori19) / ©2018-2020 [weepjp](https://github.com/weepjp) Released under the [MIT License](https://opensource.org/licenses/mit-license.php).
+- ©2018 [kyori19](https://github.com/kyori19), ©2018-2020 [weepjp](https://github.com/weepjp). Released under the [MIT License](https://opensource.org/licenses/mit-license.php).
+- Thanks Thanks (Type-10/Type-11) [https://github.com/yi0713](https://github.com/yi0713)
