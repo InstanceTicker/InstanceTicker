@@ -18,7 +18,19 @@
 
 - 仕様と使い方は「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
 
-## ファイル - File
+## 配信CSS(Mastodonのみ) - Public Custom CSS (Mastodon Only)
+- 代替アイコン
+- - `https://wee.jp/css/0.css`
+- Favicon
+- - `https://wee.jp/css/1.css`
+- 代替アイコン＋通知
+- - `https://wee.jp/css/10.css`
+- Favicon＋通知
+- - `https://wee.jp/css/11.css`
+
+- 仕様と使い方は「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
+
+## 関連リポジトリ - Sub Repository
 
 - リストデータは [InstanceTicker_List](https://github.com/MiyonMiyon/InstanceTicker_List) に分割。
 - - アプリ導入については、リストデータをお使い下さい。
