@@ -28,19 +28,7 @@
 - Type-11 - Favicon＋通知
 - - `https://wee.jp/css/11.css`
 
-- 詳細は、「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
 
-### 配信ユーザースクリプト(Mastodonのみ) - Public .user.js (Mastodon Only)
-- Type-0
-- - `https://wee.jp/userjs/0.user.js`
-- Type-1
-- - `https://wee.jp/userjs/1.user.js`
-- Type-10
-- - `https://wee.jp/userjs/10.user.js`
-- Type-11
-- - `https://wee.jp/userjs/11.user.js`
-
-- 詳細は、「[InstanceTicker Wiki](https://github.com/MiyonMiyon/InstanceTicker/wiki/)」で、まとめています。
 
 ### 関連リポジトリ - Sub Repository
 
