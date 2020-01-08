@@ -5,6 +5,9 @@
 <hr>
 
 <img src="https://res.cloudinary.com/weep/image/upload/v1551123733/it/InstanceTicker.png" title="#InstanceTicker" alt="#InstanceTicker" />
+
+[![#InstanceTicker (Mastodon Custom CSS)](https://res.cloudinary.com/miy/p/InstanceTicker_Play.png)](https://www.youtube.com/watch?v=DbN5ytOnGSI)
+
 <hr>
 
 ## 概要 - Description
