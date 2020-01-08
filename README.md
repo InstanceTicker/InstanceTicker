@@ -65,4 +65,4 @@
 
 ## ライセンス - Licence
 - ©2018 [kyori19](https://github.com/kyori19), ©2018-2020 [weepjp](https://github.com/weepjp). Released under the [MIT License](https://opensource.org/licenses/mit-license.php).
-- Thanks Thanks (Type-10/Type-11) [https://github.com/yi0713](https://github.com/yi0713)
+- Thanks Thanks (Type-10/Type-11) [yi0713](https://github.com/yi0713)
