@@ -51,8 +51,6 @@
 <hr>
 
 ## 貢献について - Contribution
-- weepjp は、からっきしの GitHub 初心者であり、あらゆる機能について網羅しておらず、右も左も分かりません。
-- 少しずつ覚えていきますので、お手柔らかにお願いします。
 - [Donation?](https://github.com/fedpla/InstanceTicker/wiki/ZENINAGE)
 
 <hr>
