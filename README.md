@@ -19,7 +19,7 @@
 
 ## 使い方 - Howto
 
-- Type-0 - Default<br><img src="https://miy.pw/img/Type-1.png" title="Type-0" alt="Type-0" />
+- Type-0 - Default<br><img src="https://miy.pw/img/Type-0.png" title="Type-0" alt="Type-0" />
 - - `https://miy.pw/css/0.css`
 <hr>
 - Type-1 - Favicon<br><img src="https://miy.pw/img/Type-1.png" title="Type-1" alt="Type-1" />
