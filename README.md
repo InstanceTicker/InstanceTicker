@@ -46,5 +46,5 @@
 <hr>
 
 ## ライセンス - Licence
-- ©2018 [kyori19](https://github.com/kyori19), ©2018-2020 [weepjp](https://github.com/weepjp). Released under the [MIT License](https://opensource.org/licenses/mit-license.php).
+- ©2018 [kyori19](https://github.com/kyori19), ©2018-2020 [MiyonMiyon](https://github.com/MiyonMiyon). Released under the [MIT License](https://opensource.org/licenses/mit-license.php).
 - Special Thanks: [yi0713](https://github.com/yi0713), [kaias1jp](https://github.com/kaias1jp), [cutls](https://github.com/cutls)
