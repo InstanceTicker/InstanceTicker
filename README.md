@@ -53,22 +53,21 @@
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
 - 「改造」から「CSS配信」「ユーザースクリプト」に快く了解してくださり、「GitHub での公開」を提案してくださいました「小田急don」の管理者の [きょり/わんせた](https://github.com/kyori19) さんには、この場を借りて感謝致します。
 - アプリに採用してくださった、[Tateisu](https://github.com/tateisu/) さん や [Cutls](https://github.com/cutls/) さんには、感謝申し上げるとともに、[InstanceTicker_List](https://github.com/MiyonMiyon/InstanceTicker_List) を API として利用することを提案してくださいました。
-- [kaias1jp](https://github.com/kaias1jp/) さんは、[halcyon](https://github.com/kaias1jp/halcyon) の対応や Mastodon 以外のSNSでの導入の模索など、心強く協力してくださっております。
+- [kaias1jp](https://github.com/kaias1jp/) さんは、[halcyon](https://github.com/kaias1jp/halcyon) の対応や Mastodon 以外のSNS(Misskey)での導入の模索など、心強く協力してくださっております。
 - [yi0713](https://github.com/yi0713) さんからは、快くプラス通知表示のCSSソースの使用許可をしてくださり感謝しております。
-
 <hr>
 
 ## 貢献について - Contribution
 - [Donation?](https://github.com/fedpla/InstanceTicker/wiki/ZENINAGE)
-
 <hr>
 
 ## 著作関係の掲示
 - CSS開発: ( [weepjp](https://github.com/weepjp) )
-- CSSオリジナル: [小田急don](https://odakyu.app/about) 鯖缶 ( [kyori19](https://github.com/kyori19) )
-- 通知表示考案者: [クラゲ丼 (kurage.cc)](https://okurage.cc/about) 鯖缶 ( [yi0713](https://github.com/yi0713) )
+- CSSオリジナル: [小田急don](https://odakyu.app/about) 
+- 通知表示考案: [クラゲ丼 (kurage.cc)](https://okurage.cc/about) 
+- Misskey版: [kaias1jp](https://github.com/kaias1jp)
 <hr>
 
 ## ライセンス - Licence
 - ©2018 [kyori19](https://github.com/kyori19), ©2018-2020 [weepjp](https://github.com/weepjp). Released under the [MIT License](https://opensource.org/licenses/mit-license.php).
-- Special Thanks (Type-10/Type-11/Type-12): [yi0713](https://github.com/yi0713)
+- Special Thanks: [yi0713](https://github.com/yi0713), [kaias1jp](https://github.com/kaias1jp), [cutls](https://github.com/cutls)
