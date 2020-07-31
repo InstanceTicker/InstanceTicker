@@ -43,14 +43,7 @@
 <hr>
 
 ## 貢献について - Contribution
-- [Donation?](https://github.com/fedpla/InstanceTicker/wiki/ZENINAGE)
-<hr>
-
-## 著作関係の掲示
-- CSS開発: ( [weepjp](https://github.com/weepjp) )
-- CSSオリジナル: [小田急don](https://odakyu.app/about) 
-- 通知表示考案: [クラゲ丼 (kurage.cc)](https://okurage.cc/about) 
-- Misskey版: [kaias1jp](https://github.com/kaias1jp)
+- [Donation?](https://weep.jp/tip)
 <hr>
 
 ## ライセンス - Licence
