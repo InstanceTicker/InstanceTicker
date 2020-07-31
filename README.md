@@ -16,21 +16,21 @@
 - "#InstanceTicker" とは、Mastodon 上で、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
 - 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
 
-### 配信CSS(Mastodon) - Public Custom CSS (Mastodon Only)
+### Public Custom CSS For Mastodon
 
-- [Type-0](https://miy.pw/css/html/0) を参照。
-- [Type-1](https://miy.pw/css/html/1) を参照。
-- [Type-2](https://miy.pw/css/html/2) を参照。
-- [Type-10](https://miy.pw/css/html/10) を参照。
-- [Type-11](https://miy.pw/css/html/11) を参照。
-- [Type-12](https://miy.pw/css/html/12) を参照。
+- [Type-0](https://miy.pw/css/html/0) 
+- [Type-1](https://miy.pw/css/html/1) 
+- [Type-2](https://miy.pw/css/html/2) 
+- [Type-10](https://miy.pw/css/html/10) 
+- [Type-11](https://miy.pw/css/html/11) 
+- [Type-12](https://miy.pw/css/html/12) 
 
 
-### 配信CSS(Mastodon) - Public Custom CSS (Mastodon Only)
+### Public Custom CSS For Misskey
 
-- [Type-40](https://miy.pw/css/html/40) を参照。
-- [Type-41](https://miy.pw/css/html/41) を参照。
-- [Type-42](https://miy.pw/css/html/42) を参照。
+- [Type-40](https://miy.pw/css/html/40) 
+- [Type-41](https://miy.pw/css/html/41) 
+- [Type-42](https://miy.pw/css/html/42) 
 
 
 
