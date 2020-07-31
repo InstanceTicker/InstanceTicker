@@ -16,22 +16,21 @@
 - "#InstanceTicker" とは、Mastodon 上で、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
 - 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
 
-### Public Custom CSS For Mastodon
+### Public CustomCSS For Mastodon
 
-- [Type-0](https://miy.pw/css/html/0) 
-- [Type-1](https://miy.pw/css/html/1) 
-- [Type-2](https://miy.pw/css/html/2) 
-- [Type-10](https://miy.pw/css/html/10) 
-- [Type-11](https://miy.pw/css/html/11) 
-- [Type-12](https://miy.pw/css/html/12) 
+- Type-0 [CustomCSS](https://miy.pw/css/html/0) [.css](https://miy.pw/css/0) [.user.js] - Default Style
+- Type-1 [CustomCSS](https://miy.pw/css/html/1) [.css](https://miy.pw/css/0) [.user.js] - Favicon Images Style
+- Type-2 [CustomCSS](https://miy.pw/css/html/2) [.css](https://miy.pw/css/0) [.user.js] - Favicon Images(White Outline) Style
+- Type-10 [CustomCSS](https://miy.pw/css/html/10) [.css](https://miy.pw/css/0) [.user.js] - Type-0 of Lite version
+- Type-11 [CustomCSS](https://miy.pw/css/html/11) [.css](https://miy.pw/css/0) [.user.js] - Type-1 of Lite version
+- Type-12 [CustomCSS](https://miy.pw/css/html/12) [.css](https://miy.pw/css/0) [.user.js] - Type-2 of Lite version
 
 
-### Public Custom CSS For Misskey
+### Public CustomCSS For Misskey
 
-- [Type-40](https://miy.pw/css/html/40) 
-- [Type-41](https://miy.pw/css/html/41) 
-- [Type-42](https://miy.pw/css/html/42) 
-
+- Type-40 [CustomCSS](https://miy.pw/css/html/40) [.css](https://miy.pw/css/0) [.user.js] - Type-0 for Misskey
+- Type-41 [CustomCSS](https://miy.pw/css/html/41) [.css](https://miy.pw/css/0) [.user.js] - Type-1 for Misskey
+- Type-42 [CustomCSS](https://miy.pw/css/html/42) [.css](https://miy.pw/css/0) [.user.js] - Type-2 for Misskey
 
 
 ## 謝辞 - Acknowledgements
