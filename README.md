@@ -14,7 +14,6 @@
 <img src="https://miy.pw/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
 
 - "#InstanceTicker" とは、Mastodon 上で、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
-- 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
 
 ### Public CustomCSS For Mastodon
 
