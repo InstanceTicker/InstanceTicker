@@ -17,33 +17,35 @@
 - 有志の皆様の協力によって、"[Subway Tooter](https://github.com/tateisu/SubwayTooter)" や "[TheDesk](https://github.com/cutls/TheDesk)" さらには "[halcyon](https://github.com/kaias1jp/halcyon)" にも対応していってる昨今です。
 - 詳細は、[こちらの解説ページ(Wiki)](https://github.com/MiyonMiyon/InstanceTicker/wiki) を参照下さい。
 
+### 配信CSS(Misskey) - Public Custom CSS (Mastodon Only)
+
 - Type-0 - Default<br><img src="https://miy.pw/img/Type-0.png" title="Type-0" alt="Type-0" />
-https://miy.pw/css/0.css
+ - `https://miy.pw/css/0.css`
 <hr>
 - Type-1 - Favicon<br><img src="https://miy.pw/img/Type-1.png" title="Type-1" alt="Type-1" />
-https://miy.pw/css/1.css
+ - `https://miy.pw/css/1.css`
 <hr>
 - Type-2 - Favicon + Outline<br><img src="https://miy.pw/img/Type-2.png" title="Type-2" alt="Type-2" />
-https://miy.pw/css/2.css
+ - `https://miy.pw/css/2.css`
 <hr>
 - Type-10 - Type-0 Lite<br><img src="https://miy.pw/img/Type-10.png" title="Type-10" alt="Type-10" />
-https://miy.pw/css/10.css
+ - `https://miy.pw/css/10.css`
 <hr>
 - Type-11 - Type-1 Lite<br><img src="https://miy.pw/img/Type-11.png" title="Type-11" alt="Type-11" />
-https://miy.pw/css/11.css
+ - `https://miy.pw/css/11.css`
 <hr>
 - Type-12 - Type-2 Lite<br><img src="https://miy.pw/img/Type-12.png" title="Type-12" alt="Type-12" />
-https://miy.pw/css/12.css
+ - `https://miy.pw/css/12.css`
 
-### 配信CSS(Misskey) - Public Custom CSS (Mastodon Only)
+### 配信CSS(Misskey) - Public Custom CSS (Misskey Only)
 - Type-40 - Type-40 for Misskey<br><img src="https://miy.pw/img/Type-40.png" title="Type-40" alt="Type-40" />
-https://miy.pw/css/10.css
+ - `https://miy.pw/css/10.css`
 <hr>
 - Type-41 - Type-41 for Misskey<br><img src="https://miy.pw/img/Type-41.png" title="Type-12" alt="Type-41" />
-https://miy.pw/css/11.css
+ - `https://miy.pw/css/11.css`
 <hr>
 - Type-41 - Type-42 for Misskey<br><img src="https://miy.pw/img/Type-42.png" title="Type-42" alt="Type-42" />
-https://miy.pw/css/12.css
+ - `https://miy.pw/css/12.css`
 
 <hr>
 
