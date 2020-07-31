@@ -21,40 +21,40 @@
 
 - Type-0 - Default
 - - `https://miy.pw/css/0.css`
-<img src="https://miy.pw/img/Type-0.png" title="Type-0" alt="Type-0" />
+![#Images (Images)](https://miy.pw/img/Type-0.png)
 <hr>
 - Type-1 - Favicon<br>
 - - `https://miy.pw/css/1.css`
-<img src="https://miy.pw/img/Type-1.png" title="Type-1" alt="Type-1" />
+![#Images (Images)](https://miy.pw/img/Type-1.png)
 <hr>
 - Type-2 - Favicon + Outline
 - - `https://miy.pw/css/2.css`
-<img src="https://miy.pw/img/Type-2.png" title="Type-2" alt="Type-2" />
+![#Images (Images)](https://miy.pw/img/Type-2.png)
 <hr>
 - Type-10 - Type-0 Lite
 - - `https://miy.pw/css/10.css`
-<img src="https://miy.pw/img/Type-10.png" title="Type-10" alt="Type-10" />
+![#Images (Images)](https://miy.pw/img/Type-10.png)
 <hr>
 - Type-11 - Type-1 Lite
 - - `https://miy.pw/css/11.css`
-<img src="https://miy.pw/img/Type-11.png" title="Type-11" alt="Type-11" />
+![#Images (Images)](https://miy.pw/img/Type-11.png)
 <hr>
 - Type-12 - Type-2 Lite
 - - `https://miy.pw/css/12.css`
-<img src="https://miy.pw/img/Type-12.png" title="Type-12" alt="Type-12" />
+![#Images (Images)](https://miy.pw/img/Type-12.png)
 
 ### 配信CSS(Misskey) - Public Custom CSS (Misskey Only)
 - Type-40 - Type-40 for Misskey
 - - `https://miy.pw/css/10.css`
-<img src="https://miy.pw/img/Type-40.png" title="Type-40" alt="Type-40" />
+![#Images (Images)](https://miy.pw/img/Type-40.png)
 <hr>
 - Type-41 - Type-41 for Misskey
 - - `https://miy.pw/css/11.css`
-<img src="https://miy.pw/img/Type-41.png" title="Type-12" alt="Type-41" />
+![#Images (Images)](https://miy.pw/img/Type-41.png)
 <hr>
 - Type-41 - Type-42 for Misskey
 - - `https://miy.pw/css/12.css`
-<img src="https://miy.pw/img/Type-42.png" title="Type-42" alt="Type-42" />
+![#Images (Images)](https://miy.pw/img/Type-42.png)
 <hr>
 
 ## 謝辞 - Acknowledgements
