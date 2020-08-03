@@ -32,6 +32,12 @@
 - Type-42 |[CustomCSS](https://miy.pw/css/html/42)|[.css](https://miy.pw/css/42.css)|[.user.js]| - Type-2 for Misskey
 
 
+## なぜソースを公開しないんですか？ - When is the PHP source open?
+- 個人的に欲しいものという出発点から突貫工事的に作ったので、現時点では難しいです。
+- 将来的には配布できる形にしたものを準備する予定ではありますが、 miy.pw の運用が優先されます。
+- - ソース公開する版の名称は「#Instancesticker」を予定します（真ん中に s が足されています）。
+- こことは無関係ですが、「[OpenSticker](https://github.com/cutls/OpenSticker)」がありますので、現時点ではそちらをお使い頂けたらなと。
+
 ## 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
 - 「改造」から「CSS配信」「ユーザースクリプト」に快く了解してくださり、「GitHub での公開」を提案してくださいました「小田急don」の管理者の [きょり/わんせた](https://github.com/kyori19) さんには、この場を借りて感謝致します。
