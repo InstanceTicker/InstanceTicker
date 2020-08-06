@@ -17,19 +17,19 @@
 
 ### Public CustomCSS For Mastodon
 
-- Type-0 |[CustomCSS](https://miy.pw/css/html/0)|[.css](https://miy.pw/css/0.css)|[.user.js]|- Default Style
-- Type-1 |[CustomCSS](https://miy.pw/css/html/1)|[.css](https://miy.pw/css/1.css)|[.user.js]|- Favicon Images Style
-- Type-2 |[CustomCSS](https://miy.pw/css/html/2)|[.css](https://miy.pw/css/2.css)|[.user.js]|- Favicon Images(White Outline) Style
-- Type-10 |[CustomCSS](https://miy.pw/css/html/10)|[.css](https://miy.pw/css/10.css)|[.user.js]|- Type-0 of Lite version
-- Type-11 |[CustomCSS](https://miy.pw/css/html/11)|[.css](https://miy.pw/css/11.css)|[.user.js]| - Type-1 of Lite version
-- Type-12 |[CustomCSS](https://miy.pw/css/html/12)|[.css](https://miy.pw/css/12.css)|[.user.js]| - Type-2 of Lite version
+- Type-0 |[CustomCSS](https://miy.pw/css/html/0)|[.css](https://miy.pw/css/0.css)|[.user.js](https://miy.pw/js/0.user.js)|- Default Style
+- Type-1 |[CustomCSS](https://miy.pw/css/html/1)|[.css](https://miy.pw/css/1.css)|[.user.js](https://miy.pw/js/1.user.js)|- Favicon Images Style
+- Type-2 |[CustomCSS](https://miy.pw/css/html/2)|[.css](https://miy.pw/css/2.css)|[.user.js](https://miy.pw/js/2.user.js)|- Favicon Images(White Outline) Style
+- Type-10 |[CustomCSS](https://miy.pw/css/html/10)|[.css](https://miy.pw/css/10.css)|[.user.js](https://miy.pw/js/10.user.js)|- Type-0 of Lite version
+- Type-11 |[CustomCSS](https://miy.pw/css/html/11)|[.css](https://miy.pw/css/11.css)|[.user.js](https://miy.pw/js/11.user.js)| - Type-1 of Lite version
+- Type-12 |[CustomCSS](https://miy.pw/css/html/12)|[.css](https://miy.pw/css/12.css)|[.user.js](https://miy.pw/js/12.user.js)| - Type-2 of Lite version
 
 
 ### Public CustomCSS For Misskey
 
-- Type-40 |[CustomCSS](https://miy.pw/css/html/40)|[.css](https://miy.pw/css/40.css)|[.user.js]| - Type-0 for Misskey
-- Type-41 |[CustomCSS](https://miy.pw/css/html/41)|[.css](https://miy.pw/css/41.css)|[.user.js]| - Type-1 for Misskey
-- Type-42 |[CustomCSS](https://miy.pw/css/html/42)|[.css](https://miy.pw/css/42.css)|[.user.js]| - Type-2 for Misskey
+- Type-40 |[CustomCSS](https://miy.pw/css/html/40)|[.css](https://miy.pw/css/40.css)|[.user.js](https://miy.pw/js/40.user.js)| - Type-0 for Misskey
+- Type-41 |[CustomCSS](https://miy.pw/css/html/41)|[.css](https://miy.pw/css/41.css)|[.user.js](https://miy.pw/js/41.user.js)| - Type-1 for Misskey
+- Type-42 |[CustomCSS](https://miy.pw/css/html/42)|[.css](https://miy.pw/css/42.css)|[.user.js](https://miy.pw/js/42.user.js)| - Type-2 for Misskey
 
 
 ## なぜソースを公開しないんですか？ - When is the PHP source open?
