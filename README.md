@@ -35,8 +35,10 @@
 ## なぜソースを公開しないんですか？ - When is the PHP source open?
 - 個人的に欲しいものという出発点から突貫工事的に作ったので、現時点では難しいです。
 - 将来的には配布できる形にしたものを準備する予定ではありますが、 miy.pw の運用が優先されます。
-- - ソース公開する版の名称は「#Instancesticker」を予定します（真ん中に s が足されています）。
-- 別の方々がやってる、「[OpenSticker](https://github.com/cutls/OpenSticker)」がありますので、現時点ではそちらをお使い頂けたらなと。
+- ソース公開する版の名称は「#Instancesticker」を予定していますが、お時間をおかけしています（真ん中に s が足されています）。
+- 以下、代替オープンソースをご紹介ます。
+- - 「[OpenSticker](https://github.com/cutls/OpenSticker) - Deno
+- - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey fork。
 
 ## 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
