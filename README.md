@@ -36,7 +36,7 @@
 - 個人的に欲しいものという出発点から突貫工事的に作ったので、現時点では難しいです。
 - 将来的には配布できる形にしたものを準備する予定ではありますが、 miy.pw の運用が優先されます。
 - ソース公開する版の名称は「#Instancesticker」を予定していますが、お時間をおかけしています（真ん中に s が足されています）。
-- 以下、代替オープンソースをご紹介ます。
+- 以下、代替オープンソース。
 - - 「[OpenSticker](https://github.com/cutls/OpenSticker)」 - Deno
 - - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey fork。
 
