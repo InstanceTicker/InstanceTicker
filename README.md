@@ -25,20 +25,15 @@
 - Type-12 |[CustomCSS](https://miy.pw/css/html/12)|[.css](https://miy.pw/css/12.css)|[.user.js](https://miy.pw/js/12.user.js)| - Type-2 of Lite version
 
 
-### Public CustomCSS For Misskey
-
-- Type-40 |[CustomCSS](https://miy.pw/css/html/40)|[.css](https://miy.pw/css/40.css)|[.user.js](https://miy.pw/js/40.user.js)| - Type-0 for Misskey
-- Type-41 |[CustomCSS](https://miy.pw/css/html/41)|[.css](https://miy.pw/css/41.css)|[.user.js](https://miy.pw/js/41.user.js)| - Type-1 for Misskey
-- Type-42 |[CustomCSS](https://miy.pw/css/html/42)|[.css](https://miy.pw/css/42.css)|[.user.js](https://miy.pw/js/42.user.js)| - Type-2 for Misskey
-
-
-## なぜソースを公開しないんですか？ - When is the PHP source open?
+## なぜ ソース や API を公開しないんですか？ - When is the PHP source and API open?
 - 個人的に欲しいものという出発点から突貫工事的に作ったので、現時点では難しいです。
 - 将来的には配布できる形にしたものを準備する予定ではありますが、 miy.pw の運用が優先されます。
-- ソース公開する版の名称は「#Instancesticker」を予定していますが、お時間をおかけしています（真ん中に s が足されています）。
-- 以下、代替オープンソース。
-- - 「[OpenSticker](https://github.com/cutls/OpenSticker)」 - Deno
-- - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey fork。
+- ソース公開する版の名称は「#Instancesticker」を予定していますが、開発にお時間をおかけしています（真ん中に s が足されています）。
+- 代替が登場した機に、#InstanceTicker API を廃止することになりましたので、以下をお使いいただけたらなぁと。
+- - 「[OpenSticker](https://github.com/cutls/OpenSticker)」 - 完全にオープンソースです(2020/07/28)。
+- - - 「[SubyayToorer](https://github.com/tateisu/SubwayTooter)」 - #InstanceTicker API 廃止にともない、[OpenSticker](https://github.com/cutls/OpenSticker)に移行(2020/09/30)
+- - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey のフォーク。本家より先行して代替機能（インスタンス情報として）が導入されました(2020/07/30)。
+- - 「[Misskey](https://github.com/syuilo/misskey)」 - 本家。代替機能（インスタンス情報として）が導入されましたが、めいすきーとは同一機能名ながら仕様が全く異なります(2020/10/27)。
 
 ## 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
