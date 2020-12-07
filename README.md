@@ -48,4 +48,4 @@
 
 ## ライセンス - Licence
 - (C)2018-2020 MiyonMiyon, (C)2018 kyori19, Released under the MIT license. https://miy.pw/
-- Special Thanks: yi0713 (通知表示のアイディアをくれたおかた)
+- Special Thanks yi0713
