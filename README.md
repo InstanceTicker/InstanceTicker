@@ -33,4 +33,5 @@
 <hr>
 
 ## ライセンス - Licence
-- (C)2018 weepjp / Based on the custom.css of ©2018 odakyu.app and ©2019 kurage.cc
+- ©2018 weepjp Released under the MIT license.
+- Based on the custom.css of ©2018 odakyu.app and ©2019 kurage.cc
