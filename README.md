@@ -29,9 +29,9 @@
 ## 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
 - 「改造」から「CSS配信」「ユーザースクリプト」に快く了解してくださり、「GitHub での公開」を提案してくださいました「小田急don」の管理者 [きょり/わんせた](https://github.com/kyori19) さんには、この場を借りて感謝致します。
-- 「kurage.cc」の管理者 [ぜま](https://github.com/yi0713) さんからは、快くプラス通知表示のCSSソースの使用許可をしてくださり感謝しております。
+- 「kurage.cc」の管理者 [ぜま](https://github.com/yi0713) さんからは、通知表示時のCSSソース使用の提案と許可を快くしてくださり感謝しております。
 <hr>
 
 ## ライセンス - Licence
-- ©2018 weepjp Released under the MIT license.
-- Based on the custom.css of ©2018 odakyu.app and ©2019 kurage.cc
+- ©2018 weepjp / Based on the custom.css of ©2018 odakyu.app and ©2019 kurage.cc
+- Released under the MIT license.
