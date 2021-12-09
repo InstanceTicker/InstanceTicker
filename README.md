@@ -15,12 +15,6 @@
 
 - "#InstanceTicker" とは、Mastodon 上で、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
 
-### Public CustomCSS For Mastodon
-
-- Type-0 |[CustomCSS](https://miy.pw/css/html/0)|[.css](https://miy.pw/css/0.css)|[.user.js](https://miy.pw/js/0.user.js)|- Default Style
-- Type-1 |[CustomCSS](https://miy.pw/css/html/1)|[.css](https://miy.pw/css/1.css)|[.user.js](https://miy.pw/js/1.user.js)|- Favicon Images Style
-- Type-2 |[CustomCSS](https://miy.pw/css/html/2)|[.css](https://miy.pw/css/2.css)|[.user.js](https://miy.pw/js/2.user.js)|- Favicon Images(White Outline) Style
-
 ## なぜ ソース や API を公開しないんですか？ - When is the PHP source and API open?
 - 個人的に欲しいものという出発点から突貫工事的に作ったので、現時点では難しいです。
 - 将来的には配布できる形にしたものを準備する予定ではありますが、 miy.pw の運用が優先されます。
@@ -30,6 +24,7 @@
 - - - 「[SubyayToorer](https://github.com/tateisu/SubwayTooter)」 - #InstanceTicker API 廃止にともない、[OpenSticker](https://github.com/cutls/OpenSticker)に移行(2020/09/30)。
 - - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey のフォーク。本家より先行して代替機能（インスタンス情報として）が導入されました(2020/07/30)。
 - - 「[Misskey](https://github.com/syuilo/misskey)」 - 本家。代替機能（インスタンス情報として）が導入されましたが、めいすきーとは同一機能名ながら仕様が全く異なります(2020/10/27)。
+<hr>
 
 ## 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
@@ -37,11 +32,5 @@
 - [yi0713](https://github.com/yi0713) さんからは、快くプラス通知表示のCSSソースの使用許可をしてくださり感謝しております。
 <hr>
 
-## 寄付 - Danate
-- [Donation?](https://weep.jp/tip)
-- - Kyash 推奨的な。
-<hr>
-
 ## ライセンス - Licence
-- (C)2018-2020 MiyonMiyon, (C)2018 kyori19, Released under the MIT license. https://miy.pw/
-- Special Thanks yi0713
+- (C)2018 weepjp / Based on the custom.css of ©2018 odakyu.app and ©2019 kurage.cc
