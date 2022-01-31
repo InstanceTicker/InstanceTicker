@@ -10,7 +10,7 @@
 
 <hr>
 
-## 概要 - Description
+# 概要 - Description
 <img src="https://miy.pw/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
 
 - "#InstanceTicker" とは、Mastodon 上で、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
@@ -25,6 +25,21 @@
 - - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey のフォーク。本家より先行して代替機能（インスタンス情報として）が導入されました(2020/07/30)。
 - - 「[Misskey](https://github.com/syuilo/misskey)」 - 本家。代替機能（インスタンス情報として）が導入されましたが、めいすきーとは同一機能名ながら仕様が全く異なります(2020/10/27)。
 <hr>
+
+
+
+# instances.tsv
+
+[InstanceTicker/InstanceTicker](https://github.com/InstanceTicker/InstanceTicker) 用のインスタンスリストです。
+
+TSV で管理し、SQLite ( Table: instances ) に格納している感じです。
+
+|  id  |  sns |  host  |  domain  |  text  |  width  |  tcolor  |  bcolor  |  scolor  |  bicon  |  sicon  |  eicon  |  iicon  |  url  |  entry  |  exity  |  icon  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  id  |  SNS番号 |  ホスト  |  索引用ドメイン  |  表示名  |  画像の横幅  |  表示名色  |  背景色  |  表示名影色  |  画像背景色個別指定  |  同一画像をidで指定  |  eicon  |  iicon  |  Wiki等のリンク  |  エントリ日 |  非エントリ日  |  <s>画像（Webp の Data URI Scheme）</s>当リポジトリには含まれません  |
+
+当リポジトリは不定期更新な感じ。
+
 
 ## 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
