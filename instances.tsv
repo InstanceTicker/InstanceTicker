@@ -1278,14 +1278,14 @@
 1277	3	pleroma.skyshanty.xyz	skyshanty.xyz											20210923T000000Z		
 1278	3	pr.shc.kanagawa.jp	shc.kanagawa.jp											20210903T000000Z		
 1279	3	pleroma.atsuchan.page	atsuchan.page											20210904T000000Z		
-1280	3	pl.thj.no	pl.thj.no											20210904T000000Z		
-1281	3	soc.nhg.moe	soc.nhg.moe											20210904T000000Z		
+1280	3	pl.thj.no	thj.no											20210904T000000Z		
+1281	3	soc.nhg.moe	nhg.moe											20210904T000000Z		
 1282	3	kisslolis.moe	kisslolis.moe											20210904T000000Z	20211201T000000Z	
 1283	3	clubcyberia.co	clubcyberia.co											20210904T000000Z		
 1284	3	p.tkw.fm	tkw.fm											20210918T235811Z		
 1285	3	getindor.com	getindor.com											20211001T000000Z	20211108T000000Z	
 1286	3	strelizia.net	strelizia.net											20211121T000000Z		
-1287	3	waifuism.life	waifuism.life											20210511T000000Z		
+1287	3	waifuism.life	waifuism.life											20210511T000000Z	20220207T000000Z	
 1288	3	social.076.ne.jp	076.ne.jp											20211201T000000Z		
 1289	3	bae.st	bae.st											20211201T000000Z		
 1290	3	pleroma.chillout.chat	chillout.chat											20210704T131444Z		
@@ -1417,7 +1417,7 @@
 1416	4	meisskey.one	meisskey.one											20200216T102719Z		
 1417	4	ridixy.com	ridixy.com							1416				20200216T221133Z		
 1418	4	misskey.xianon.net	xianon.net											20200222T132222Z		
-1419	4	m.dogcraft.cn	m.dogcraft.cn											20200821T023541Z		
+1419	4	m.dogcraft.cn	dogcraft.cn											20200821T023541Z		
 1420	4	co.misskey.io	misskey.io											20200301T114135Z		
 1421	4	dev.mis.b-shock.org	b-shock.org											20200306T182746Z		
 1422	4	misskey.void.gift	void.gift											20200324T094446Z		
@@ -1633,7 +1633,7 @@
 1632	4	fbk.moe	fbk.moe											20211222T051108Z		
 1633	4	rn.akarinext.org	akarinext.org											20211122T040516Z		
 1634	4	misskey.azuki.cf	azuki.cf						transparent					20211227T143515Z		
-1635	4	mlsskey.io	mlsskey.io	MLSSKEY.IO										20220107T141952Z		
+1635	4	mlsskey.io	mlsskey.io	MLSSKEY.IO										20220107T141952Z	20220207T000000Z	
 1636	4	mk.xiupos.net	xiupos.net											20220106T133559Z		
 1637	4	honiskey.kmlg.jp	kmlg.jp											20211216T205528Z		
 1638	4	m.zuiho.moe	zuiho.moe											20220119T113956Z		
@@ -1642,7 +1642,7 @@
 1641	4	stop.voring.me	voring.me											20220120T223256Z		
 1642	4	mi.8mitsu.net	8mitsu.net											20220121T150353Z		
 1643	4	snug.moe	snug.moe											20211124T110315Z		
-1644																
+1644	4	miss.nem.one	nem.one											20220202T125151Z		
 1645																
 1646																
 1647																
@@ -2768,7 +2768,7 @@
 2767	2	cybt.de	cybt.de											20190523T144800Z		
 2768	2	daedal.io	daedal.io											20190523T144800Z		
 2769	2	mast.dragon-fly.club	dragon-fly.club											20200516T122557Z		
-2770	2	mast.datamol.org	datamol.org											20180914T071929Z		
+2770	2	mast.datamol.org	datamol.org											20180914T071929Z	20220207T000000Z	
 2771	2	deadinsi.de	deadinsi.de											20190620T114900Z		
 2772	2	diaspodon.fr	diaspodon.fr											20170413T143000Z		
 2773	2	die-partei.social	die-partei.social											20180811T084330Z		
