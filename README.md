@@ -50,3 +50,5 @@ TSV で管理し、SQLite ( Table: instances ) に格納している感じです
 ## ライセンス - Licence
 - ©2018 weepjp / Based on the custom.css of ©2018 odakyu.app and ©2019 kurage.cc
 - Released under the MIT license.
+
+<!-- プルリクの練習 -->
