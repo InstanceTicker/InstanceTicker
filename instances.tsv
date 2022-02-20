@@ -101,7 +101,7 @@
 100	1	mstdn-jp.site	mstdn-jp.site											20170415T110600Z		
 101	1	ika.queloud.net	queloud.net											20170415T141500Z		
 102	1	svrdn.drillion.net	drillion.net											20170415T142400Z		
-103																
+103	1	mastodon.nekomimi.jp	nekomimi.jp											20170415T142447Z		
 104																
 105																
 106	1	mstdn.hokkaido.jp	hokkaido.jp	北海丼 (北海道)			#383	#383					https://ja.mstdn.wiki/?curid=397	20170415T150000Z		
@@ -536,7 +536,7 @@
 535	1	futen.work	futen.work											20191227T140500Z		
 536	1	fedi.fullstuck.net	fullstuck.net											20191230T061500Z		
 537	1	obapom.work	obapom.work											20191230T090900Z		
-538																
+538	1	mastodon.delta-t.work	delta-t.work											20191205T163230Z		
 539																
 540																
 541																
@@ -657,7 +657,7 @@
 656	1	meiso.hostdon.ne.jp	hostdon.ne.jp							273				20210808T075400Z		
 657	1	nonbiridon.hostdon.ne.jp	hostdon.ne.jp							273				20210809T091955Z		
 658	1	unkomaker.hostdon.ne.jp	hostdon.ne.jp							273				20210914T095600Z		
-659																
+659	1	integrity.hostdon.ne.jp	hostdon.ne.jp							273				20220221T000000Z		
 660	1	vandrare.page	vandrare.page											20210823T142511Z		
 661																
 662																
@@ -2671,7 +2671,7 @@
 2670	2	social.unextro.net	unextro.net											20180909T160531Z		
 2671	2	utopia.cool	utopia.cool											20210209T150000Z		
 2672	2	uwu.social	uwu.social											20210209T150000Z		
-2673	2	v.st	v.st											20210209T150000Z	20211208T000000Z	
+2673	2	v.st	v.st											20210209T150000Z		
 2674	2	vis.social	vis.social											20210209T150000Z		
 2675	2	vocalounge.cafe	vocalounge.cafe											20210209T150000Z		
 2676	2	vulpine.club	vulpine.club											20210209T150000Z		
@@ -2886,7 +2886,7 @@
 2885	2	mastodon.cloud	mastodon.cloud										https://ja.mstdn.wiki/?curid=5	20210209T150000Z		
 2886																
 2887	2	mastodon.eus	mastodon.eus											20210209T150000Z		
-2888																
+2888	2	mastodon.la	mastodon.la											20200627T135258Z		
 2889	2	mastodon.in.th	mastodon.in.th											20210209T150000Z		
 2890	2	mastodon.madrid	mastodon.madrid											20210209T150000Z		
 2891	2	mastodon.me.uk	mastodon.me.uk											20210209T150000Z		
@@ -3034,10 +3034,10 @@
 3033	2	s.sneak.berlin	sneak.berlin	sneak.berlin										20191209T205418Z		
 3034	2	pukima.site	pukima.site											20220121T183008Z		
 3035	2	seaofog.com	seaofog.com											20210923T040644Z		
-3036																
-3037																
-3038																
-3039																
+3036	2	kcmo.social	kcmo.social											20180907T035853Z		
+3037	2	liker.social	liker.social											20210526T164321Z		
+3038	2	mastodon.fun	mastodon.fun											20190810T044706Z		
+3039	2	me.ns.ci	me.ns.ci											20190720T110337Z		
 3040																
 3041																
 3042																
