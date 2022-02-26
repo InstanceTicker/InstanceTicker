@@ -616,7 +616,7 @@
 615	1	torti8.hostdon.ne.jp	hostdon.ne.jp							273				20201125T155455Z		
 616	1	nightly.fedibird.com	fedibird.com										https://ja.mstdn.wiki/?curid=2602	20201126T150000Z		
 617																
-618																
+618	1	mstdn.pepepper.cf	pepepper.cf											20201215T045842Z		
 619	1	twiddon.com	twiddon.com											20201220T133036Z		
 620	1	watadon.com	watadon.com											20201202T141900Z		
 621	1	digitan.cf	digitan.cf											20211205T044715Z		
@@ -1278,7 +1278,7 @@
 1277	3	pleroma.skyshanty.xyz	skyshanty.xyz											20210923T000000Z		
 1278	3	pr.shc.kanagawa.jp	shc.kanagawa.jp											20210903T000000Z		
 1279	3	pleroma.atsuchan.page	atsuchan.page											20210904T000000Z		
-1280	3	pl.thj.no	thj.no											20210904T000000Z		
+1280	3	pl.thj.no	thj.no											20210904T000000Z	20220222T180000Z	
 1281	3	soc.nhg.moe	nhg.moe											20210904T000000Z		
 1282	3	kisslolis.moe	kisslolis.moe											20210904T000000Z	20211201T000000Z	
 1283	3	clubcyberia.co	clubcyberia.co											20210904T000000Z		
@@ -1587,8 +1587,8 @@
 1586	8	s.pixelfed.ca	pixelfed.ca											20220105T000000Z		
 1587	8	pixel.tchncs.de	tchncs.de											20220105T000000Z		
 1588	8	pixelfed.gdgd.jp.net	gdgd.jp.net											20220211T130000Z		
-1589																
-1590																
+1589	8	pixel.o3o.ca	o3o.ca											20220218T060046Z		
+1590	8	pixelfed.pt	pixelfed.pt											20220202T230723Z		
 1591																
 1592																
 1593																
@@ -1646,8 +1646,8 @@
 1645	4	misskey.dokodare.ovh	dokodare.ovh											20220102T044341Z		
 1646	4	misskey.nauzome.com	nauzome.com											20220206T195918Z		
 1647	4	metaskey.net	metaskey.net											20220128T131308Z		
-1648																
-1649																
+1648	4	mi.shi-jk.com	shi-jk.com											20220219T121403Z		
+1649	4	mk.yuka.dev	yuka.dev											20220225T155457Z		
 1650																
 1651																
 1652																
@@ -1841,7 +1841,7 @@
 1840	5	peertube.fedi.quebec	fedi.quebec											20211217T084000Z		
 1841	5	peertube.anon-kenkai.com	anon-kenkai.com	anon-kenkai.com										20220107T000000Z		
 1842	5	video.aqr.af	video.aqr.af											20211220T140100Z		
-1843																
+1843	5	synergy-tube.co.za	synergy-tube.co.za											20220227T000000Z		
 1844																
 1845																
 1846																
@@ -1992,7 +1992,7 @@
 1991	7	we.snap.as	snap.as											20210209T150000Z		
 1992	7	writefreely.randomsoft.com	randomsoft.com	randomsoft.com										20210209T150000Z		
 1993	7	curenoize.org	curenoize.org											20210519T150000Z	20210927T000000Z	
-1994																
+1994	7	notes.telmina.com	notes.telmina.com											20210228T150100Z		
 1995																
 1996																
 1997																
@@ -3038,7 +3038,7 @@
 3037	2	liker.social	liker.social											20210526T164321Z		
 3038	2	mastodon.fun	mastodon.fun											20190810T044706Z		
 3039	2	me.ns.ci	me.ns.ci											20190720T110337Z		
-3040																
+3040	2	ni.hil.ist	hil.ist											20191020T223844Z		
 3041																
 3042																
 3043																
