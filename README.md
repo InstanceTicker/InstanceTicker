@@ -11,7 +11,7 @@
 <hr>
 
 # 概要 - Description
-<img src="https://miy.pw/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
+<img src="https://inst.ance.tk/tit.png" title="#InstanceTicker" alt="#InstanceTicker" />
 
 - "#InstanceTicker" とは、Mastodon 上で、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
 
