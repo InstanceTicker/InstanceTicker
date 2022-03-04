@@ -17,7 +17,7 @@
 
 ## なぜ ソース や API を公開しないんですか？ - When is the PHP source and API open?
 - 個人的に欲しいものという出発点から突貫工事的に作ったので、現時点では難しいです。
-- 将来的には配布できる形にしたものを準備する予定ではありますが、 miy.pw の運用が優先されます。
+- 将来的には配布できる形にしたものを準備する予定ではありますが、 inst.ance.tk の運用が優先されます。
 - - 2022年中にはソースをオープンします。
 - 代替が登場した機に、#InstanceTicker API を廃止することになりましたので、以下をお使いいただけたらなぁと（丸投げ）。
 - - 「[OpenSticker](https://github.com/cutls/OpenSticker)」 - 最強の代替です(2020/07/28)。
@@ -50,4 +50,3 @@ TSV で管理し、SQLite ( Table: instances ) に格納している感じです
 ## ライセンス - Licence
 - ©2018 weepjp / Based on the custom.css of ©2018 odakyu.app and ©2019 kurage.cc
 - Released under the MIT license.
-
