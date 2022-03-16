@@ -680,7 +680,7 @@
 679	1	mastadano.com	mastadano.com											20211030T134033Z		
 680																
 681																
-682		※ここからBook [b-c]														
+682		※ここからBook [b-]														
 683	11	bookwyrm.social	bookwyrm.social											20211120T130000Z		
 684	11	wyrms.de	wyrms.de						transparent					20211120T130000Z		
 685	11	bookclub.techstartups.space	techstartups.space											20211120T130000Z	20211120T200000Z	
@@ -742,9 +742,9 @@
 741																
 742																
 743																
-744																
-745																
-746																
+744		※ここから[c-] mastodon jp 予備														
+745														20220307T075217Z		
+746		jibun.club														
 747																
 748																
 749																
@@ -1165,7 +1165,7 @@
 1164	3	pornanime.club	pornanime.club						transparent					20210209T150000Z		
 1165	3	pouque.net	pouque.net											20210209T150000Z		
 1166	3	fedi.club	fedi.club											20211108T000000Z 	20220112T000000Z	
-1167	3	rage.lol	rage.lol											20210209T150000Z	20211201T000000Z	
+1167																
 1168	3	pl.rokoucha.net	rokoucha.net											20210209T150000Z		
 1169	3	pleroma.ryusei.dev	ryusei.dev	ryusei.dev					transparent					20210209T150000Z		
 1170	3	pl.sadx.moe	sadx.moe											20210209T150000Z	20211108T000000Z	
@@ -1178,7 +1178,7 @@
 1177	3	snack.social	snack.social											20210209T150000Z		
 1178		※ここから [j] [j0]														
 1179																
-1180																
+1180	3	milker.cafe	milker.cafe											20211115T063114Z		
 1181																
 1182																
 1183																
@@ -1264,7 +1264,7 @@
 1263	3	social.franssen.xyz	franssen.xyz											20210519T150000Z		
 1264	3	soc.phreedom.club	phreedom.club											20210531T150000Z		
 1265	3	idolheaven.org	idolheaven.org											20210531T150000Z		
-1266	3	iddqd.social	iddqd.social											20210603T150000Z	20210926T000000Z	
+1266	3	iddqd.social	iddqd.social											20210603T150000Z		
 1267	3	explosion.party	explosion.party											20210603T150000Z		
 1268	3	b.z0ne.social	z0ne.social											20210224T203904Z		
 1269	3	bidule.menf.in	menf.in											20210525T150000Z		
@@ -1285,7 +1285,7 @@
 1284	3	p.tkw.fm	tkw.fm											20210918T235811Z		
 1285	3	getindor.com	getindor.com											20211001T000000Z	20211108T000000Z	
 1286	3	strelizia.net	strelizia.net											20211121T000000Z		
-1287	3	waifuism.life	waifuism.life											20210511T000000Z	20220207T000000Z	
+1287	3	waifuism.life	waifuism.life											20210511T000000Z		
 1288	3	social.076.ne.jp	076.ne.jp											20211201T000000Z		
 1289	3	bae.st	bae.st											20211201T000000Z		
 1290	3	pleroma.chillout.chat	chillout.chat											20210704T131444Z		
@@ -1295,8 +1295,8 @@
 1294	3	cum.desupost.soy	desupost.soy											20220201T130000Z		
 1295	3	social.teci.world	teci.world											20220212T000000Z		
 1296	3	pleroma.runfox.tk	runfox.tk											20220216T000000Z		
-1297																
-1298																
+1297	3	social.hendrixgames.com	hendrixgames.com											20210107T000000Z		
+1298	3	puzzled.cc	puzzled.cc											20220316T000000Z		
 1299																
 1300																
 1301		※ ここから plume [l]														
@@ -1417,7 +1417,7 @@
 1416	4	meisskey.one	meisskey.one											20200216T102719Z		
 1417	4	ridixy.com	ridixy.com							1416				20200216T221133Z		
 1418	4	misskey.xianon.net	xianon.net											20200222T132222Z		
-1419	4	m.dogcraft.cn	dogcraft.cn											20200821T023541Z		
+1419	4	m.dogcraft.cn	dogcraft.cn							1434				20200821T023541Z		
 1420	4	co.misskey.io	misskey.io											20200301T114135Z		
 1421	4	dev.mis.b-shock.org	b-shock.org											20200306T182746Z		
 1422	4	misskey.void.gift	void.gift											20200324T094446Z		
@@ -1648,10 +1648,10 @@
 1647	4	metaskey.net	metaskey.net											20220128T131308Z		
 1648	4	mi.shi-jk.com	shi-jk.com											20220219T121403Z		
 1649	4	mk.yuka.dev	yuka.dev											20220225T155457Z		
-1650																
-1651																
-1652																
-1653																
+1650	4	succubi.services	succubi.services											20220203T100316Z		
+1651	4	port.mk	port.mk											20220203T100316Z		
+1652	4	rage.lol	rage.lol											20220121T202007Z		
+1653	4	ypolis.net	ypolis.net											20220222T130026Z		
 1654																
 1655																
 1656																
@@ -1811,7 +1811,7 @@
 1810	5	video.ploud.jp	ploud.jp											20210209T150000Z		
 1811	5	p.lu	p.lu											20211201T150000Z		
 1812	5	pony.tube	pony.tube	Pony.Tube					transparent					20210209T150000Z		
-1813	5	tv.poa.st	poa.st											20210209T150000Z		
+1813	5	poast.tv	poast.tv											20210209T150000Z		
 1814	5	spacepub.space	spacepub.space											20210209T150000Z		
 1815	5	thecool.tube	thecool.tube											20210209T150000Z		
 1816	5	peertube.tux.ovh	tux.ovh											20210209T150000Z	20211229T000000Z	
@@ -1993,7 +1993,7 @@
 1992	7	writefreely.randomsoft.com	randomsoft.com	randomsoft.com										20210209T150000Z		
 1993	7	curenoize.org	curenoize.org											20210519T150000Z	20210927T000000Z	
 1994	7	notes.telmina.com	notes.telmina.com											20210228T150100Z		
-1995																
+1995	7	melonmancy.net	melonmancy.net											20191102T000000Z		
 1996																
 1997																
 1998																
@@ -3039,8 +3039,8 @@
 3038	2	mastodon.fun	mastodon.fun											20190810T044706Z		
 3039	2	me.ns.ci	me.ns.ci											20190720T110337Z		
 3040	2	ni.hil.ist	hil.ist											20191020T223844Z		
-3041																
-3042																
+3041	2	mastodon.ericlathrop.com	ericlathrop.com											20200724T193427Z		
+3042	2	social.datalabour.com	datalabour.com											20211027T131355Z		
 3043																
 3044																
 3045																
