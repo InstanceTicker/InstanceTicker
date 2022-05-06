@@ -17,7 +17,7 @@
 
 ## 更新履歴
 
-[こちら](https://github.com/InstanceTicker/InstanceTicker/wiki/History)。
+- [InstanceTicker/InstanceTicker/wiki/History](https://github.com/InstanceTicker/InstanceTicker/wiki/History)。
 
 
 ## なぜ ソース や API を公開しないんですか？ - When is the PHP source and API open?
@@ -35,7 +35,7 @@
 
 # インスタンスリスト - instances
 
-[InstanceTicker/instances](https://github.com/InstanceTicker/instances) に移動しました。
+- [InstanceTicker/instances](https://github.com/InstanceTicker/instances) に移動しました。
 
 
 
