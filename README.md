@@ -15,13 +15,18 @@
 
 - "#InstanceTicker" とは、Mastodon 上で、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
 
+## 使い方
+
+- [Wiki](https://github.com/InstanceTicker/InstanceTicker/wiki/) を参照ください。
+
+
 ## 更新履歴
 
-- [InstanceTicker/InstanceTicker/wiki/History](https://github.com/InstanceTicker/InstanceTicker/wiki/History)。
+- [こちら](https://github.com/InstanceTicker/InstanceTicker/wiki/History) を参照ください。
 
 
 ## なぜ ソース や API を公開しないんですか？ - When is the PHP source and API open?
-- 個人的に欲しいものという出発点から突貫工事的に作ったので、現時点では難しいです。
+
 - 将来的には配布できる形にしたものを準備する予定ではありますが、 inst.ance.tk の運用が優先されます。
 - - 2022年中にはソースをオープンします。
 - 代替が登場した機に、#InstanceTicker API を廃止することになりましたので、以下をお使いいただけたらなぁと（丸投げ）。
@@ -35,7 +40,7 @@
 
 # インスタンスリスト - instances
 
-- [InstanceTicker/instances](https://github.com/InstanceTicker/instances) に移動しました。
+- [instances](https://github.com/InstanceTicker/instances) に移動しました（データ内に画像を扱うためライセンスありません）。
 
 
 
