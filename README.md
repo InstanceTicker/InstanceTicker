@@ -4,7 +4,9 @@
 
 <hr>
 
-<img src="https://res.cloudinary.com/weep/it/InstanceTicker.png" title="#InstanceTicker" alt="#InstanceTicker" />
+<img src="https://user-images.githubusercontent.com/3696720/172076193-cf461d70-3833-4435-b799-c2196123c943.png" title="#InstanceTicker" alt="#InstanceTicker" width="640" />
+
+<hr>
 
 [![#InstanceTicker (Mastodon Custom CSS)](https://res.cloudinary.com/miy/p/InstanceTicker_Play.png)](https://www.youtube.com/watch?v=DbN5ytOnGSI)
 
