@@ -1,6 +1,6 @@
 <hr>
 
-# #InstanceTicker
+# <img src="https://raw.githubusercontent.com/InstanceTicker/InstanceTicker/master/itk.svg"  width="32" height="32"> #InstanceTicker
 
 <hr>
 
