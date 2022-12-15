@@ -58,4 +58,4 @@
 
 # ライセンス - Licence
 - ©2018-2022 weepjp. Released under the MIT license. 
-- (Based on the ©2018 odakyu.app and ©2019 kurage.cc)
+- (#InstanceTicker is Based on custom.css of ©2018 odakyu.app and ©2019 kurage.cc)
