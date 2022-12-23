@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/InstanceTicker/InstanceTicker/master/itk.svg"  width="180"> 
+<img src="https://raw.githubusercontent.com/InstanceTicker/InstanceTicker/master/InstanceTicker.svg"  width="180"> 
 
 <hr>
 
@@ -30,24 +30,20 @@
 
 ## インスタンスリスト - instances
 
-- [instances](https://github.com/InstanceTicker/instances) に移動しました。
--  - （こちらはデータ内に画像を扱うためライセンスありません）。
+- [すべての画像データが含まれる SQLite は instances に移動しました。](https://github.com/InstanceTicker/instances)
+  - （こちらはデータ内に画像を扱うためライセンスありません）。
+- /InstanceTicker/InstanceTicker/instances.db は、一部画像データのみの同梱した単なるサンプルでありアップデートもしません。
+  - [/InstanceTicker/instances/instances.db](https://github.com/InstanceTicker/instances) のほうをお使い下さい。
 
 
+# 代替品 - Replacement
 
-# なぜ ソース や API を公開しないんですか？ - When is the PHP source and API open?
-
-- 将来的には配布できる形にしたものを準備する予定ではありますが、 inst.ance.tk の運用が優先されます。
-- - 2022年中にはソースをオープンします。
-- 代替が登場した機に、#InstanceTicker API を廃止することになりましたので、以下をお使いいただけたらなぁと（丸投げ）。
-- - 「[OpenSticker](https://github.com/cutls/OpenSticker)」 - 最強の代替です(2020/07/28)。
-- - - 「[SubyayToorer](https://github.com/tateisu/SubwayTooter)」 - #InstanceTicker API 廃止にともない、[OpenSticker](https://github.com/cutls/OpenSticker)に移行(2020/09/30)。
-- - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey のフォーク。本家より先行して代替機能（インスタンス情報として）が導入されました(2020/07/30)。
-- - 「[Misskey](https://github.com/syuilo/misskey)」 - 本家。代替機能（インスタンス情報として）が導入されましたが、めいすきーとは同一機能名ながら仕様が全く異なります(2020/10/27)。
+- 以下もお使いいただけたらなぁと（丸投げ）。
+  - 「[OpenSticker](https://github.com/cutls/OpenSticker)」 - 最強の代替です(2020/07/28)。
+    - 「[SubyayToorer](https://github.com/tateisu/SubwayTooter)」 - #InstanceTicker API 廃止にともない、[OpenSticker](https://github.com/cutls/OpenSticker)に移行(2020/09/30)。
+  - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey のフォーク。本家より先行して代替機能（インスタンス情報として）が導入されました(2020/07/30)。
+  - 「[Misskey](https://github.com/syuilo/misskey)」 - 本家。代替機能（インスタンス情報として）が導入されましたが、めいすきーとは同一機能名ながら仕様が全く異なります(2020/10/27)。
 <hr>
-
-
-
 
 
 # 謝辞 - Acknowledgements
