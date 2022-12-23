@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /tsv/
+Disallow: /js/
+Disallow: /userjs/
+Disallow: /ujs/
