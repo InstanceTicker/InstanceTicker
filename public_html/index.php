@@ -155,7 +155,7 @@ select{
 </head><body>
 
 <div id="loading"><div>
-<p><img src="'.$srv2.'/miy/" alt="Now Loading......" title="Now Loading..."></p>
+<p><img src="https://34.si/miyon/" alt="Now Loading......" title="Now Loading..."></p>
 <script>document.write("<p>Now Loading...</p>");</script>
 <noscript>
 <p>おそれいりますが、"JavaScript" を有効にして下さい！ みよんみよん！ </p>
@@ -180,7 +180,7 @@ select{
 	$result .= ' | </p></div>';
 
 	$result .= '<div class="box3"><p style="text-align:center;">';
-	$result .= '<img width="64" src="/miyon/" alt="Miyon-Miyon" title="Miyon-Miyon">';
+	$result .= '<img width="64" src="https://34.si/miyon/" alt="Miyon-Miyon" title="Miyon-Miyon">';
 	$result .= '</p><p style="text-align:center; font-size:10px;">Miyon-Miyon!</p>';
 	$result .= '</div></div>';
 	$result .= $str;
