@@ -123,7 +123,7 @@ if($mod==1){// 不正なURLかcheck
     $con .= '<p>コミッター: <a href="https://miyon.miyon.org/@weepjp" target="_blank">weepjp</a>';
     $con .= '<div class="en"><p>Committer: <a href="https://miyon.miyon.org/@weepjp" target="_blank">weepjp</a></p></div>';
 
-    $con .= '<p><img src="/miyon/" height="48" title="Miyon-Miyon"></p>';
+    $con .= '<p><img src="https://34.si/miyon/" height="48" title="Miyon-Miyon"></p>';
     $con .= '<p>看板娘: みよんみよん';
     $con .= '<div class="en"><p>Mascot: Miyon-Miyon</p></div>';
 
