@@ -1,7 +1,15 @@
+<IfModule mod_rewrite.c>
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+</IfModule>
+
+DirectoryIndex index.php index.html
 
 RewriteEngine on
 RewriteBase /
-#
-#
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?get=$1 [L]
+Options -Indexes
+
