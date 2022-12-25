@@ -396,8 +396,9 @@ if(is_file($sql_path)){//SQLiteファイルが存在すると～き
 	            
 	            //  SQLite を使って格納されたアイコン画像を参照。
 	            $db = new SQLite3($sql_path);
-	            $sql = 'SELECT * FROM `instances` WHERE id = '.$que.' ';
-	            $res = $db->query($sql);
+	            $stmt = $db->prepare('SELECT * FROM `instances` WHERE id = :id');
+				$stmt->bindValue(':id', $que, SQLITE3_TEXT);
+	            $res = $stmt->execute();
 	            
 	            
 	            /////////
