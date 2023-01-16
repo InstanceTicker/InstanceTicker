@@ -1,8 +1,9 @@
 <?php
+
 //
-// #InstanceTicker 
+// #InstanceTicker v.0.4.1 (2023-01-17)
 // /index.php
-// (C)2022 weepjp. Released under the MIT license.
+// (C)2018-2023 weepjp. Released under the MIT license.
 // https://github.com/InstanceTicker/InstanceTicker/
 //
 
