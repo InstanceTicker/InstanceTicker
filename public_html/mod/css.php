@@ -1,14 +1,11 @@
 <?php
+
 //
-// #InstanceTicker 
-// /mod/330.php
-// (C)2022 weepjp
-// (Based on the custom.css of (C)2018 odakyu.app and (C)2019 kurage.cc)
-// Released under the MIT license.
+// #InstanceTicker v.0.4.1 (2023-01-17)
+// /mod/css.php
+// (C)2018-2023 weepjp. Released under the MIT license.
 // https://github.com/InstanceTicker/InstanceTicker/
 //
-//$coy = '©2018-'.date('Y').' weepjp. Released under the MIT license. (Based on the ©2018 odakyu.app and ©2019 kurage.cc)';
-
 
 
 $ver  = 'mod330'; //mod  バージョン
