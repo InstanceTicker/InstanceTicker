@@ -19,6 +19,11 @@
 
 - "#InstanceTicker" とは、Mastodon 上で、投稿者に所属インスタンス名を彩る "Custom CSS" を発行・配信したり、そのためのインスタンス情報を取りまとめています。
 
+
+![image](https://user-images.githubusercontent.com/3696720/213289175-4f490fb3-722f-439d-a111-46f8f5773ffa.png)
+
+
+
 ## 使い方
 
 - [Wiki](https://github.com/InstanceTicker/InstanceTicker/wiki/) を参照ください。
