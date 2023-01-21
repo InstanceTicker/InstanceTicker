@@ -1,9 +1,8 @@
 <?php
-
 //
-// #InstanceTicker v.0.4.1 (2023-01-17)
+// #InstanceTicker 
 // /index.php
-// (C)2018-2023 weepjp. Released under the MIT license.
+// (C)2022 weepjp. Released under the MIT license.
 // https://github.com/InstanceTicker/InstanceTicker/
 //
 
@@ -28,12 +27,19 @@ function htmh($str, $tit, $msg ,$srv1, $srv2 ){
 <meta property="og:site_name" content="'.$tit.'" />
 <meta property="og:description" content="#InstanceTicker is custom CSS of Mastodon that aims to display the ServerName(Instance)." />
 <meta property="og:image" content="'.$srv2.'/img/og.webp" />
-
 <meta itemprop="name" content="#InstanceTicker" />
 <meta itemprop="description" content="#InstanceTicker is custom CSS of Mastodon that aims to display the ServerName(Instance)." />
 <meta itemprop="image" content="'.$srv2.'/img/og.webp" />
 <title>'.$tit.'</title>
+';
 
+
+
+
+
+
+
+	$result .= '
 <style>
 #loading{
  width:90vw;
@@ -268,7 +274,11 @@ $ext2 = @explode('/', $ext1[0]);   // /区切り(ディレクトリ)/$ext2[0]/$e
 $ext20 = mb_strlen($ext2[0], 'utf-8'); // URLからドメイン以外の部分の文字数。
 
 $tit = '#InstanceTicker';
-$wtf = '//'.$srv1.'/'; // アイコンの絶対パス。wtf なのは「34.wtf」を使っていた名残です。
+//$wtf = '//'.$srv1.'/'; // アイコンの絶対パス。wtf なのは「34.wtf」を使っていた名残です。
+$wtf = '//34.si/'; // アイコンの絶対パス。wtf なのは「34.wtf」を使っていた名残です。
+
+
+
 
 
 $hub = 'https://github.com/InstanceTicker/InstanceTicker';
@@ -288,6 +298,9 @@ switch ($srv1){
       $tit = ''.$srv1.' ( #InstanceTicker Folk )';
       $srv2 = 'https://'.$srv1.'';
       $sql_path= '../instances.db';
+      $wtf = '//34.si/';
+      
+      
     break;
     
     case 'inst.ance.tk': //旧サイト
@@ -295,12 +308,14 @@ switch ($srv1){
       $srv1 = '34.si';
       $srv2 = 'https://34.si';
       $sql_path= '../../34.si/instances.db';
+      $wtf = '//34.si/';
     break;
 
     case 'localhost': // ローカルホスト
     case '127.0.0.0': // ロイヤルホスト
       $srv2 = 'http://'.$srv1.'';
       $sql_path= '../instances.db';
+      $wtf = '//localhost/';
     break;
     
     default:
@@ -354,7 +369,12 @@ $version4 = encode($version2, $xchar);                // mversion2 の文字数�
 
 $err_webp = 'UklGRugAAABXRUJQVlA4WAoAAAACAAAADQAADQAAQU5JTQYAAAD/////AABBTk1GVgAAAAAAAAAAAA0AAA0AAGQAAAJWUDggPgAAALABAJ0BKg4ADgAJgLIlpAAwv4PHJAAAzUbqHSP3TToyfkcOGicfMrLTsKBfTuXdJBSOWOvsvLFxy2DPgwAAQU5NRl4AAAAAAAAAAAANAAANAABQAAAAVlA4IEYAAABUAQCdASoOAA4AAACyJaQAAAAAAPryLWbJVFgnxCXjZvn2JDzQ0iftLOZuujNag7QVMw9vyVT+6RCIhfUU2IbHhAj64AAA';
 
-$top_webp = 'UklGRjQAAABXRUJQVlA4ICgAAACQAQCdASoQABAAD8D+JZgCdABgcAAAybN0KrrsUpWAAclIatH40AAA';
+$top_webp = 'UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoOAA4ACwDAJaACdAEMUYUAAMxOtAwNUDvt+qDscr6UxNye8ggAAA==';
+
+
+$err_avif = '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';
+
+$top_avif = 'AAAAIGZ0eXBhdmlmAAAAAGF2aWZtaWYxbWlhZk1BMUEAAAFEbWV0YQAAAAAAAAAoaGRscgAAAAAAAAAAcGljdAAAAAAAAAAAAAAAAFBETmF2aWYAAAAADnBpdG0AAAAAAAEAAAAsaWxvYwAAAABEAAACAAEAAAABAAACRAAAACQAAgAAAAEAAAFsAAAA2AAAAEFpaW5mAAAAAAACAAAAGmluZmUCAAAAAAEAAGF2MDFDb2xvcgAAAAAZaW5mZQIAAAEAAgAARXhpZkV4aWYAAAAAGmlyZWYAAAAAAAAADmNkc2MAAgABAAEAAAB7aXBycAAAAFtpcGNvAAAAFGlzcGUAAAAAAAAAEAAAABAAAAAQcGFzcAAAAAEAAAABAAAADGF2MUOBIAAAAAAAEHBpeGkAAAAAAwgICAAAABNjb2xybmNseAABAA0AAYAAAAAYaXBtYQAAAAAAAAABAAEFAQKDhIUAAAEEbWRhdAAAAABJSSoACAAAAAYAEgEDAAEAAAABAAAAGgEFAAEAAABWAAAAGwEFAAEAAABeAAAAKAEDAAEAAAACAAAAMQECAA4AAABmAAAAaYcEAAEAAAB0AAAAAAAAAGAAAAABAAAAYAAAAAEAAABwYWludC5uZXQgNS4wAAUAAJAHAAQAAAAwMjMwAaADAAEAAAABAAAAAqAEAAEAAAAQAAAAA6AEAAEAAAAQAAAABaAEAAEAAAC2AAAAAAAAAAIAAQACAAQAAABSOTgAAgAHAAQAAAAwMTAwAAAAABIACgg4DP/aQENAZDIWHkA////FlwEAAqIGaMTh0d8/Ov9bMA==';
 
 
 
@@ -375,58 +395,192 @@ if(is_file($sql_path)){//SQLiteファイルが存在すると～き
 	        $res = null;
 	        $con = null;
 
-	        if($ext20 === 1 or $ext20 === 2 and empty($ext2[1])){// 2文字以下のときにアイコン画像に判定
+	        if($ext20 === 1 or $ext20 === 2){// 2文字以下のときにアイコン画像に判定
 	            
 	            
-	            
-	            if($ext2[0] === '0'){ //0 のときは、ロゴ画像を表示。キャッシュコントロール。
-	                header('Cache-Control: public,must-revalidate,max-age=6000');
+
+		            
+	            switch($ext1[1]){ // 拡張子の判定を行う
+	            	
+	            	
+	            	
+	            	///////////// .webp
+            	    case 'webp':
+            	    case '':     // 拡張子なしのときも含む
+			            if($ext2[0] === '0'){ //0 のときは、ロゴ画像を表示。キャッシュコントロール。
+			                header('Cache-Control: public,must-revalidate,max-age=6000');
+			                
+			                //昔使ってたノーキャッシュくん。
+			                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
+			                //header('Pragma:no-cache');
+			                
+			                //base64 を 画像ファイルにさせる表示。exit してこれでおわり。
+			                header('Content-Type: image/webp');
+			                header('Access-Control-Allow-Origin: *');
+			                echo base64_decode($top_webp);
+			                exit;
+			            }
+			            //  SQLite を使って格納されたアイコン画像を参照。
+			            $db = new SQLite3($sql_path);
+			            $stmt = $db->prepare('SELECT * FROM `instances` WHERE id = :id');
+			            $stmt->bindValue(':id', $que, SQLITE3_TEXT);
+			            $res = $stmt->execute();
+			            
+			            
+			            /////////
+			            // /while webp
+			            while( $row = $res->fetchArray() ) {  
+
+			                header('Cache-Control: public,must-revalidate,max-age=6000');
+			                
+			                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
+			                //header('Pragma:no-cache');
+			                
+			                header('Content-Type: image/webp');
+			                header('Access-Control-Allow-Origin: *');
+
+			                if(!empty($row['webp'])){// webp 格納があるものに限る
+			                    $ico2 = @explode(',', $row['webp']);
+			                    if($ico2[0] == 'data:image/webp;base64'){//先頭に webp MINE がある場合のみ。
+			                        echo base64_decode($ico2[1]); exit;
+			                        
+			                    }else{// ない場合。
+			                        echo base64_decode($err_webp); exit;
+			                    }
+			                }else{// そもそも webp 格納がない場合。。
+			                    echo base64_decode($err_webp); exit;
+			                }
+			            }// while webp
+		                //////////
+	                break;
 	                
-	                //昔使ってたノーキャッシュくん。
-	                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
-	                //header('Pragma:no-cache');
 	                
-	                //base64 を 画像ファイルにさせる表示。exit してこれでおわり。
-	                header('Content-Type: image/webp');
-	                header('Access-Control-Allow-Origin: *');
-	                echo base64_decode($top_webp);
-	                exit;
+	                
+	                
+	                ///////////// .avif (使うかどうか微妙)
+            	    case 'avif':
+			            if($ext2[0] === '0'){ //0 のときは、ロゴ画像を表示。キャッシュコントロール。
+			                header('Cache-Control: public,must-revalidate,max-age=6000');
+			                
+			                //昔使ってたノーキャッシュくん。
+			                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
+			                //header('Pragma:no-cache');
+			                
+			                //base64 を 画像ファイルにさせる表示。exit してこれでおわり。
+			                header('Content-Type: image/avif');
+			                header('Access-Control-Allow-Origin: *');
+			                echo base64_decode($top_avif);
+			                exit;
+			            }
+			            //  SQLite を使って格納されたアイコン画像を参照。
+			            $db = new SQLite3($sql_path);
+			            $stmt = $db->prepare('SELECT * FROM `instances` WHERE id = :id');
+			            $stmt->bindValue(':id', $que, SQLITE3_TEXT);
+			            $res = $stmt->execute();
+			            
+			            /////////
+			            // /while webp
+			            while( $row = $res->fetchArray() ) {  
+
+			                header('Cache-Control: public,must-revalidate,max-age=6000');
+			                
+			                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
+			                //header('Pragma:no-cache');
+			                
+			                header('Content-Type: image/avif');
+			                header('Access-Control-Allow-Origin: *');
+
+			                if(!empty($row['avif'])){// avif 格納があるものに限る
+			                    $ico2 = @explode(',', $row['avif']);
+			                    if($ico2[0] == 'data:image/avif;base64'){//先頭に avif MINE がある場合のみ。
+			                        echo base64_decode($ico2[1]); exit;
+			                        
+			                    }else{// ない場合。
+			                        echo base64_decode($err_avif); exit;
+			                    }
+			                }else{// そもそも webp 格納がない場合。。
+			                    echo base64_decode($err_avif); exit;
+			                }
+			            }// while avif
+		                //////////
+	                break;
+	                
+	                
+	                
+	                
+	                /////////////  .png
+            	    case 'png':
+			            if($ext2[0] === '0'){ //0 のときは、ロゴ画像を表示。キャッシュコントロール。
+			                header('Cache-Control: public,must-revalidate,max-age=6000');
+			                
+			                //昔使ってたノーキャッシュくん。
+			                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
+			                //header('Pragma:no-cache');
+			                
+			                //base64 を 画像ファイルにさせる表示。exit してこれでおわり。
+			                header('Content-Type: image/png');
+			                header('Access-Control-Allow-Origin: *');
+			                echo base64_decode('iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAIAAACQKrqGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE0SURBVChTfVJLTsQwDE0c51M0KxawQOI6bOAUnIIbcBHWSHAdxB4JzWamzb/BcTpCAsSr47w47qudRj6/vO7zCgDOWlRotHbGKgUGNSo1WYc0SXl9dYnvn/unt4+UCtQGpcq6qrKSJw5lhUq87ox5fLiHEJMvlWxJuVvMc0xziEdPFg5LOMz+OPuUMtRaRBMEyY59hxzY4iLnDN6HRrn9ITT2jEbo01iUkiGE0LnsMjy2FcsyFZLeIUUqoLLWFuZBOKlvSxFihBi5AK7g+4M/0Bopcq1t6P2Z1UEbMQSg1noHIzDIkB5tnRi1BKWUsf0vWuLD8ixFJZxa+AVK6OcavJeV/kSBtUBrqq1KNJQCQWgQqKRGIEsxyJvbuwWd1gZBTc6hAqu1NRb5AvVLg+rMTRfnuy/GMcdyMv+sNwAAAABJRU5ErkJggg==');
+			                exit;
+			            }// png
+		                //////////
+	                break;
+		                
+		                
+		                
+	                /////////////  .gif
+            	    case 'gif':
+			            if($ext2[0] === '0'){ //0 のときは、ロゴ画像を表示。キャッシュコントロール。
+			                header('Cache-Control: public,must-revalidate,max-age=6000');
+			                
+			                //昔使ってたノーキャッシュくん。
+			                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
+			                //header('Pragma:no-cache');
+			                
+			                //base64 を 画像ファイルにさせる表示。exit してこれでおわり。
+			                header('Content-Type: image/gif');
+			                header('Access-Control-Allow-Origin: *');
+			                echo base64_decode('R0lGODlhDgAOAPZ+ACNvgyNwgyNwhCRrgCVrgCVrgSVsgCVsgSVtgCVufiRwgyRxgyVygydjeyZnfSZnfidpfSZofidofiZygyZzhCd0hClfeChjeyhkeyhmfCh0hSh1hil1hyl2hytWcipbdStbdStbdipieS1Sby1ScCxWcixXcyxfdyx0hi9KaS5ObS9ObC9ObS9PbS5TcC5cdS5xhTBKaTBKajBYcjFqgDBtgjNRbjJUcDJ6ijVOazVjfDRmfjdfeThMazlNazlNbDlbdzpObTtObTtPbjtYdT1QVT1QbTxQbjxQbzxVckJVW0RVWUdMTUZXXkhbeExeYk9fZlNiaFVna1lrb1pnbV5wdGFtdGVvdmd5fG12fW6AhHGDh3N6gnd+hXmLj4GGjoKUl4WXm42RmI2eoZOYoJeYmpidpZ2tsZ6iqp+vs6aqsqe2uqu5vq2yuq+ys7C1vbG+w7i8xLnEyrzHzMHFzMLL0cXJ0cbO1MrO1s/V3NDU29PZ39ba4PT19wAAAAAAACH5BAUKAH4ALAAAAAAOAA4AAAeYgG5naWtscHJzdXd5e3x9YzgoMDU0Ozo8QERJTnphHQEDDg0WHx4jKilIeGAcoA8XpCYuLDFIdl4bAKGjpSQrtXRbuQcRsCGytENxWhoCxBixszJDb1gVrsbI021VFAoGxdEt02pTE9jitWhSDOi9yWZPC86i6T1kSwkIEBkiJy8zbtjIYUQMkyJKmkCJQsXKlSxcunwpEwgAOw==');
+			                exit;
+			            }// gif
+		                //////////
+	                break;
+		                
+		                
+		                
+		                
+		                
+	                /////////////  .jpg
+	                case 'jpg':
+ 	                case 'jpeg':
+			            if($ext2[0] === '0'){ //0 のときは、ロゴ画像を表示。キャッシュコントロール。
+			                header('Cache-Control: public,must-revalidate,max-age=6000');
+			                
+			                //昔使ってたノーキャッシュくん。
+			                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
+			                //header('Pragma:no-cache');
+			                
+			                //base64 を 画像ファイルにさせる表示。exit してこれでおわり。
+			                header('Content-Type: image/jpeg');
+			                header('Access-Control-Allow-Origin: *');
+			                echo base64_decode('R0lGODlhDgAOAPZ+ACNvgyNwgyNwhCRrgCVrgCVrgSVsgCVsgSVtgCVufiRwgyRxgyVygydjeyZnfSZnfidpfSZofidofiZygyZzhCd0hClfeChjeyhkeyhmfCh0hSh1hil1hyl2hytWcipbdStbdStbdipieS1Sby1ScCxWcixXcyxfdyx0hi9KaS5ObS9ObC9ObS9PbS5TcC5cdS5xhTBKaTBKajBYcjFqgDBtgjNRbjJUcDJ6ijVOazVjfDRmfjdfeThMazlNazlNbDlbdzpObTtObTtPbjtYdT1QVT1QbTxQbjxQbzxVckJVW0RVWUdMTUZXXkhbeExeYk9fZlNiaFVna1lrb1pnbV5wdGFtdGVvdmd5fG12fW6AhHGDh3N6gnd+hXmLj4GGjoKUl4WXm42RmI2eoZOYoJeYmpidpZ2tsZ6iqp+vs6aqsqe2uqu5vq2yuq+ys7C1vbG+w7i8xLnEyrzHzMHFzMLL0cXJ0cbO1MrO1s/V3NDU29PZ39ba4PT19wAAAAAAACH5BAUKAH4ALAAAAAAOAA4AAAeYgG5naWtscHJzdXd5e3x9YzgoMDU0Ozo8QERJTnphHQEDDg0WHx4jKilIeGAcoA8XpCYuLDFIdl4bAKGjpSQrtXRbuQcRsCGytENxWhoCxBixszJDb1gVrsbI021VFAoGxdEt02pTE9jitWhSDOi9yWZPC86i6T1kSwkIEBkiJy8zbtjIYUQMkyJKmkCJQsXKlSxcunwpEwgAOw==');
+			                exit;
+			            }// gif
+		                //////////
+	                break;
+		                
+		                
+		                
+		                
+		                
+		                
+            	    default: //該当する拡張子なし
+		                $mod = ''; //mod file がそもそもない。
+		                $err1 = '404'; // それすなわち404エラーっすね
+	                break;
 	            }
 	            
 	            
-	            
-	            //  SQLite を使って格納されたアイコン画像を参照。
-	            $db = new SQLite3($sql_path);
-	            $stmt = $db->prepare('SELECT * FROM `instances` WHERE id = :id');
-				$stmt->bindValue(':id', $que, SQLITE3_TEXT);
-	            $res = $stmt->execute();
-	            
-	            
-	            /////////
-	            // /while
-	            while( $row = $res->fetchArray() ) {  
-
-	                header('Cache-Control: public,must-revalidate,max-age=6000');
-	                
-	                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
-	                //header('Pragma:no-cache');
-	                
-	                header('Content-Type: image/webp');
-	                header('Access-Control-Allow-Origin: *');
-
-	                if(!empty($row['webp'])){// webp 格納があるものに限る
-	                    $ico2 = @explode(',', $row['webp']);
-	                    if($ico2[0] == 'data:image/webp;base64'){//先頭に webp MINE がある場合のみ。
-	                        echo base64_decode($ico2[1]); exit;
-	                        
-	                    }else{// ない場合。
-	                        echo base64_decode($err_webp); exit;
-	                    }
-	                }else{// そもそも webp 格納がない場合。。
-	                    echo base64_decode($err_webp); exit;
-	                }
-	            }// while
-	            //////////
 	            
 	        }else{// 2文字以下のときにアイコン画像に判定はここまで！
 	    
@@ -453,6 +607,10 @@ if(is_file($sql_path)){//SQLiteファイルが存在すると～き
 	                
 	                $mod = ''; //mod file がそもそもない。
 	                $err1 = '404'; // それすなわち404エラーっすね。
+	                
+	                
+	                
+	                
 	                
 	            }
 	        }
@@ -509,7 +667,7 @@ if(empty($mod)){ // mod file がない or ページがないときは拡張子�
         case 'webp': // .webp
         header('HTTP', true, 404);
         header("Content-Type: image/webp"); 
-        echo base64_decode('UklGRugAAABXRUJQVlA4WAoAAAACAAAADQAADQAAQU5JTQYAAAD/////AABBTk1GVgAAAAAAAAAAAA0AAA0AAGQAAAJWUDggPgAAALABAJ0BKg4ADgAJgLIlpAAwv4PHJAAAzUbqHSP3TToyfkcOGicfMrLTsKBfTuXdJBSOWOvsvLFxy2DPgwAAQU5NRl4AAAAAAAAAAAANAAANAABQAAAAVlA4IEYAAABUAQCdASoOAA4AAACyJaQAAAAAAPryLWbJVFgnxCXjZvn2JDzQ0iftLOZuujNag7QVMw9vyVT+6RCIhfUU2IbHhAj64AAA');
+        echo base64_decode($err_webp);
         exit;
         break;
 
@@ -518,7 +676,7 @@ if(empty($mod)){ // mod file がない or ページがないときは拡張子�
         case 'avif': // .avif
         header('HTTP', true, 404);
         header("Content-Type: image/avif"); 
-        echo base64_decode('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');
+        echo base64_decode($err_avif);
         exit;
         break;
 
