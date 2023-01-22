@@ -4,9 +4,6 @@
 
 <img src="https://user-images.githubusercontent.com/3696720/172076193-cf461d70-3833-4435-b799-c2196123c943.png" title="#InstanceTicker" alt="#InstanceTicker" width="640" />
 
-[![#InstanceTicker (Mastodon Custom CSS)](https://res.cloudinary.com/miy/p/InstanceTicker_Play.png)](https://www.youtube.com/watch?v=DbN5ytOnGSI)
-
-
 # 概要 - Description
 <img src="https://raw.githubusercontent.com/InstanceTicker/InstanceTicker/master/InstanceTicker.svg" alt="logo" title="logo" width="64">
 
