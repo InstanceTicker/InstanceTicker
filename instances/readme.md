@@ -96,23 +96,6 @@
 |   60  | Unknown       | ![Logo](https://34.si/Y? "Logo") |
 |   61  |               |                                   |
 
-<hr>
-
-### アニメーション favicon の Difference を提示しなさい！
-
-- アニメーション favicon が確認できたのは以下のとおりです。
-- われわれが、アニメーション favicon が確認できず気づいてない場合は Issue でおせーてください。
-- アニメーションスピードが異なるのは、縮小したときの見栄えと容量削減のためです。
-
-| Server (Instance) | Original<br>(16x16) | Using<br>(14x14) |
-| :---         |     :---:      |     :---:      |
-| qoto.org   | <img src="https://res.cloudinary.com/miy/a/2959.gif" title="画像" alt="画像" width="16" height="16">           | <img src="https://34.si/LJ" title="画像" alt="画像" width="14" height="14"> |
-| freecumextremist.com | <img src="https://res.cloudinary.com/miy/a/1271.png" title="画像" alt="画像" width="16" height="16"> | <img src="https://34.si/kv" title="画像" alt="画像" width="14" height="14"> |
-| freespeech.group | <img src="https://res.cloudinary.com/miy/a/894.png" title="画像" alt="画像" width="16" height="16">      | <img src="https://34.si/eq" title="画像" alt="画像" width="14" height="14"> |
-| waifuism.life | <img src="https://res.cloudinary.com/miy/a/1287.png" title="画像" alt="画像" width="16" height="16">        | <img src="https://34.si/kL" title="画像" alt="画像" width="14" height="14"> |
-| jigglypuff.club | <img src="https://res.cloudinary.com/miy/a/1496.gif" title="画像" alt="画像" width="16" height="16">      | <img src="https://34.si/o8" title="画像" alt="画像" width="14" height="14"> |
-| fedi.nullob.si | <img src="https://res.cloudinary.com/miy/a/1484.gif" title="画像" alt="画像" width="16" height="16">       | <img src="https://34.si/nW" title="画像" alt="画像" width="14" height="14"> |
-| kittycat.homes | <img src="https://res.cloudinary.com/miy/a/3221.gif" title="画像" alt="画像" width="16" height="16">       | <img src="https://34.si/PX" title="画像" alt="画像" width="14" height="14"> |
 
 <hr>
 
