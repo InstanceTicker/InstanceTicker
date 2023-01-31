@@ -25,6 +25,7 @@
 
 ---
 # Members
-- Committer: weepjp <br><img src="https://res.cloudinary.com/weep/ext/weep.gif" width="64">
-- Mascot: Miyon-Miyon <br><img src="https://34.si/miyon/list/miyon2022_061.webp" width="64">
-- and Users!
+- Committer: weepjp <br><img src="https://res.cloudinary.com/weep/ext/weep.gif" width="96"><br>,
+- Mascot: Miyon-Miyon <br><img src="https://34.si/miyon/list/miyon2022_061.webp" width="96"><br>,
+- and Users!<br><img src="https://raw.githubusercontent.com/InstanceTicker/InstanceTicker/master/public_html/favicon160.png" width="96"><br>,
+
