@@ -147,11 +147,9 @@
 # Licence
 
 ## EN
-- This repository is not licensed as it contains data for each site's favicon image (.webp converted to base64).
-- Please use and folk at your own risk...
-- The favicon image is copyrighted by each image creator.
+- (c)2021 #InstanceTicker Released under the MIT license.
+- *The favicon image is copyrighted by each image creator.
 
 ## JA
-- このリポジトリには、各サイトのファビコンイメージ（.webpがbase64に変換されたもの）のデータが含まれているため、ライセンスはありません。
-- ご利用やフォークする場合は自己責任で。。
-- favicon 画像は、それぞれの画像作者様に著作権があります。
+- (c)2021 #InstanceTicker Released under the MIT license.
+- ※favicon 画像は、それぞれの画像作者様に著作権があります。
