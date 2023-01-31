@@ -10,7 +10,7 @@
 - [#InstanceTicker Wiki](https://github.com/InstanceTicker/InstanceTicker/wiki)
 
 ## public_html/ - メインファイル
-- [public_html/instances.db 's Readme](https://github.com/InstanceTicker/InstanceTicker/tree/master/public_html#readme)
+- [Readme](https://github.com/InstanceTicker/InstanceTicker/tree/master/public_html#readme)
 
 ## instances/instances.db - データーベース(インスタンスリスト)
 - [instances/instances.db 's Readme](https://github.com/InstanceTicker/InstanceTicker/tree/master/instances#readme)
