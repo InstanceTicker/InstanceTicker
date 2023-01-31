@@ -46,4 +46,4 @@
 <img src="https://raw.githubusercontent.com/InstanceTicker/InstanceTicker/master/InstanceTicker.svg" alt="logo" title="logo" width="64">
 
 - ©2018-2023 #InstanceTicker Released under the MIT license. 
-- (#InstanceTicker is Based on custom.css of ©2018 odakyu.app and ©2019 kurage.cc)
+- (Based on custom.css of ©2018 odakyu.app and ©2019 kurage.cc)
