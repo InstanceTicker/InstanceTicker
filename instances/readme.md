@@ -45,8 +45,8 @@
 
 
 ## うちのインスタンスがねえじゃん or 入れてくれるな！
-- 手動更新なので許してください。追加や抹消の依頼は Issue してください。
-- 開設や閉鎖のご報告 Issue ありましたら助かります。
+- 手動更新なので許してください。追加や抹消の依頼は [Issue してください。](https://github.com/InstanceTicker/InstanceTicker/issues)
+- [開設や閉鎖のご報告 Issue](https://github.com/InstanceTicker/InstanceTicker/issues) ありましたら助かります。
 
 <hr>
 
