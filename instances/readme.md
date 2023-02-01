@@ -63,10 +63,9 @@
 
 <hr>
 
-### SNS Logo の Difference を提示しなさい！
+### 同梱されている SNS Logo の提示
 
 - 以下のとおりです。
-- 抹消線はリストから除外にされたものです。
 
 | SNS   | SNS Class Name| Logo                              |
 | ----- | ------------- | --------------------------------- | 
@@ -86,7 +85,7 @@
 |   14  | Plume         | ![Logo](https://34.si/e? "Logo") |
 |   15  | Friendica     | ![Logo](https://34.si/f? "Logo") |
 |   16  | Guppe Groups  | ![Logo](https://34.si/g? "Logo") |
-|   17  |<s> Hubzilla </s>| ![Logo](https://34.si/h? "Logo") |
+|   17  |               |                                   |
 |   18  | Prismo        | ![Logo](https://34.si/i? "Logo") |
 |   19  | Juick         | ![Logo](https://34.si/j? "Logo") |
 |   20  |               |                                   |
