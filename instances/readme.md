@@ -2,7 +2,9 @@
 
 - [InstanceTicker/InstanceTicker](https://github.com/InstanceTicker/InstanceTicker) で使ってるインスタンスリストです。
 
-- **配布しているデータ内には、各SNSロゴや各インスタンスの favicon の画像データ(14px か 16px などの小さいサイズ)を含みますので、取り扱い注意であることをご留意ください。**
+- **配布しているデータ内には、各SNSロゴの画像データ(14pxサイズ)を含みますので、取り扱い注意であることをご留意ください。**
+
+- **2023/02/01(JST)より、個別インスタンスのアイコン画像データを同梱しないことにしましたので、ご了承下さい。**
 
 - SNS (Social networking service) means "social media" in Japanglish...
 
