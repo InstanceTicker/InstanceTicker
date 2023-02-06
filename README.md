@@ -2,7 +2,7 @@
 
 # InstanceTicker
 - #InstanceTicker is customCSS for Mastodon! This makes it easier to see the server name! 
-- ライセンスが明確に異なるため分割しています。
+
 
 ---
 
