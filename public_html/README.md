@@ -24,7 +24,7 @@
 
 ## instances/instances.db - データーベース(インスタンスリスト)
 - [instances/instances.db 's Readme](https://github.com/InstanceTicker/InstanceTicker/tree/master/instances)
-  - （明確にライセンスが異なるため分割しています）。
+  - ディレクトリ別でわけました。。
 
 ## 更新履歴 - History
 - [こちら](https://github.com/InstanceTicker/InstanceTicker/wiki/History) を参照ください。
