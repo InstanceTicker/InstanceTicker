@@ -34,7 +34,9 @@
   - 「[OpenSticker](https://github.com/cutls/OpenSticker)」 - 最強の代替です(2020/07/28)。現時点で v4.x.x に対応してるか知りません。
     - 「[SubyayToorer](https://github.com/tateisu/SubwayTooter)」 - #InstanceTicker API 廃止にともない、[OpenSticker](https://github.com/cutls/OpenSticker)に移行(2020/09/30)。
   - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey のフォーク。本家より先行して代替機能（インスタンス情報として）が導入されました(2020/07/30)。
-  - 「[Misskey](https://github.com/syuilo/misskey)」 - 本家。代替機能（インスタンス情報として）が導入されましたが、めいすきーとは同一機能名ながら仕様が全く異なります(2020/10/27)。
+  - 「[Misskey](https://github.com/syuilo/misskey)」 - 本家。代替機能（インスタンス情報として）が導入されましたが、めいすきーとは同一機能名ながら仕様が全く異なります(2020/10/27)。「ノートのサーバー情報」に名称が変更されたそうです(2023/03/03)。
+  - Misskey のフォーク（Foundkey, Calckey→Firefish, Iceshrimp, Sharkey）でも、同様の機能があり、
+    - 中には、Soapbox および Akkoma (ともに、Pleroma 系) の影響のあるものあり、それは右側に Favicon が表示される等のデザインで、マウスカーソルを置くとソフトウェア名とバージョンが表示される仕掛けがあります。ここまでくるとうちとは無関係かも。。
 
 # 謝辞 - Acknowledgements
 - 当 CSS 作成・配信にあたり、きっかけとなり、基礎になったのは、「[小田急don](https://odakyu.app/about)」で使用されてる「カスタムCSS」であり、これがなければ、こんにちの「#InstanceTicker」は存在しえません。
