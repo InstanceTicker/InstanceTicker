@@ -1,13 +1,15 @@
 <?php
 //
-// #InstanceTicker 
+// #InstanceTicker v.0.5.8 (2023-12-03)
 // /index.php
-// (C)2022 weepjp. Released under the MIT license.
 // https://github.com/InstanceTicker/InstanceTicker/
+//
+// (C)2018 #InstanceTicker Released under the MIT license.
+//
 //
 
 //Licence
-$coy = '©2018-'.date('Y').' weepjp. Released under the MIT license. (#InstanceTicker is Based on custom.css of ©2018 odakyu.app and ©2019 kurage.cc)';
+$coy = '(C)2018-'.date('Y').' #InstanceTicker Released under the MIT license.';
 
 
 
@@ -175,6 +177,13 @@ select{
 <div id="wrap">
 <h2 class="box2" id="pagetop" style="font-size:13px;"><a href="'.$srv2.'/" target="_top">'.$tit.'</a></h2>';
 	$result .= '<div class="box3">';
+	
+	
+      $result .= '<div class="box6"><img src="'.$srv2.'/img/ca.png" width="16" height="16" title="WARNING"> 注意 WARNING';
+      $result .= '<p> 外部画像を参照する関係で、"Type:1,2,3" を使用する際は Content Security Policy(CSP) の設定を見直す必要があります。<br>"<a href="'.$srv2.'/330/0.htm#css" target="_top">Type:0</a>" を使用することでこの問題を回避できます。</p>';
+      $result .= '<p> Content Security Policy (CSP) setting is required for Type:1,2,3. Because they refer to external images.<br>No setting is needed for "<a href="'.$srv2.'/330/0.htm#css" target="_top">Type:0</a>". Because it does not refer to external images.</p>';
+      $result .= '</div>';
+	
 	$result .= '<div class="box3" style="font-size:11px; text-align:center;">';
 	$result .= '<p><a href="'.$srv2.'/" target="_top"><img src="/tit.png?2022" alt="InstanceTicker" title="InstanceTicker"></a></p>';
 	$result .= '<p> | ';
@@ -183,7 +192,7 @@ select{
 	$result .= '<a href="https://weep.jp/coin" target="_blank">DONATE</a> | ';
 	$result .= '<a href="https://github.com/InstanceTicker/InstanceTicker" target="_blank">GitHub</a> | ';
 	$result .= '<a href="https://github.com/InstanceTicker/InstanceTicker/wiki/History" target="_blank">History</a> | ';
-	$result .= '<a rel="me" href="https://miyon.miyon.org/@weepjp" target="_blank">@weepjp</a>';
+	$result .= '<a rel="me" href="https://ticker.hostdon.ne.jp/@instance" target="_blank">Official</a>';
 	$result .= ' | </p></div>';
 
 	$result .= '<div class="box3"><p style="text-align:center;">';
@@ -197,7 +206,10 @@ select{
 
 function htmf($str, $tit, $msg, $srv1, $srv2 ){
 	$result  = '<div class="box6">'.$msg.'</div>';
-	$result .= '<h2 class="box2" id="pagebottom" style="font-size:13px;"><a href="'.$srv2.'/" target="_top">'.$tit.'</a></h2>';
+	$result .= '<h2 class="box2" id="pagebottom" style="font-size:13px;"><a href="'.$srv2.'/" target="_top">';
+	$result .= '(c)2018-'.date('Y').' <a href="https://github.com/InstanceTicker/InstanceTicker/" target="_top">#InstanceTicker</a> / ';
+	$result .= 'Committer: <a rel="me" href="https://fedibird.com/@weepjp" target="_blank">@weepjp</a>';
+	$result .= '</a></h2>';
 	$result .= '</div></div><script>';
 	$result .= "
 var loading  = document.getElementById('loading');
@@ -261,6 +273,17 @@ function byteco($bytes){//いわゆる「formatSizeUnits」って名前で広ま
 
 
 
+function texto($texto){// 表示名の最適化
+    $texto = mb_strimwidth($texto,0,24,"..");
+    //$texto = mb_encode_numericentity($texto, array(0,0x10FFFF,0,0x10FFFF), 'UTF-8', false);
+  return $texto;
+}
+
+
+
+
+
+
 
 
 $get1 = @htmlentities($_GET['get'],ENT_QUOTES,mb_internal_encoding());                        // ?get= (ただのテスト)
@@ -271,7 +294,24 @@ $ext0 = @explode('?', $req1);      // ?区切り(クエリ)      /$ext0[0]?$ext0
 $ext1 = @explode('.', $ext0[0]);   // .区切り(拡張子)      /$ext1[0].$ext1[1].$ext1[2]
 $ext2 = @explode('/', $ext1[0]);   // /区切り(ディレクトリ)/$ext2[0]/$ext2[1]/$ext2[2]
 
-$ext20 = mb_strlen($ext2[0], 'utf-8'); // URLからドメイン以外の部分の文字数。
+if($ext2[0] == 'css'){ $ext2[0] = '330';} // css の中身を 330 に 
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+// 62進数を10進数数値にデコード
+// que の 由来不明
+$que = decode($ext2[0], $xchar);
+$maxque = 7688; // 暫定最大値。 32Z(11717) が実質最大値。
+
+///////////////////////////////////////////////////////////////////////////////////////////////
+
+// URLからドメイン以外の部分の文字数。
+$ext20 = mb_strlen($ext2[0], 'utf-8'); 
+
+
+
 
 $tit = '#InstanceTicker';
 //$wtf = '//'.$srv1.'/'; // アイコンの絶対パス。wtf なのは「34.wtf」を使っていた名残です。
@@ -285,8 +325,7 @@ $hub = 'https://github.com/InstanceTicker/InstanceTicker';
 
 $vck = "v?";
 
-//ヘッダーメッセージ（広告とか置けるスペース？）
-$msg = '<p><a href="https://34.si" target="_blank">34.si</a> は <img src="/img/mh.png?" title="mixhost"><a href="https://accounts.mixhost.jp/refer/561722" target="_blank" rel="nofollow">mixhost</a> を使ってるです。。。</p>';
+
 
 
 // アクセスしたドメイン判定でSQLiteファイルパスや
@@ -295,20 +334,28 @@ $msg = '<p><a href="https://34.si" target="_blank">34.si</a> は <img src="/img/
 switch ($srv1){
 
     case '34.si':  //メインサイト
-      $tit = ''.$srv1.' ( #InstanceTicker Folk )';
+      $tit = '#34si ( #InstanceTicker Fork )';
       $srv2 = 'https://'.$srv1.'';
-      $sql_path= '../instances.db';
+      //$sql_path= '../instances.db';
+      $sql_path= '/home/ywefxeyi/public_html/34.si/instances.db';
       $wtf = '//34.si/';
+      
+      //ヘッダーメッセージ（広告とか置けるスペース？）
+      $msg = '<p><a href="https://34.si" target="_blank">#34si</a> は <img src="/img/mh.png?" title="mixhost"><a href="https://accounts.mixhost.jp/refer/561722" target="_blank" rel="nofollow">mixhost</a> を使ってるです。。。</p>';
       
       
     break;
     
-    case 'inst.ance.tk': //旧サイト
+    case 'inst.ance.tk': //旧ドメイン
       $tit = '#InstanceTicker ( inst.ance.tk )';
       $srv1 = '34.si';
       $srv2 = 'https://34.si';
-      $sql_path= '../../34.si/instances.db';
+      //$sql_path= '../../34.si/instances.db';
+      $sql_path= '/home/ywefxeyi/public_html/34.si/instances.db';
       $wtf = '//34.si/';
+      //ヘッダーメッセージ（広告とか置けるスペース？）
+      $msg = '<p>旧ドメイン</p>';
+      
     break;
 
     case 'localhost': // ローカルホスト
@@ -316,6 +363,9 @@ switch ($srv1){
       $srv2 = 'http://'.$srv1.'';
       $sql_path= '../instances.db';
       $wtf = '//localhost/';
+      //ヘッダーメッセージ（広告とか置けるスペース？）
+      $msg = '<p>localhost test</p>';
+      
     break;
     
     default:
@@ -358,7 +408,6 @@ $mod_dir = './mod/';// mod Directory Path ※ mod ファイルは3文字以上�
 $mod_ext = '.php';// mod Extension Path
 
 $mod_file = $mod_dir.$ext2[0].$mod_ext;// mod file path
-$moc_file = $mod_dir.'css'.$mod_ext;// mod (css) file path ※バージョン日時用
 
 
 $version =  @date("YmdHi", @filemtime( $sql_path )).''; //ログのほうのバージョン
@@ -383,21 +432,18 @@ if(is_file($sql_path)){//SQLiteファイルが存在すると～き
 
 	if(!empty($ext2[0]) or $ext2[0]=='0'){ //URLが空の状態ではない
 
-	        // 62進数を数値にデコード
-	        $que = decode($ext2[0], $xchar);
-	        
-	        // mod file 使いましたテイ。
-	        $mod = 1;
-	        
+
 	        // Initialize
 	        $db  = null;
 	        $sql = null;
 	        $res = null;
 	        $con = null;
 
-	        if($ext20 === 1 or $ext20 === 2){// 2文字以下のときにアイコン画像に判定
-	            
-	            
+	        if($que <= $maxque){ // リスト最大値設定
+	        
+	        //if($ext20===1 or $ext20===2){// 2文字以下のときにアイコン画像に判定
+            	// mod file 使いましたテイ。
+            	$mod = 1;
 
 		            
 	            switch($ext1[1]){ // 拡張子の判定を行う
@@ -467,41 +513,12 @@ if(is_file($sql_path)){//SQLiteファイルが存在すると～き
 			                //header('Pragma:no-cache');
 			                
 			                //base64 を 画像ファイルにさせる表示。exit してこれでおわり。
+			                			                //base64 を 画像ファイルにさせる表示。exit してこれでおわり。
 			                header('Content-Type: image/avif');
 			                header('Access-Control-Allow-Origin: *');
 			                echo base64_decode($top_avif);
 			                exit;
-			            }
-			            //  SQLite を使って格納されたアイコン画像を参照。
-			            $db = new SQLite3($sql_path);
-			            $stmt = $db->prepare('SELECT * FROM `instances` WHERE id = :id');
-			            $stmt->bindValue(':id', $que, SQLITE3_TEXT);
-			            $res = $stmt->execute();
-			            
-			            /////////
-			            // /while webp
-			            while( $row = $res->fetchArray() ) {  
-
-			                header('Cache-Control: public,must-revalidate,max-age=6000');
-			                
-			                //header('Cache-Control:no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0');
-			                //header('Pragma:no-cache');
-			                
-			                header('Content-Type: image/avif');
-			                header('Access-Control-Allow-Origin: *');
-
-			                if(!empty($row['avif'])){// avif 格納があるものに限る
-			                    $ico2 = @explode(',', $row['avif']);
-			                    if($ico2[0] == 'data:image/avif;base64'){//先頭に avif MINE がある場合のみ。
-			                        echo base64_decode($ico2[1]); exit;
-			                        
-			                    }else{// ない場合。
-			                        echo base64_decode($err_avif); exit;
-			                    }
-			                }else{// そもそも webp 格納がない場合。。
-			                    echo base64_decode($err_avif); exit;
-			                }
-			            }// while avif
+			            }// avif
 		                //////////
 	                break;
 	                
@@ -582,7 +599,7 @@ if(is_file($sql_path)){//SQLiteファイルが存在すると～き
 	            
 	            
 	            
-	        }else{// 2文字以下のときにアイコン画像に判定はここまで！
+	        }else{// 最大値設定ここまで
 	    
 	            if(is_file($mod_file)) {// mod file が存在する場合。
 	                
@@ -595,8 +612,8 @@ if(is_file($sql_path)){//SQLiteファイルが存在すると～き
 	                // mod file が存在してるときのみ SQLite を使う。
 	                $db = new SQLite3($sql_path);
 	                
-	                $mversion  = @date("YmdHi", @filemtime( $moc_file )).'';  // mバージョン年月日時分
-	                $mversion2 = @date("dHis",  @filemtime( $moc_file )).'';  // mバージョン日時分秒
+	                $mversion  = @date("YmdHi", @filemtime( $mod_file )).'';  // mバージョン年月日時分
+	                $mversion2 = @date("dHis",  @filemtime( $mod_file )).'';  // mバージョン日時分秒
 	                $mversion3 = encode($mversion , $xchar);                  // mversion  の文字数削減版
 	                $mversion4 = encode($mversion2, $xchar);                  // mversion2 の文字数削減版
 	                
@@ -607,10 +624,6 @@ if(is_file($sql_path)){//SQLiteファイルが存在すると～き
 	                
 	                $mod = ''; //mod file がそもそもない。
 	                $err1 = '404'; // それすなわち404エラーっすね。
-	                
-	                
-	                
-	                
 	                
 	            }
 	        }
@@ -760,6 +773,10 @@ if(empty($mod)){ // mod file がない or ページがないときは拡張子�
         
         $con .= '$ext2[0] == '.$ext2[0]."\n";
         $con .= '$ext2[1] == '.$ext2[1]."\n";
+        
+        $con .= '現在10進数 == '.$que."\n";
+        $con .= '10進数最大 == '.$maxque."\n";
+        
         $con .= "-->\n";
         
         $con .= htmf('', $tit, $msg, $srv1, $srv2);
