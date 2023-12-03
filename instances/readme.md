@@ -68,8 +68,8 @@
 
 - 以下のとおりです。
 
-| SNS   | SNS Class Name| Logo                              |
-| ----- | ------------- | --------------------------------- | 
+| SNS   | SNS Class Name| Logo                             |
+| ----- | ------------- | -------------------------------- | 
 |   1   | Mastodon (jp) | ![Logo](https://34.si/1? "Logo") |
 |   2   | Mastodon      | ![Logo](https://34.si/2? "Logo") |
 |   3   | Pleroma       | ![Logo](https://34.si/3? "Logo") |
@@ -86,17 +86,51 @@
 |   14  | Plume         | ![Logo](https://34.si/e? "Logo") |
 |   15  | Friendica     | ![Logo](https://34.si/f? "Logo") |
 |   16  | Guppe Groups  | ![Logo](https://34.si/g? "Logo") |
-|   17  |               |                                   |
+|   17  | takahe        | ![Logo](https://34.si/h? "Logo") |
 |   18  | Prismo        | ![Logo](https://34.si/i? "Logo") |
 |   19  | Juick         | ![Logo](https://34.si/j? "Logo") |
-|   20  |               |                                   |
+|   20  | Mitra         | ![Logo](https://34.si/k? "Logo") |
 |   21  | Lemmy         | ![Logo](https://34.si/l? "Logo") |
 |   22  | Meow.fan      | ![Logo](https://34.si/m? "Logo") |
-| 23-28 |               |                                   |
-|   29  | Birdsitelive  | ![Logo](https://34.si/t? "Logo") |
-| 30-59 |               |                                   |
+|   23  | Mostr         | ![Logo](https://34.si/n? "Logo") |
+|   24  | HomeTown      | ![Logo](https://34.si/o? "Logo") |
+|   25  | Notestock     | ![Logo](https://34.si/p? "Logo") |
+|   26  | Foundkey      | ![Logo](https://34.si/q? "Logo") |
+|   27  | Fedibird      | ![Logo](https://34.si/r? "Logo") |
+|   28  | Soapbox       | ![Logo](https://34.si/s? "Logo") |
+|   29  | BirdsiteLIVE  | ![Logo](https://34.si/t? "Logo") |
+|   30  | Ohagi         | ![Logo](https://34.si/u? "Logo") |
+|   31  | MISSINGNO.(v) | ![Logo](https://34.si/v? "Logo") |
+|   32  | Wildebeest    | ![Logo](https://34.si/w? "Logo") |
+|   33  | MISSINGNO.(x) |                                  |
+|   34  | MISSINGNO.(y) |                                  |
+|   35  | MISSINGNO.(z) |                                  |
+|   36  | Akkoma        | ![Logo](https://34.si/A? "Logo") |
+|   37  | micro.blog    | ![Logo](https://34.si/B? "Logo") |
+|   38  | CherryPick    | ![Logo](https://34.si/C? "Logo") |
+|   39  | MISSINGNO.(D) |                                  |
+|   40  | Misskey v11 ↓ | ![Logo](https://34.si/E? "Logo") |
+|   41  | Firefish      | ![Logo](https://34.si/F? "Logo") |
+|   42  | Concurrent    | ![Logo](https://34.si/G? "Logo") |
+|   43  | Hubzilla      | ![Logo](https://34.si/H? "Logo") |
+|   44  | Iceshrimp     | ![Logo](https://34.si/I? "Logo") |
+|   45  | Sharkey       | ![Logo](https://34.si/J? "Logo") |
+|   46  | Kbin          | ![Logo](https://34.si/K? "Logo") |
+|   47  | Mbin          | ![Logo](https://34.si/L? "Logo") |
+|   48  | Mobilizon     | ![Logo](https://34.si/M? "Logo") |
+|   49  | MISSINGNO.(N) |                                  |
+|   50  | MISSINGNO.(O) |                                  |
+|   51  | Fedipage      | ![Logo](https://34.si/P? "Logo") |
+|   52  | MISSINGNO.(Q) |                                  |
+|   53  | Ebisskey      | ![Logo](https://34.si/R? "Logo") |
+|   54  | Snac2         | ![Logo](https://34.si/S? "Logo") |
+|   55  | Threads       | ![Logo](https://34.si/T? "Logo") |
+|   56  | MISSINGNO.(U) |                                  |
+|   57  | MISSINGNO.(V) |                                  |
+|   58  | MISSINGNO.(W) |                                  |
+|   59  | MISSINGNO.(X) |                                  |
 |   60  | Unknown       | ![Logo](https://34.si/Y? "Logo") |
-|   61  |               |                                   |
+|   61  | MISSINGNO.(Z) |                                  |
 
 
 <hr>
