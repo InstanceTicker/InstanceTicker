@@ -31,7 +31,7 @@
 
 # 代替品 - Replacement
 - 以下もお使いいただけたらなぁと（丸投げ）。
-  - 「[OpenSticker](https://github.com/cutls/OpenSticker)」 - 最強の代替です(2020/07/28)。
+  - 「[OpenSticker](https://github.com/cutls/OpenSticker)」 - 最強の代替です(2020/07/28)。現時点で v4.x.x に対応してるか知りません。
     - 「[SubyayToorer](https://github.com/tateisu/SubwayTooter)」 - #InstanceTicker API 廃止にともない、[OpenSticker](https://github.com/cutls/OpenSticker)に移行(2020/09/30)。
   - 「[めいすきー](https://github.com/mei23/misskey)」 - Misskey のフォーク。本家より先行して代替機能（インスタンス情報として）が導入されました(2020/07/30)。
   - 「[Misskey](https://github.com/syuilo/misskey)」 - 本家。代替機能（インスタンス情報として）が導入されましたが、めいすきーとは同一機能名ながら仕様が全く異なります(2020/10/27)。
@@ -46,4 +46,4 @@
 <img src="https://raw.githubusercontent.com/InstanceTicker/InstanceTicker/master/InstanceTicker.svg" alt="logo" title="logo" width="64">
 
 - ©2018-2023 #InstanceTicker Released under the MIT license. 
-- (Based on custom.css of ©2018 odakyu.app and ©2019 kurage.cc)
+- ＊ Based on "/custom.css" of (C)2018 odakyu.app and (C)2019 kurage.cc Thx! ＊
