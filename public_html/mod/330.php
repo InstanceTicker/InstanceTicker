@@ -1,11 +1,13 @@
 <?php
-
 //
-// #InstanceTicker v.0.4.1 (2023-01-17)
+// #InstanceTicker v.0.5.8 (2023-12-03)
 // /mod/330.php
-// (C)2018-2023 weepjp. Released under the MIT license.
 // https://github.com/InstanceTicker/InstanceTicker/
 //
+// (C)2018 #InstanceTicker Released under the MIT license.
+// * Based on "/custom.css" of (C)2018 odakyu.app and (C)2019 kurage.cc Thx! *
+//
+
 
 $ver  = 'mod330'; //mod  バージョン
 $lver = 'list4'; //list バージョン
@@ -16,28 +18,28 @@ $verimg = ''.$wtf.$ext2[0].'/'.$vck.$verkey.'';
 $tit .= ' - '.$ver;
 
 
-$cssr  = " --f0:0!important;";
-$cssr .= " --f1:solid 2px!important;";
-$cssr .= " --f2:240px!important;";
-$cssr .= " --f3:#fff!important;";
-$cssr .= " --fa:.5!important;";
-$cssr .= " --fb:block!important;"; //通常
-$cssr .= " --fe:ellipsis!important;";
-$cssr .= " --ff:600 11px ui-rounded!important;";
-$cssr .= " --fg:linear-gradient(90deg,#278,#222)!important;";
-$cssr .= " --fh:14px!important;";
-$cssr .= " --fi:inline!important;"; // 通知用
-$cssr .= " --fl:11px!important;";
-$cssr .= " --fm:16px 0 16px 0!important;";
-$cssr .= " --fn:no-repeat!important;";
-$cssr .= " --fo:0 8px 0 0!important;";
-$cssr .= " --fp:nowrap!important;";
-$cssr .= " --fq:pre!important;";
-$cssr .= " --fs:#666 1px 0!important;";
-$cssr .= " --fv:middle!important;";
-$cssr .= " --fw:170px!important;";
-$cssr .= " --fx:16px!important;";
-$cssr .= " --fy:48px!important;";
+$cssr  = "--f0:0!important;";
+$cssr .= "--f1:solid 2px!important;";
+$cssr .= "--f2:240px!important;";
+$cssr .= "--f3:#fff!important;";
+$cssr .= "--fa:.5!important;";
+$cssr .= "--fb:block!important;"; //通常
+$cssr .= "--fe:ellipsis!important;";
+$cssr .= "--ff:600 11px ui-rounded!important;";
+$cssr .= "--fg:linear-gradient(90deg,#278,#222)!important;";
+$cssr .= "--fh:14px!important;";
+$cssr .= "--fi:inline!important;"; // 通知用
+$cssr .= "--fl:11px!important;";
+$cssr .= "--fm:16px 0 16px 0!important;";
+$cssr .= "--fn:no-repeat!important;";
+$cssr .= "--fo:0 8px 0 0!important;";
+$cssr .= "--fp:nowrap!important;";
+$cssr .= "--fq:pre!important;";
+$cssr .= "--fs:#666 1px 0!important;";
+$cssr .= "--fv:middle!important;";
+$cssr .= "--fw:170px!important;";
+$cssr .= "--fx:16px!important;";
+$cssr .= "--fy:48px!important;";
 
 
 function svg_err($str){ // エラー表示用のSVG（不採用になったSVGの再利用）
@@ -153,12 +155,25 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
     
     
     switch($ext0[1]){ //   ?以降のやつ
-            case 'js': 
-                if($ext1[1]=='css'){//  .css?js がある場合はとにかくユーザースクリプトを利用している判定を出しておく。
+            /*
+            case 'js': //  .css?js がある場合はとにかくユーザースクリプトを利用している判定を出しておく。
+                if($ext1[1]=='css'){
                     $userjs=1;
                 }
             break;
+            */
+            
+            
+            case 'fost': //  .css?fost 表示名を強制的にホスト名にさせる。
+                $fost=1; //  fost はめいめい命名
+            break;
     }
+    
+    
+    
+    
+
+    
     
     
     
@@ -168,11 +183,11 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
     function res_htm( $version3, $version, $modn, $ver, $mversion3, $mversion, $j, $time_end, $lver, $coy){
         $result = "";
         $result .= '<p class="box2">List_Ver:<span class="right">'.$lver.'.'.$version3.' <br />(Update:'.$version.'+0900)</span></p>';
-        $result .=   '<p class="box2">Mod_Ver:<span class="right">'.$ver.'.'.$mversion3.' <br />(Update:'.$mversion.'+0900)</span></p>';
+        $result .= '<p class="box2">Mod_Ver:<span class="right">'.$ver.'.'.$mversion3.' <br />(Update:'.$mversion.'+0900)</span></p>';
         $result .= '<p class="box2">Instance List Counts:<span class="right">'.$j.' Instances.</span></p>';
         $result .= '<p class="box2">Processing Time:<span class="right">'.$time_end.' sec.</span></p>';
         $result .= '<p class="box2">#InstanceTicker License:<span class="right">'.$coy.'</span></p>';
-        $result .= '<p class="box2">incetances list (GitHub):<span class="right"><a href="https://github.com/InstanceTicker/instances/" target="_blank">instances.tsv</a></span></p>';
+        $result .= '<p class="box2">instances Database:<span class="right"><a href="https://github.com/InstanceTicker/InstanceTicker/tree/master/instances" target="_blank">instances</a> (GitHub)</span></p>';
         
         
         
@@ -216,12 +231,12 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////
     // HTML版テンプレート練り込み
-    function tmp_htm($wtf, $tcolor, $scolor, $bcolor, $xxsns, $width, $height, $ico, $twidth, $text, $xid, $sstext, $types, $host, $id, $bicon, $exity, $urls, $xico, $sicon){
+    function tmp_htm($wtf, $tcolor, $scolor, $bcolor, $xxsns, $width, $height, $ico, $twidth, $text, $xid, $sstext, $types, $host, $id, $bicon, $exity, $urls, $xico, $sicon, $entry){
         
         
         
         $result = "";
-        $texts = @mb_strimwidth($text,0,28,"...");
+        
         
         //計算式やめて初期設定まんま使う
         $swidth = $width;
@@ -278,35 +293,35 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
         if(!empty($sicon)){ $sicon = '('.$sicon.')'; }
         
         $cssult  = "";
-        $cssult .= ' font:var(--ff); line-height:var(--fh);';
+        $cssult .= 'font:var(--ff); line-height:var(--fh);';
         if($xico==1){//アイコンデフォルト判定
-            $cssult .= ' background:var(--'.$xxsns.'),linear-gradient('.$icg.'); ';
+            $cssult .= 'background:var(--'.$xxsns.'),linear-gradient('.$icg.');';
         }else{
-            $cssult .= " background:no-repeat top 0% left 0%/contain url('".$srv2.$ico."'),linear-gradient(".$icg."); ";
+            $cssult .= "background:no-repeat top 0% left 0%/contain url('".$srv2.$ico."'),linear-gradient(".$icg.");";
         }
         $cssult .= 'text-shadow:'.$scolor.' 1px 1px,'.$scolor.' -1px 1px,'.$scolor.' 1px -1px,'.$scolor.' -1px -1px;';
-        $cssult .= "color:".$tcolor."!important; white-space:var(--fp);";
+        $cssult .= "color:".$tcolor."!important;white-space:var(--fp);";
         
         if(!empty($exity)){ $bicon = $exity; $closed = 'background:#000; color:#e55;'; } // 欠番チェッカー
         
-        $result .= "\n";
+        $result .= " ";
         
         
         
         
         $result .= '<tr height:13px!important;">';
-        $result .= '<td width="7"> '.$xid.' </td>';
-        $result .= '<td width="21" style="text-align:right;"> '.$id.' </td>';
+        $result .= '<td width="6"> '.$xid.' </td>';
+        $result .= '<td width="24" style="text-align:right;"> '.$id.' </td>';
         $result .= '<td width="16" style="background:#fff;"><img loading="lazy" src="'.$wtf.$xxsns.'" title="'.$sstext.'" width="14" height="14"></td>';
-        $result .= '<td width="16" style="background:#666;"><a href="https://'.$host.'" title="'.$entry.'" target="_blank"><img src="'.$ico.'" width="14" height="14"></a></td>';
-        $result .= '<td width="260"><div style="';
+        $result .= '<td width="16" style="background:#666;"><a href="https://www.google.com/url?q=https://'.$host.'" title="'.$entry.'" target="_blank"><img src="'.$ico.'" width="14" height="14"></a></td>';
+        $result .= '<td width="140"><div style="';
                 ////////////// 通常用  display:var(--fb);
         $result .= "padding:0 0 0 ".$twidth."px!important;";
 //        $result .= 'vertical-align:var(--fv);width:var(--fw);line-height:var(--fl);';
         $result .= 'height:var(--fh);';
         $result .= $cssult;
         $result .= "margin:var(--f0);display:var(--fb);}";
-        $result .= '">'.$texts.'</div></td><td style="background:#666;"><img loading="lazy" src="https://www.google.com/s2/favicons?domain=https://'.$host.'" width="14" height="14" /></td><td style="background:#666;"><img loading="lazy" src="https://favicon.hatena.ne.jp/?url=https://'.$host.'" width="14" height="14" /></td><td style="background:#666;"><img loading="lazy" src="https://icons.duckduckgo.com/ip3/'.$host.'.ico" width="14" height="14" /></td><td>'.$bicon.'</td><td>'.$sicon.'</td></tr>';
+        $result .= '">'.$text.'</div></td><td style="background:#666;"><img loading="lazy" src="https://www.google.com/s2/favicons?domain=https://'.$host.'" width="14" height="14" /></td><td style="background:#666;"><img loading="lazy" src="https://favicon.hatena.ne.jp/?url=https://'.$host.'" width="14" height="14" /></td><td style="background:#666;"><img loading="lazy" src="https://icons.duckduckgo.com/ip3/'.$host.'.ico" width="14" height="14" /></td><td style="background:#666;"><img loading="lazy" src="https://favicon.yandex.net/favicon/'.$host.'" width="14" height="14" /></td><td width="24">'.$bicon.'</td><td width="24">'.$sicon.'</td></tr>';
         $result .= "\n";
         
         
@@ -321,7 +336,7 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
     
     
     // CSS :root 版テンプレート練り込み
-    function tmp_css_root($wtf, $xid ,$v4){
+    function tmp_css_root($wtf, $xid, $v4, $snsimg){
             
             
             $result = "";
@@ -329,7 +344,7 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
             
             
             //              --1:no-repeat     top 0% left 0%/contain url('https://miy.pw/11/i1.webp?xxxx');
-            $result .= " --".$xid.":no-repeat top 0% left 0%/contain url('".$wtf.$xid."');";
+            $result .= "--".$xid.":no-repeat top 0% left 0%/contain url('".$snsimg."');";
 
     return $result;
 
@@ -358,10 +373,12 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
     function tmp_css($wtf, $tcolor, $scolor, $bcolor, $xxsns, $width, $height, $ico, $twidth, $text, $xid, $sstext, $types, $host, $id, $bicon, $exity, $urls, $xico){
         $result = "";
         
-        $texts = @mb_strimwidth($text,0,28,"...");
         
         
-        $swidth = $width * 14/16;
+        
+        $swidth = $twidth;
+        $twidth = $swidth + 2; // なんかズレるので。。
+        
         
         // フォントサイズ
         $fsize = 9;
@@ -414,19 +431,19 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
         
         
         $cssult  = "";
-        $cssult .= ' font:var(--ff);';
+        $cssult .= 'font:var(--ff);';
         if($xico==1){//アイコンデフォルト判定
-            $cssult .= ' background:var(--'.$xxsns.'),linear-gradient('.$icg.'); ';
+            $cssult .= 'background:var(--'.$xxsns.'),linear-gradient('.$icg.');';
         }else{
-            $cssult .= " background:no-repeat top 0% left 0%/contain url('".$srv2.$ico."'),linear-gradient(".$icg."); ";
+            $cssult .= "background:no-repeat top 0% left 0%/contain url('".$srv2.$ico."'),linear-gradient(".$icg.");";
         }
         $cssult .= 'text-shadow:'.$scolor.' 1px 1px,'.$scolor.' -1px 1px,'.$scolor.' 1px -1px,'.$scolor.' -1px -1px;';
-        $cssult .= "color:".$tcolor."!important; content:'".$texts."'!important; white-space:var(--fp);";
+        $cssult .= "color:".$tcolor."!important;content:'".$text."'!important;white-space:var(--fp);";
+        
         
         
         ////////////// 通常用  display:var(--fb);
-        $result .= " .status a[href^='https://".$host."/'] .display-name::after{ padding:0 0 0 ".$twidth."px!important;";
-//        $result .= 'vertical-align:var(--fv);width:var(--fw);line-height:var(--fl);';
+        $result .= " .status a[href^='https://".$host."/'] .display-name::after{padding:0 0 0 ".$twidth."px!important;";
         $result .= 'height:var(--fh);';
         $result .= $cssult;
         $result .= "margin:var(--f0);display:var(--fb);}";
@@ -434,11 +451,10 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
         
         ////////////// 通知用  display:var(--fi); opacity:var(--fa);
         $result .= " .status__display-name[href^='https://".$host."/'].muted::before,";
-        $result .= " .notification__display-name[href^='https://".$host."/']::before{ padding:0 18px 0 ".$twidth."px!important;";
+        $result .= " .notification__display-name[href^='https://".$host."/']::before{padding:0 18px 0 ".$twidth."px!important;";
         $result .= 'vertical-align:var(--fv);height:var(--fh);line-height:var(--fl);';
-        $result .= '';
         $result .= $cssult;
-        $result .= "margin:var(--f0);display:var(--fi);opacity:var(--fa);}\n";
+        $result .= "margin:var(--f0);display:var(--fi);opacity:var(--fa);}";
         
         
         
@@ -488,6 +504,7 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
         $entry  = $row['entry'];
         $exity  = $row['exity'];
         $sicon  = $row['sicon'];
+        $hosty  = $row['host'];
         
         $xusr  = $row['usr'];
         $xfav  = $row['fav'];
@@ -503,13 +520,14 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
             $swidth[$id]  = $row['width'];
             $stext[$id]   = $row['text'];
             $surl[$id]    = $row['url'];
+            $snsimg[$id]  = $row['webp'];
             
-            $con_css_root .= tmp_css_root($wtf, $xid, $version4);
+            $con_css_root .= tmp_css_root($wtf, $xid, $version4, $snsimg[$id]);
          }
          
 
          
-         if(!empty($id) and !empty($s) and empty($exity)){
+         if( !empty($hosty) || !empty($id) and !empty($s) and empty($exity)){
          //掲載の基準は sns値必須 && exity値がある場合は欠番とする。
                 
                 //$xsns = $wtf.$xxsns.'.webp?'.$version4;
@@ -526,7 +544,7 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
                     case '3':
                         // icon 
                         if(empty($row['sicon'])){
-                            if(empty($row['webp'])){ // webp アイコンの有無
+                            if(empty($row['webp'])){ // webp アイコンがないよ
                                  $ico  = $xsns;
                                  $xico = 1;
                             }else{
@@ -581,19 +599,31 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
                     case '0':
                     default:
                         // icon Default
-                        $ico = $xsns;
+                        $ico  = $xsns;
+                        $xico = 1;
                         $width  = $swidth[$s];
                         $tcolor = $stcolor[$s];
                         $bcolor = $sbcolor[$s];
                         $scolor = $sscolor[$s];
+                        
                     break;
                  }//Switch
-                if(empty($row['text'])){
-                    $text = $row['host'];
+                
+                
+                
+                
+                if(empty($row['text']) or $fost==1){
+                    $text = texto($row['host']);
                 }else{
-                    $text = $row['text'];
+                    $text = texto($row['text']);
                 }
+                
+                
                 $host = $row['host'];
+                
+                
+                
+                
                 $twidth = $width + 1;
                 
                 $dmn = $row['domain'];
@@ -615,7 +645,7 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
                 case 'php':
                 //php の 場合 (リスト)
                 $con_css .= tmp_css($wtf, $tcolor, $scolor, $bcolor, $xxsns, $width, $height, $ico, $twidth, $text, $xid, $sstext, $types, $host, $id, $bicon, $exity, $urls, $xico);
-                $con_htm .= tmp_htm($wtf, $tcolor, $scolor, $bcolor, $xxsns, $width, $height, $ico, $twidth, $text, $xid, $sstext, $types, $host, $id, $bicon, $exity, $urls, $xico, $sicon);
+                $con_htm .= tmp_htm($wtf, $tcolor, $scolor, $bcolor, $xxsns, $width, $height, $ico, $twidth, $text, $xid, $sstext, $types, $host, $id, $bicon, $exity, $urls, $xico, $sicon, $entry);
                 break;
                 
                 case 'user':
@@ -671,27 +701,47 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
             $htmh .= "<style>:root{";
             $htmh .= $cssr;
             $htmh .= $con_css_root; // while 結果の挿入
-            $htmh .= "} </style>"; 
+            $htmh .= "} td{font-size:9px;}</style>"; 
             
-            $htmh.= '<div class="box4"><p>View:</p>';
+            $htmh.= '<div class="box4"><div class="box4"><p>View:</p>';
             $htmh.= '<select onchange="location.href=this.options[this.selectedIndex].value">';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.php" selected>List</option>';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.htm">Usage</option>';
-            $htmh.= '</select>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.php';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='" selected>List</option>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.htm';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='">Usage</option>';
+            $htmh.= '</select></div>';
             
-            $htmh.= '<p>Mod:</p>';
+            $htmh.= '<div class="box4"><p>Mod:</p>';
             $htmh.= '<select onchange="location.href=this.options[this.selectedIndex].value">';
-            $htmh.= '<option value="'.$srv2.'/330/'.$types.'.'.$ext1[1].'" selected>mod330 (For Mastodon v.3.x.x)</option>';
-            $htmh.= '<option value="'.$srv2.'/402/'.$types.'.'.$ext1[1].'">mod402 (For Mastodon v.4.x.x)</option>';
-            $htmh.= '</select>';
+            $htmh.= '<option value="'.$srv2.'/330/'.$types.'.'.$ext1[1].'';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='" ';
+             if($ext2[0]=='330'){$htmh.='selected';}
+            $htmh.=' >mod330 (For Mastodon v.3.x.x)</option>';
+            $htmh.= '<option value="'.$srv2.'/402/'.$types.'.'.$ext1[1].'';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='" ';
+             if($ext2[0]=='402'){$htmh.='selected';}
+            $htmh.='>mod402 (For Mastodon v.4.x.x)</option>';
+            $htmh.= '</select></div>';
             
-            $htmh.= '<p>Type:</p>';
+            $htmh.= '<div class="box4"><p>Display Name:</p>';
             $htmh.= '<select onchange="location.href=this.options[this.selectedIndex].value">';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/0.php"'; if($types=='0'){$htmh.='selected';} $htmh.='>type0 (SNS LOGO)</option>';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/1.php"'; if($types=='1'){$htmh.='selected';} $htmh.='>type1 (Favicon )</option>';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/2.php"'; if($types=='2'){$htmh.='selected';} $htmh.='>type2 (Favicon + BG White)</option>';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/3.php"'; if($types=='3'){$htmh.='selected';} $htmh.='>type3 (Favicon + BG Black)</option>';
-            $htmh.= '</select>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.'.$ext1[1].'"';
+             if($fost!='1'){$htmh.='selected';} $htmh.='>Default</option>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.'.$ext1[1].'?fost"';
+             if($fost=='1'){$htmh.='selected';} $htmh.='>Host Name</option>';
+            $htmh.= '</select></div>';
+            
+            $htmh.= '<div class="box4"><p>Type:</p>';
+            $htmh.= '<select onchange="location.href=this.options[this.selectedIndex].value">';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/0.php';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='"'; if($types=='0'){$htmh.='selected';} $htmh.='>type0 (SNS LOGO)</option>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/1.php';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='"'; if($types=='1'){$htmh.='selected';} $htmh.='>type1 (Favicon )</option>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/2.php"';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='"'; if($types=='2'){$htmh.='selected';} $htmh.='>type2 (Favicon + BG White)</option>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/3.php"';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='"'; if($types=='3'){$htmh.='selected';} $htmh.='>type3 (Favicon + BG Black)</option>';
+            $htmh.= '</select></div>';
             $htmh.= '</div>';
             
             $htmh .= '<div class="box"><p>List:</p><table>';
@@ -728,9 +778,9 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
                header('Access-Control-Allow-Origin: *');
             
             $con  = '// ==UserScript=='."\n";
-            $con .= '// @name         #InstanceTicker_userjs (Type-'.$types.')'."\n";
+            $con .= '// @name         #InstanceTicker_'.$ext2[0].'_userjs (Type-'.$types.')'."\n";
             $con .= '// @namespace    '.$srv2.'/'."\n";
-            $con .= '// @version      '.$version.'_js'."\n";
+            $con .= '// @version      '.$version.''."\n";
             $con .= '// @description  #InstanceTicker of userjs!'."\n";
             $con .= '// @author       weepjp https://weep.jp/'."\n";
             $con .= '// @license      #InstanceTicker_userjs (C)2020 weepjp. Released under the GNU General Public License version 3 https://opensource.org/licenses/GPL-3.0'."\n";
@@ -741,16 +791,15 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
             $con .= $con_js;
             
             $con .= '//'."\n";
-            $con .= '// @resource     CCSS '.$srv2.'/'.$ext2[0].'/'.$types.'.css?js'."\n";
+            $con .= '// @resource     CCSS '.$srv2.'/'.$ext2[0].'/'.$types.'.css?'; if($fost=='1'){$con.='fost';}else{$con.='js';} 
+            $con.='?'.$version.''."\n";
             $con .= '//'."\n";
             $con .= '// @grant        GM_addStyle'."\n";
             $con .= '// @grant        GM_getResourceText'."\n";
             $con .= '//'."\n";
             $con .= '//'."\n";
-            $con .= '/***************************'."\n";
-            $con .= ' * #InstanceTicker_userjs  *'."\n";
-            $con .= ' *  '.$srv2.'/        *'."\n";
-            $con .= ' ***************************/'."\n";
+            $con .= '//'."\n";
+            $con .= '//'."\n";
             $con .= '//'."\n";
             $con .= '//'."\n";
             $con .= '// ==/UserScript=='."\n";
@@ -780,30 +829,50 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
             $mod = 1;
         if($ext1[1] == 'css' || empty($ext1[1])){
             // css へッダー
-            header('Cache-Control: public,must-revalidate,max-age=10000');
-            header('Content-Type: text/css');
+            header('Cache-Control: public,must-revalidate,max-age=360');
+            header('Content-Type: text/css; charset=utf-8');
             header('Access-Control-Allow-Origin: *');
         }else{
             
-            $htmh.= '<div class="box4"><p>View:</p>';
+            $htmh.= '<div class="box4"><div class="box4"><p>View:</p>';
             $htmh.= '<select onchange="location.href=this.options[this.selectedIndex].value">';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.php">List</option>';
-            $htmh.= '<option value="/'.$ext2[0].'/'.$types.'.htm" selected>Usage</option>';
-            $htmh.= '</select>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.php';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='">List</option>';
+            $htmh.= '<option value="/'.$ext2[0].'/'.$types.'.htm';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='" selected>Usage</option>';
+            $htmh.= '</select></div>';
             
-            $htmh.= '<p>Mod:</p>';
+            $htmh.= '<div class="box4"><p>Mod:</p>';
             $htmh.= '<select onchange="location.href=this.options[this.selectedIndex].value">';
-            $htmh.= '<option value="'.$srv2.'/330/'.$types.'.'.$ext1[1].'" selected>330 (For Mastodon v.3.x.x)</option>';
-            $htmh.= '<option value="'.$srv2.'/402/'.$types.'.'.$ext1[1].'">402 (For Mastodon v.4.x.x)</option>';
-            $htmh.= '</select>';
+            $htmh.= '<option value="'.$srv2.'/330/'.$types.'.'.$ext1[1].'';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='" ';
+             if($ext2[0]=='330'){$htmh.='selected';}
+            $htmh.=' >mod330 (For Mastodon v.3.x.x)</option>';
+            $htmh.= '<option value="'.$srv2.'/402/'.$types.'.'.$ext1[1].'';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='" ';
+             if($ext2[0]=='402'){$htmh.='selected';}
+            $htmh.='>mod402 (For Mastodon v.4.x.x)</option>';
+            $htmh.= '</select></div>';
             
-            $htmh.= '<p>Type:</p>';
+            $htmh.= '<div class="box4"><p>Display Name:</p>';
             $htmh.= '<select onchange="location.href=this.options[this.selectedIndex].value">';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/0.htm"'; if($types=='0'){$htmh.='selected';} $htmh.='>Type-0 (SNS LOGO)</option>';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/1.htm"'; if($types=='1'){$htmh.='selected';} $htmh.='>Type-1 (Favicon )</option>';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/2.htm"'; if($types=='2'){$htmh.='selected';} $htmh.='>Type-2 (Favicon + BG White)</option>';
-            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/3.htm"'; if($types=='3'){$htmh.='selected';} $htmh.='>Type-3 (Favicon + BG Black)</option>';
-            $htmh.= '</select>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.'.$ext1[1].'"';
+             if($fost!='1'){$htmh.='selected';} $htmh.='>Default</option>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/'.$types.'.'.$ext1[1].'?fost"';
+             if($fost=='1'){$htmh.='selected';} $htmh.='>Host Name</option>';
+            $htmh.= '</select></div>';
+            
+            $htmh.= '<div class="box4"><p>Type:</p>';
+            $htmh.= '<select onchange="location.href=this.options[this.selectedIndex].value">';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/0.htm';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='"'; if($types=='0'){$htmh.='selected';} $htmh.='>Type-0 (SNS LOGO)</option>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/1.htm';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='"'; if($types=='1'){$htmh.='selected';} $htmh.='>Type-1 (Favicon )</option>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/2.htm';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='"'; if($types=='2'){$htmh.='selected';} $htmh.='>Type-2 (Favicon + BG White)</option>';
+            $htmh.= '<option value="'.$srv2.'/'.$ext2[0].'/3.htm';
+             if($fost=='1'){$htmh.='?fost';} $htmh.='"'; if($types=='3'){$htmh.='selected';} $htmh.='>Type-3 (Favicon + BG Black)</option>';
+            $htmh.= '</select></div>';
             $htmh.= '</div>';
             
             $tit .= ' (Usage)';
@@ -811,7 +880,10 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
             
             $con .= '<div class="box3"><h2 class="box5" id="userjs">User Script: </h2><div class="box5">';
             $con .= '<p class="right"><a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey</a> or <a href="https://www.greasespot.net/" target="_blank">Greasemonkey</a> required!!</p>';
-            $con .= '<p class="right"><a href="/'.$ext2[0].'/'.$types.'.user.js" target="_blank">'.$srv2.'/'.$ext2[0].'/'.$types.'.user.js</a></p>';
+            $con .= '<p class="right"><a href="/'.$ext2[0].'/'.$types.'.user.js';
+            if($fost=='1'){$con.='?fost';} $con.='" target="_blank">'.$srv2.'/'.$ext2[0].'/'.$types.'.user.js';
+            if($fost=='1'){$con.='?fost';} $con.='</a></p>';
+            
             $con .= '<p>(For Every Users!)</p></div></div>';
             
 
@@ -821,50 +893,73 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
         }
             // CSS Header
             $con .= "@charset 'utf-8';\n";
-            $con .= "/* ".$tit." type".$types." Ver:".$lver.".".$version3."/".$ver.".".$mversion3." URL:".$srv2."/".$ext2[0]."/".$types.".css */ \n";
-            $con .= "/* ".$coy." */ \n\n";
+            $con .= "/* ".$tit." type".$types." Ver:".$lver.".".$version3."/".$ver.".".$mversion3." URL:".$srv2."/".$ext2[0]."/".$types.".css";
+            if($fost=='1'){$con.='?fost';} $con.=" */ \n";
+            $con .= "/* ".$coy." (Based on custom.css of (C)2018 odakyu.app and (C)2019 kurage.cc) */ \n";
             
             $con .= ":root{";
             $con .= $cssr;
             $con .= $con_css_root; // while 結果の挿入
-            $con .= "} \n"; 
+            $con .= "} "; 
             
-            if($userjs){
-                $ver = $ver.'_j';
-            }
             
             //version small
-            $con .= " .compose-form::after{color:var(--f3);padding-left:var(--fx);font:var(--ff);width:var(--f2);height:var(--fh);background:no-repeat url('".$wtf."0'),var(--fg);content:'#InstanceTicker Type:".$types."';display:var(--fb);white-space:var(--fq);text-overflow:var(--fe);text-shadow:var(--fs);margin:var(--fm);border:var(--f1);border-image:linear-gradient(#bbb,#444) 30;}\n";
+            $con .= " .compose-form::after{color:var(--f3);padding-left:var(--fx);font:var(--ff);width:var(--f2);height:var(--fh);background:no-repeat url('data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoOAA4ACwDAJaACdAEMUYUAAMxOtAwNUDvt+qDscr6UxNye8ggAAA=='),var(--fg);content:'#InstanceTicker type".$types." / mod:".$ext2[0]."";
+            if($fost=='1'){$con.=' _h';} $con.="';display:var(--fb);white-space:var(--fq);text-overflow:var(--fe);text-shadow:var(--fs);margin:var(--fm);border:var(--f1);border-image:linear-gradient(#bbb,#444) 30;}";
             
             //version big
-            $con .= " .getting-started__footer::after{color:var(--f3);padding-left:var(--fy);font:var(--ff);width:var(--f2);height:68px!important;background:no-repeat url('".$verimg."'),var(--fg);content:'#InstanceTicker Type: ".$types."\A".$lver.".".$version3."/".$ver.".".$mversion3."\AURL: ".$srv2."/".$ext2[0]."/".$ext2[1].".htm';display:var(--fb);white-space:var(--fq);text-overflow:var(--fe);text-shadow:var(--fs);margin:var(--fm);border:var(--f1);border-image:linear-gradient(#bbb,#444) 30;}\n\n"; 
+            $con .= " .getting-started__footer::after{color:var(--f3);padding-left:var(--fy);font:var(--ff);width:var(--f2);height:68px!important;background:no-repeat url('".$verimg."'),var(--fg);content:'#InstanceTicker type".$types." / mod".$ext2[0]."";
+            if($fost=='1'){$con.=' _h';}
+            $con.="\A".$lver.".".$version3."/".$ver.".".$mversion3."\AURL: ".$srv2."/".$ext2[0]."/".$ext2[1].".htm";
+            if($fost=='1'){$con.='?fost';} $con.="';display:var(--fb);white-space:var(--fq);text-overflow:var(--fe);text-shadow:var(--fs);margin:var(--fm);border:var(--f1);border-image:linear-gradient(#bbb,#444) 30;}"; 
             
             $con .= $con_css; // while 結果の挿入
             
-            // 計測したい処理を入れてフッター
-            $con .= "\n"; 
             
-            $con64  = base64_encode($con);
-            $conlen = strlen($con64);
+
+            
+        if($ext1[1] == 'css' || empty($ext1[1])){ // .css
+            
+            if($ext1[2] == 'gz' ){ // .css.gz
+            
+                // 計測したい処理を入れてフッター
+                $conlen = strlen(gzencode($con, 9));
+                $conlenx = byteco($conlen);
+            
+                $con .= "\n";
+                $con .= "/* Size(gz): $conlenx / $j Instances! */";
+            
+                header('Content-Type: application/x-gzip');
+                $gzdata = gzencode($con, 9);
+                echo ($gzdata);
+                exit;
+            
+            }else{ // .css
+               
+               // 計測したい処理を入れてフッター
+               $conlen = strlen($con);
+               $conlenx = byteco($conlen);
+            
+               $con .= "\n";
+               $con .= "/*  Size"; if($fost=='1'){$con.='(fost)';} $con.=": $conlenx / $j Instances! */";
+            
+                           
+            }
             
             
-        if($ext1[1] == 'css' || empty($ext1[1])){
-            $conlen = $conlen - 383100;
-            $conlenx = byteco($conlen).'   */';
             
-            $con .= "/* Size: $conlenx \n";
-            $con .= "/* $j Instances! Miyon! */";
         }else{
-            $conlen = $conlen - 389968;
-            $conlenx = byteco($conlen).'   */';
+            $conlen = strlen($con);
+            $conlen = $conlen - 6210;
+            $conlenx = byteco($conlen);
             
-            $con .= "/* Size: $conlenx \n";
-            $con .= "/* $j Instances! Miyon! */";
+            $con .= "\n";
+            $con .= "/* Size: $conlenx / $j Instances! */";
             $con .= '</textarea></p><p>(For Beginner Admins!)</p></div>';
             // 計測したい処理を入れてフッター
             $con .= '<div class="box0">';
-            $con .= "<p>HTML:</p><p><textarea onclick='this.focus(); this.select();' wrap='on' rows='2' cols='52'><link rel='stylesheet' media='all' href='".$srv2."/".$ext2[0]."/".$types.".css' /></textarea></p>";
-            $con .= "<p>CSS @import:</p><p><textarea onclick='this.focus(); this.select();' wrap='on' rows='2' cols='52'>@import url(".$srv2."/".$ext2[0]."/".$types.".css);</textarea></p>";
+            $con .= "<p>HTML:</p><p><textarea onclick='this.focus(); this.select();' wrap='on' rows='2' cols='52'><link rel='stylesheet' media='all' href='".$srv2."/".$ext2[0]."/".$types.".css"; if($fost=='1'){$con.='?fost';} $con.="' /></textarea></p>";
+            $con .= "<p>CSS @import:</p><p><textarea onclick='this.focus(); this.select();' wrap='on' rows='2' cols='52'>@import url(".$srv2."/".$ext2[0]."/".$types.".css"; if($fost=='1'){$con.='?fost';} $con.=");</textarea></p>";
             $con .= '<p>(For Advanced Admins!)</p></div></div>';
             
             $con .= '<div class="box3">';
@@ -874,7 +969,7 @@ if($mod!=1 or empty($ext2[0])){// 不正なURLかcheck
             $con .= '</div>'.htmf('', $tit, $msg, $srv1, $srv2 );
         }
         
-        echo ($con);
+        echo $con;
         exit;
         break;
         
