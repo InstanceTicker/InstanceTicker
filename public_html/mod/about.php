@@ -1,11 +1,13 @@
 <?php
-
 //
-// #InstanceTicker v.0.4.1 (2023-01-17)
+// #InstanceTicker v.0.5.8 (2023-12-03)
 // /mod/about.php
-// (C)2018-2023 weepjp. Released under the MIT license.
 // https://github.com/InstanceTicker/InstanceTicker/
 //
+// (C)2018 #InstanceTicker Released under the MIT license.
+//
+//
+
 
 function svg_err($str){ // エラー表示用のSVG（不採用になったSVGの再利用）
     $result = "";
@@ -27,7 +29,14 @@ if($mod==1){// 不正なURLかcheck
     $tit .= ' - About';
 
 
-    $htmh.= '<div class="box3"><h2 class="box4" id="types">mod330 Types!</h2>';
+
+    
+
+    $htmh.= '<div class="box3">';
+    
+
+    
+    $htmh.= '<h2 class="box4" id="types">mod330 Types!</h2>';
     $htmh.= '<div class="box3" style="font-size:12px;text-align:center;">';
     $htmh.= '<p> | type0 | ';
     $htmh.= '<a href="'.$srv2.'/330/0.htm#css" target="_top">CSS</a> | ';
@@ -124,7 +133,7 @@ if($mod==1){// 不正なURLかcheck
     $con .= '<p>コミッター: <a href="https://miyon.miyon.org/@weepjp" target="_blank">weepjp</a>';
     $con .= '<div class="en"><p>Committer: <a href="https://miyon.miyon.org/@weepjp" target="_blank">weepjp</a></p></div>';
 
-    $con .= '<p><img src="https://34.si/miyon/" height="48" title="Miyon-Miyon"></p>';
+    $con .= '<p><img src="/miyon/" height="48" title="Miyon-Miyon"></p>';
     $con .= '<p>看板娘: みよんみよん';
     $con .= '<div class="en"><p>Mascot: Miyon-Miyon</p></div>';
 
