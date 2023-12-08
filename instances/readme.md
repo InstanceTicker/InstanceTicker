@@ -64,11 +64,11 @@
 
 <hr>
 
-### 同梱されている SNS Logo の提示
+### 同梱されている Image Logo の提示
 
-- 以下のとおりです。
+- Software define list
 
-| SNS   | SNS Class Name| Logo                             |
+| ID    | Software Names| IMG                              |
 | ----- | ------------- | -------------------------------- | 
 |   1   | Mastodon (jp) | ![Logo](https://34.si/1? "Logo") |
 |   2   | Mastodon      | ![Logo](https://34.si/2? "Logo") |
@@ -131,6 +131,23 @@
 |   59  | MISSINGNO.(X) |                                  |
 |   60  | Unknown       | ![Logo](https://34.si/Y? "Logo") |
 |   61  | MISSINGNO.(Z) |                                  |
+
+-  Other Image lists
+
+| ID    | Explanations  | IMG                               |
+| ----- | ------------- | --------------------------------- | 
+|   63  | Calckey Logo  | ![Logo](https://34.si/11? "Logo") |
+|   64  | Mastodon v2 ↓ | ![Logo](https://34.si/12? "Logo") |
+|   66  | Mastodon v3 ↓ | ![Logo](https://34.si/14? "Logo") |
+
+
+-  Instance Image lists
+
+| ID    | Explanations                      | IMG                               |
+| ----- | --------------------------------- | --------------------------------- | 
+|  273  | [hostdon](https://hostdon.jp/)    | ![Logo](https://34.si/4p? "Logo") |
+| 3026  | [masto.host](https://masto.host/) | ![Logo](https://34.si/MO? "Logo") |
+|  436  | [＋Plustodon](plustodon.net)      | ![Logo](https://34.si/72? "Logo") |
 
 
 <hr>
