@@ -145,9 +145,9 @@
 
 | ID    | Explanations                      | IMG                               |
 | ----- | --------------------------------- | --------------------------------- | 
-|  273  | [hostdon](https://hostdon.jp/)    | ![Logo](https://34.si/4p? "Logo") |
-| 3026  | [masto.host](https://masto.host/) | ![Logo](https://34.si/MO? "Logo") |
-|  436  | [＋Plustodon](plustodon.net)      | ![Logo](https://34.si/72? "Logo") |
+|  273  | [hostdon](https://hostdon.jp/)<br>*hostdon.jp    | ![Logo](https://34.si/4p? "Logo") |
+| 3026  | [masto.host](https://masto.host/)<br>*.masto.host | ![Logo](https://34.si/MO? "Logo") |
+|  436  | [＋Plustodon](https://plustodon.net)<br>(Public Domain IMG)      | ![Logo](https://34.si/72? "Logo") |
 
 
 <hr>
