@@ -11,7 +11,7 @@
 - 「 [34.si](https://34.si) 」では、そのフォークを稼働させています。
 
 ## Appearance 見た目
-![image](https://user-images.githubusercontent.com/3696720/213913597-5484c239-add8-4a32-b8c2-7788f081da81.png)
+![image](https://github.com/InstanceTicker/InstanceTicker/assets/3696720/16145491-0e8e-48f3-b072-8a0827046796)
 
 ## Usage - 使い方
 - [Wiki](https://github.com/InstanceTicker/InstanceTicker/wiki/) を参照ください。
