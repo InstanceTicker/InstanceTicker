@@ -1,3 +1,9 @@
+| ⚠️<br>重要なお知らせ<br>Important Notice |
+| ---- |
+| 2024/10/06 より、アップデート凍結と、当リポジトリの削除が行われます。ご了承ください。<br>As of October 6, 2024, updates will be frozen and this repository will be deleted. Thank you for your understanding. | 
+
+---
+
 ![image](https://user-images.githubusercontent.com/3696720/215840789-6eba6f40-40ac-45ef-85c2-1f1a2623a9ac.png)
 
 # InstanceTicker
