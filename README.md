@@ -1,6 +1,6 @@
 | ⚠️<br>重要なお知らせ<br>Important Notice |
 | ---- |
-| 2024/10/06 より、アップデート凍結と、当リポジトリの削除が行われます。ご了承ください。<br>As of October 6, 2024, updates will be frozen and this repository will be deleted. Thank you for your understanding. | 
+| 2024/10/06 より、アップデート凍結します。ご了承ください。<br>As of October 6, 2024, updates will be frozen. Thank you for your understanding. | 
 
 ---
 
