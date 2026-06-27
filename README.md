@@ -29,11 +29,9 @@
 
 ---
 
-# Operation Site
-- [34.si](https://34.si)
 
 # Website
-- [#InstanceTicker](https://inst.ance.tk)
+- [ticker.jp](https://ticker.jp)
 
 ---
 
