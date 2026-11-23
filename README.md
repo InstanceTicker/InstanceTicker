@@ -31,7 +31,7 @@
 
 
 # Website
-- [ticker.jp](https://ticker.jp)
+- [ticker.weep.jp](https://ticker.weep.jp)
 
 ---
 
